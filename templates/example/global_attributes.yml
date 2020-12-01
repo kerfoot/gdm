@@ -24,7 +24,7 @@ date_created: ' '
 date_issued: ' '
 date_metadata_modified: ' '
 date_modified: ' '
-featureType: Trajectory
+featureType: trajectory
 geospatial_bounds: ' '
 geospatial_bounds_crs: EPSG:4326
 geospatial_bounds_vertical_crs: EPSG:5831

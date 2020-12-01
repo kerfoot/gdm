@@ -3,7 +3,6 @@
 # YAML representation of required and recommended global attributes
 # Taken from: https://standards.sensors.ioos.us/erddap/info/morro-bay-bs1-met/index.html
 # Required global attributes that MUST be provided by the data provider when registering a dataset for processing.
-Conventions: CF-1.6, ACDD-1.3, IOOS-1.2
 acknowledgment: Funding and support provided by the G. Unger Vetlesen Foundation with
   additional support from OCOVI and CARICOOS
 comment: Deployed by Antonio Farchetti, Kenique Liburd, Dan Mele, Madyson Miller (OCOVI)
@@ -21,11 +20,6 @@ creator_name: John Kerfoot
 creator_sector: academic
 creator_type: person
 creator_url: https://rucool.marine.rutgers.edu
-date_created: ' '
-date_issued: ' '
-date_metadata_modified: ' '
-date_modified: ' '
-featureType: Trajectory
 gts_ingest: 'True'
 history: ' '
 id: ' '
