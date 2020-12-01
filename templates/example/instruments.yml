@@ -1,0 +1,45 @@
+- attrs:
+    calibration_date: '2019-07-21'
+    calibration_report: ' '
+    comment: Pumped CTD
+    deployment: ' '
+    factory_calibrated: '2019-07-21'
+    long_name: CTD
+    make_model: Sea-Bird GPCTD
+    owner: Rutgers University
+    platform: platform
+    serial_number: 9104P
+    type: instrument
+    user_calibrated: ' '
+  cfg_file: /Users/kerfoot/data/gliders/config/instruments/9104P-ctd.yml
+  nc_var_name: instrument_ctd
+  type: i4
+- attrs:
+    calibration_date: '2015-10-16'
+    calibration_report: ' '
+    comment: Chlorophyll a,beta700nm,CDOM
+    factory_calibrated: '2015-10-16'
+    long_name: ECO Triplet Puck
+    make_model: Sea-Bird ECO Triplet flbbcdslc
+    platform: platform
+    serial_number: '4156'
+    type: instrument
+    user_calibrated: ' '
+  cfg_file: /Users/kerfoot/data/gliders/config/instruments/4156-flbbcdslc.yml
+  nc_var_name: instrument_flbbcd
+  type: i4
+- attrs:
+    calibration_date: '2020-04-23'
+    calibration_report: ' '
+    comment: Nortek Glider System 1000Khz
+    factory_calibrated: '2020-04-23'
+    long_name: ADCP
+    make_model: Nortek Signature 1000 AD2CP
+    owner: Rutgers University
+    platform: platform
+    serial_number: '101591'
+    type: instrument
+    user_calibrated: ' '
+  cfg_file: /Users/kerfoot/data/gliders/config/instruments/101591-adcp.yml
+  nc_var_name: instrument_adcp
+  type: i4

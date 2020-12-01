@@ -1,0 +1,12 @@
+glider: ru29
+platform:
+  comment: USVI Challenger deployment out of St. Thomas U.S. Virgin Islands
+  depth_rating: 1200m
+  glider_type: Teledyne Webb Research Slocum G2 glider
+  id: ru29
+  instrument: instrument_ctd,instrument_adcp
+  long_name: ru29 Slocum G2 glider
+  os_version: '8.3'
+  type: platform
+  wmo_platform_code: '4802960'
+trajectory_name: ru29-20200908T1623
