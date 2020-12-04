@@ -1,0 +1,7 @@
+sci_dvl_we_vel_good:
+  attrs:
+    long_name: sci_dvl_we_vel_good
+    sensor: sci_dvl_we_vel_good
+    units: bool
+  dtype: i1
+  nc_var_name: sci_dvl_we_vel_good

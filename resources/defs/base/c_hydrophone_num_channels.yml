@@ -1,0 +1,7 @@
+c_hydrophone_num_channels:
+  attrs:
+    long_name: c_hydrophone_num_channels
+    sensor: c_hydrophone_num_channels
+    units: nodim
+  dtype: f4
+  nc_var_name: c_hydrophone_num_channels

@@ -1,0 +1,7 @@
+xs_battroll:
+  attrs:
+    long_name: xs_battroll
+    sensor: xs_battroll
+    units: rad
+  dtype: f4
+  nc_var_name: xs_battroll

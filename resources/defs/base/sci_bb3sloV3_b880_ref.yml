@@ -1,0 +1,7 @@
+sci_bb3sloV3_b880_ref:
+  attrs:
+    long_name: sci_bb3sloV3_b880_ref
+    sensor: sci_bb3sloV3_b880_ref
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_bb3sloV3_b880_ref

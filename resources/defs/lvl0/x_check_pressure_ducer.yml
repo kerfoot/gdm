@@ -1,0 +1,7 @@
+x_check_pressure_ducer:
+  attrs:
+    long_name: x_check_pressure_ducer
+    sensor: x_check_pressure_ducer
+    units: bool
+  dtype: i1
+  nc_var_name: x_check_pressure_ducer

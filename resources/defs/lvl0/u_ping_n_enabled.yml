@@ -1,0 +1,7 @@
+u_ping_n_enabled:
+  attrs:
+    long_name: u_ping_n_enabled
+    sensor: u_ping_n_enabled
+    units: bool
+  dtype: i1
+  nc_var_name: u_ping_n_enabled

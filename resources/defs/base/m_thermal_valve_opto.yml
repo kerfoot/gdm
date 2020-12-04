@@ -1,0 +1,7 @@
+m_thermal_valve_opto:
+  attrs:
+    long_name: m_thermal_valve_opto
+    sensor: m_thermal_valve_opto
+    units: nodim
+  dtype: f4
+  nc_var_name: m_thermal_valve_opto

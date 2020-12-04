@@ -1,0 +1,7 @@
+u_ap_thruster_power_p_gain:
+  attrs:
+    long_name: u_ap_thruster_power_p_gain
+    sensor: u_ap_thruster_power_p_gain
+    units: nodim
+  dtype: f4
+  nc_var_name: u_ap_thruster_power_p_gain

@@ -1,0 +1,7 @@
+sci_svs603_hmax2:
+  attrs:
+    long_name: sci_svs603_hmax2
+    sensor: sci_svs603_hmax2
+    units: m
+  dtype: f4
+  nc_var_name: sci_svs603_hmax2

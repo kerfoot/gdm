@@ -1,0 +1,7 @@
+u_lat_goto_l99:
+  attrs:
+    long_name: u_lat_goto_l99
+    sensor: u_lat_goto_l99
+    units: lat
+  dtype: f8
+  nc_var_name: u_lat_goto_l99

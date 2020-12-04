@@ -1,0 +1,7 @@
+m_de_oil_flux_retract:
+  attrs:
+    long_name: m_de_oil_flux_retract
+    sensor: m_de_oil_flux_retract
+    units: cc/sec
+  dtype: f4
+  nc_var_name: m_de_oil_flux_retract

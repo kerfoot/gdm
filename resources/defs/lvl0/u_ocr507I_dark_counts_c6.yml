@@ -1,0 +1,7 @@
+u_ocr507I_dark_counts_c6:
+  attrs:
+    long_name: u_ocr507I_dark_counts_c6
+    sensor: u_ocr507I_dark_counts_c6
+    units: nodim
+  dtype: f4
+  nc_var_name: u_ocr507I_dark_counts_c6

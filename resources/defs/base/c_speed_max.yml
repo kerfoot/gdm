@@ -1,0 +1,7 @@
+c_speed_max:
+  attrs:
+    long_name: c_speed_max
+    sensor: c_speed_max
+    units: m/s
+  dtype: f4
+  nc_var_name: c_speed_max

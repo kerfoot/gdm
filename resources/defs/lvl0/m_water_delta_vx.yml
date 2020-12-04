@@ -1,0 +1,7 @@
+m_water_delta_vx:
+  attrs:
+    long_name: m_water_delta_vx
+    sensor: m_water_delta_vx
+    units: m/s
+  dtype: f4
+  nc_var_name: m_water_delta_vx

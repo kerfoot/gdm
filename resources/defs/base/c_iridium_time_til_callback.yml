@@ -1,0 +1,7 @@
+c_iridium_time_til_callback:
+  attrs:
+    long_name: c_iridium_time_til_callback
+    sensor: c_iridium_time_til_callback
+    units: sec
+  dtype: f4
+  nc_var_name: c_iridium_time_til_callback

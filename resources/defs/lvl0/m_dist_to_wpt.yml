@@ -1,0 +1,7 @@
+m_dist_to_wpt:
+  attrs:
+    long_name: m_dist_to_wpt
+    sensor: m_dist_to_wpt
+    units: m
+  dtype: f4
+  nc_var_name: m_dist_to_wpt

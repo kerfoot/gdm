@@ -1,0 +1,7 @@
+f_pitch_fluid_pumped_cal_m:
+  attrs:
+    long_name: f_pitch_fluid_pumped_cal_m
+    sensor: f_pitch_fluid_pumped_cal_m
+    units: rad/cc
+  dtype: f4
+  nc_var_name: f_pitch_fluid_pumped_cal_m

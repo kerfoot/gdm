@@ -1,0 +1,7 @@
+u_battpos_microposition:
+  attrs:
+    long_name: u_battpos_microposition
+    sensor: u_battpos_microposition
+    units: bool
+  dtype: i1
+  nc_var_name: u_battpos_microposition

@@ -1,0 +1,7 @@
+u_bb2fV2_chlor_sf:
+  attrs:
+    long_name: u_bb2fV2_chlor_sf
+    sensor: u_bb2fV2_chlor_sf
+    units: ug/l/nodim
+  dtype: f4
+  nc_var_name: u_bb2fV2_chlor_sf

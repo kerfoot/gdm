@@ -1,0 +1,7 @@
+sci_oxy3835_temp:
+  attrs:
+    long_name: sci_oxy3835_temp
+    sensor: sci_oxy3835_temp
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_oxy3835_temp

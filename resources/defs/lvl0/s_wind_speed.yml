@@ -1,0 +1,7 @@
+s_wind_speed:
+  attrs:
+    long_name: s_wind_speed
+    sensor: s_wind_speed
+    units: m/s
+  dtype: f4
+  nc_var_name: s_wind_speed

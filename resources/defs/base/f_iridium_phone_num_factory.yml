@@ -1,0 +1,7 @@
+f_iridium_phone_num_factory:
+  attrs:
+    long_name: f_iridium_phone_num_factory
+    sensor: f_iridium_phone_num_factory
+    units: digits
+  dtype: f4
+  nc_var_name: f_iridium_phone_num_factory

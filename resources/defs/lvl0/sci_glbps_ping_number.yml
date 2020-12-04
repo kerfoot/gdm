@@ -1,0 +1,7 @@
+sci_glbps_ping_number:
+  attrs:
+    long_name: sci_glbps_ping_number
+    sensor: sci_glbps_ping_number
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_glbps_ping_number

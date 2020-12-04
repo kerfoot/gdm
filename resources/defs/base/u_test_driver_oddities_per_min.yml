@@ -1,0 +1,7 @@
+u_test_driver_oddities_per_min:
+  attrs:
+    long_name: u_test_driver_oddities_per_min
+    sensor: u_test_driver_oddities_per_min
+    units: nodim
+  dtype: f4
+  nc_var_name: u_test_driver_oddities_per_min

@@ -1,0 +1,89 @@
+# Masterdata instrument types -> instrument_* mappings
+FIRe: 
+ad2cp: 
+array: 
+auvb: 
+azfp: 
+badd: 
+bam: 
+bb2c: 
+bb2fV2: 
+bb2f: 
+bb2flsV2: bb2fls
+bb2flsV3: bb2fls
+bb2flsV4: bb2fls
+bb2flsV5: bb2fls
+bb2flsV6: bb2fls
+bb2flsV7: bb2fls
+bb2flsV8: bb2fls
+bb2flsV9: bb2fls
+bb2fls: 
+bb2lss: 
+bb3sloV2: bb3slo
+bb3sloV3: bb3slo
+bb3slo: 
+bbam: 
+bbfl2sV2: bbfl2s
+bbfl2s: 
+bsipar: 
+c3sfl: 
+ctd41: ctd
+ctd41cp2: ctd
+ctd41cp: ctd
+ctd: 
+dmon: 
+dvl: 
+echosndr853: 
+fl2PeCdom: 
+fl2UrRh: 
+fl3sloV2: fl3slo
+fl3slo: 
+flbb: 
+flbbbbV1: flbbbb
+flbbbbV2: flbbb
+flbbcd: 
+flbbrh: 
+flntu: 
+flrh: 
+flur: 
+glbps: 
+hard: 
+hydrophone: 
+lisst: 
+lms: 
+logger: 
+microRider: 
+miniProCO2: 
+moteopd: 
+nbctd: 
+obsvr: 
+ocr504I: 
+ocr504R: 
+ocr507I: 
+ocr507R: 
+oxy3835: 
+oxy4: 
+pCO2: 
+rbrctd: 
+rinkoII: 
+sam: 
+satpar: 
+sbe41n: ctd
+sbmb: 
+seaOWL: 
+sscsd: 
+suna: 
+svs603: 
+tarr: 
+uModem: 
+ubat: 
+uviluxPAH: 
+viper: 
+vr2c: 
+vsf: 
+water: ctd
+wetlabsA: wetlabs
+wetlabsB: wetlabs
+wetlabsC: wetlabs
+wetlabs: 
+whfctd: 

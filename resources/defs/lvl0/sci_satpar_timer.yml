@@ -1,0 +1,7 @@
+sci_satpar_timer:
+  attrs:
+    long_name: sci_satpar_timer
+    sensor: sci_satpar_timer
+    units: sec
+  dtype: f4
+  nc_var_name: sci_satpar_timer

@@ -1,0 +1,7 @@
+x_pitch_ap_dgain:
+  attrs:
+    long_name: x_pitch_ap_dgain
+    sensor: x_pitch_ap_dgain
+    units: s/rad
+  dtype: f4
+  nc_var_name: x_pitch_ap_dgain

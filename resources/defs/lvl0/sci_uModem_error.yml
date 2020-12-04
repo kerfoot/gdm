@@ -1,0 +1,7 @@
+sci_uModem_error:
+  attrs:
+    long_name: sci_uModem_error
+    sensor: sci_uModem_error
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_uModem_error

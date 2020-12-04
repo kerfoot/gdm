@@ -1,0 +1,7 @@
+c_viper_gain:
+  attrs:
+    long_name: c_viper_gain
+    sensor: c_viper_gain
+    units: nodim
+  dtype: f4
+  nc_var_name: c_viper_gain

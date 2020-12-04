@@ -1,0 +1,7 @@
+sci_sbe41n_ph_electrode_voltage:
+  attrs:
+    long_name: sci_sbe41n_ph_electrode_voltage
+    sensor: sci_sbe41n_ph_electrode_voltage
+    units: volts
+  dtype: f4
+  nc_var_name: sci_sbe41n_ph_electrode_voltage

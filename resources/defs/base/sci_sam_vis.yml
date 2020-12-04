@@ -1,0 +1,7 @@
+sci_sam_vis:
+  attrs:
+    long_name: sci_sam_vis
+    sensor: sci_sam_vis
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_sam_vis

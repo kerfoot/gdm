@@ -1,0 +1,7 @@
+m_valve_pos_ad:
+  attrs:
+    long_name: m_valve_pos_ad
+    sensor: m_valve_pos_ad
+    units: nodim
+  dtype: f4
+  nc_var_name: m_valve_pos_ad

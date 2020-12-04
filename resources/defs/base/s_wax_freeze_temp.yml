@@ -1,0 +1,7 @@
+s_wax_freeze_temp:
+  attrs:
+    long_name: s_wax_freeze_temp
+    sensor: s_wax_freeze_temp
+    units: degC
+  dtype: f4
+  nc_var_name: s_wax_freeze_temp

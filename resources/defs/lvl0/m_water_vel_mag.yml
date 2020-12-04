@@ -1,0 +1,7 @@
+m_water_vel_mag:
+  attrs:
+    long_name: m_water_vel_mag
+    sensor: m_water_vel_mag
+    units: m/s
+  dtype: f4
+  nc_var_name: m_water_vel_mag

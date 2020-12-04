@@ -1,0 +1,7 @@
+xs_thermal_acc_oil_vol:
+  attrs:
+    long_name: xs_thermal_acc_oil_vol
+    sensor: xs_thermal_acc_oil_vol
+    units: cc
+  dtype: f4
+  nc_var_name: xs_thermal_acc_oil_vol

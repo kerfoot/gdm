@@ -1,0 +1,7 @@
+c_suna_on:
+  attrs:
+    long_name: c_suna_on
+    sensor: c_suna_on
+    units: sec
+  dtype: f4
+  nc_var_name: c_suna_on

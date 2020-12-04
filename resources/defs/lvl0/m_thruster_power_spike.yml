@@ -1,0 +1,7 @@
+m_thruster_power_spike:
+  attrs:
+    long_name: m_thruster_power_spike
+    sensor: m_thruster_power_spike
+    units: enum
+  dtype: i1
+  nc_var_name: m_thruster_power_spike

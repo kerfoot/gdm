@@ -1,0 +1,7 @@
+x_att_cal_sample:
+  attrs:
+    long_name: x_att_cal_sample
+    sensor: x_att_cal_sample
+    units: nodim
+  dtype: f4
+  nc_var_name: x_att_cal_sample

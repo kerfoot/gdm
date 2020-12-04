@@ -1,0 +1,7 @@
+c_veh_temp_recall:
+  attrs:
+    long_name: c_veh_temp_recall
+    sensor: c_veh_temp_recall
+    units: msec
+  dtype: f4
+  nc_var_name: c_veh_temp_recall

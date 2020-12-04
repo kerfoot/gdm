@@ -1,0 +1,7 @@
+u_surface_est_time_constant:
+  attrs:
+    long_name: u_surface_est_time_constant
+    sensor: u_surface_est_time_constant
+    units: secs
+  dtype: f4
+  nc_var_name: u_surface_est_time_constant

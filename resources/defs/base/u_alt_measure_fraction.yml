@@ -1,0 +1,7 @@
+u_alt_measure_fraction:
+  attrs:
+    long_name: u_alt_measure_fraction
+    sensor: u_alt_measure_fraction
+    units: nodim
+  dtype: f4
+  nc_var_name: u_alt_measure_fraction

@@ -1,0 +1,7 @@
+u_depth_rate_thr_avg_num:
+  attrs:
+    long_name: u_depth_rate_thr_avg_num
+    sensor: u_depth_rate_thr_avg_num
+    units: enum
+  dtype: i1
+  nc_var_name: u_depth_rate_thr_avg_num

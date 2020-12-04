@@ -1,0 +1,7 @@
+u_alt_debug:
+  attrs:
+    long_name: u_alt_debug
+    sensor: u_alt_debug
+    units: bool
+  dtype: i1
+  nc_var_name: u_alt_debug

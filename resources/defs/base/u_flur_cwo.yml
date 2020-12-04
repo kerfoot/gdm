@@ -1,0 +1,7 @@
+u_flur_cwo:
+  attrs:
+    long_name: u_flur_cwo
+    sensor: u_flur_cwo
+    units: nodim
+  dtype: f4
+  nc_var_name: u_flur_cwo

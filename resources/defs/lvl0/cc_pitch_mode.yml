@@ -1,0 +1,7 @@
+cc_pitch_mode:
+  attrs:
+    long_name: cc_pitch_mode
+    sensor: cc_pitch_mode
+    units: enum
+  dtype: i1
+  nc_var_name: cc_pitch_mode

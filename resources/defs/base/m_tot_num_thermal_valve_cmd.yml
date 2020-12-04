@@ -1,0 +1,7 @@
+m_tot_num_thermal_valve_cmd:
+  attrs:
+    long_name: m_tot_num_thermal_valve_cmd
+    sensor: m_tot_num_thermal_valve_cmd
+    units: nodim
+  dtype: f4
+  nc_var_name: m_tot_num_thermal_valve_cmd

@@ -1,0 +1,7 @@
+f_pitch_battpos_cal_b:
+  attrs:
+    long_name: f_pitch_battpos_cal_b
+    sensor: f_pitch_battpos_cal_b
+    units: in
+  dtype: f4
+  nc_var_name: f_pitch_battpos_cal_b

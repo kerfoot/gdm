@@ -1,0 +1,7 @@
+sci_ocr504R_delay:
+  attrs:
+    long_name: sci_ocr504R_delay
+    sensor: sci_ocr504R_delay
+    units: msec
+  dtype: f4
+  nc_var_name: sci_ocr504R_delay

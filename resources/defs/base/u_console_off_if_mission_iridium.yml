@@ -1,0 +1,7 @@
+u_console_off_if_mission_iridium:
+  attrs:
+    long_name: u_console_off_if_mission_iridium
+    sensor: u_console_off_if_mission_iridium
+    units: bool
+  dtype: i1
+  nc_var_name: u_console_off_if_mission_iridium

@@ -1,0 +1,7 @@
+x_hardware_cop_timeout:
+  attrs:
+    long_name: x_hardware_cop_timeout
+    sensor: x_hardware_cop_timeout
+    units: hours
+  dtype: f4
+  nc_var_name: x_hardware_cop_timeout

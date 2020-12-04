@@ -1,0 +1,7 @@
+u_digifin_debug:
+  attrs:
+    long_name: u_digifin_debug
+    sensor: u_digifin_debug
+    units: nodim
+  dtype: f4
+  nc_var_name: u_digifin_debug

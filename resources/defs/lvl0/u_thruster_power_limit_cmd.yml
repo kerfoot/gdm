@@ -1,0 +1,7 @@
+u_thruster_power_limit_cmd:
+  attrs:
+    long_name: u_thruster_power_limit_cmd
+    sensor: u_thruster_power_limit_cmd
+    units: '%'
+  dtype: f4
+  nc_var_name: u_thruster_power_limit_cmd

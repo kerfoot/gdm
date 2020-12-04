@@ -1,0 +1,7 @@
+m_argos_timestamp:
+  attrs:
+    long_name: m_argos_timestamp
+    sensor: m_argos_timestamp
+    units: timestamp
+  dtype: f8
+  nc_var_name: m_argos_timestamp

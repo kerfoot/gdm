@@ -1,0 +1,7 @@
+m_battery_inst_volt_diff:
+  attrs:
+    long_name: m_battery_inst_volt_diff
+    sensor: m_battery_inst_volt_diff
+    units: '%'
+  dtype: f4
+  nc_var_name: m_battery_inst_volt_diff

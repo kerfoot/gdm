@@ -1,0 +1,7 @@
+x_hover_depth_pitch_limit:
+  attrs:
+    long_name: x_hover_depth_pitch_limit
+    sensor: x_hover_depth_pitch_limit
+    units: rad
+  dtype: f4
+  nc_var_name: x_hover_depth_pitch_limit

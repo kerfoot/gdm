@@ -1,0 +1,7 @@
+f_depth_rate_method:
+  attrs:
+    long_name: f_depth_rate_method
+    sensor: f_depth_rate_method
+    units: enum
+  dtype: i1
+  nc_var_name: f_depth_rate_method

@@ -1,0 +1,7 @@
+sci_flntu_turb_units:
+  attrs:
+    long_name: sci_flntu_turb_units
+    sensor: sci_flntu_turb_units
+    units: NTU
+  dtype: f4
+  nc_var_name: sci_flntu_turb_units

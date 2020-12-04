@@ -1,0 +1,7 @@
+u_battery_inst_pump_deep_depth:
+  attrs:
+    long_name: u_battery_inst_pump_deep_depth
+    sensor: u_battery_inst_pump_deep_depth
+    units: m
+  dtype: f4
+  nc_var_name: u_battery_inst_pump_deep_depth

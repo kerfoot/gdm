@@ -1,0 +1,7 @@
+m_altitude_rate:
+  attrs:
+    long_name: m_altitude_rate
+    sensor: m_altitude_rate
+    units: m/s
+  dtype: f4
+  nc_var_name: m_altitude_rate

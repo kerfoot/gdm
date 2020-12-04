@@ -1,0 +1,7 @@
+sci_FIRe_par:
+  attrs:
+    long_name: sci_FIRe_par
+    sensor: sci_FIRe_par
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_FIRe_par

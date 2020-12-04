@@ -1,0 +1,7 @@
+c_fl3sloV2_on:
+  attrs:
+    long_name: c_fl3sloV2_on
+    sensor: c_fl3sloV2_on
+    units: sec
+  dtype: f4
+  nc_var_name: c_fl3sloV2_on

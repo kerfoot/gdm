@@ -1,0 +1,7 @@
+sci_lisst_rbn1_file:
+  attrs:
+    long_name: sci_lisst_rbn1_file
+    sensor: sci_lisst_rbn1_file
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_lisst_rbn1_file

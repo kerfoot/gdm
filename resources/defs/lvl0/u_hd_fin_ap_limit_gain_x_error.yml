@@ -1,0 +1,7 @@
+u_hd_fin_ap_limit_gain_x_error:
+  attrs:
+    long_name: u_hd_fin_ap_limit_gain_x_error
+    sensor: u_hd_fin_ap_limit_gain_x_error
+    units: rad
+  dtype: f4
+  nc_var_name: u_hd_fin_ap_limit_gain_x_error

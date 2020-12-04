@@ -1,0 +1,7 @@
+sci_ocr507R_channel3:
+  attrs:
+    long_name: sci_ocr507R_channel3
+    sensor: sci_ocr507R_channel3
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_ocr507R_channel3

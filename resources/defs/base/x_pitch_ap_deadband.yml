@@ -1,0 +1,7 @@
+x_pitch_ap_deadband:
+  attrs:
+    long_name: x_pitch_ap_deadband
+    sensor: x_pitch_ap_deadband
+    units: rad
+  dtype: f4
+  nc_var_name: x_pitch_ap_deadband

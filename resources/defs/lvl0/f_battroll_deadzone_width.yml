@@ -1,0 +1,7 @@
+f_battroll_deadzone_width:
+  attrs:
+    long_name: f_battroll_deadzone_width
+    sensor: f_battroll_deadzone_width
+    units: rad
+  dtype: f4
+  nc_var_name: f_battroll_deadzone_width

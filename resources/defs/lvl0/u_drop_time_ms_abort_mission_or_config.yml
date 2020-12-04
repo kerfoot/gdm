@@ -1,0 +1,7 @@
+u_drop_time_ms_abort_mission_or_config:
+  attrs:
+    long_name: u_drop_time_ms_abort_mission_or_config
+    sensor: u_drop_time_ms_abort_mission_or_config
+    units: bool
+  dtype: i1
+  nc_var_name: u_drop_time_ms_abort_mission_or_config

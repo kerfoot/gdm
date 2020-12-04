@@ -1,0 +1,7 @@
+f_battpos_safety_max:
+  attrs:
+    long_name: f_battpos_safety_max
+    sensor: f_battpos_safety_max
+    units: inches
+  dtype: f4
+  nc_var_name: f_battpos_safety_max

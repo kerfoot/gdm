@@ -1,0 +1,7 @@
+u_fly_deep_in_shallow:
+  attrs:
+    long_name: u_fly_deep_in_shallow
+    sensor: u_fly_deep_in_shallow
+    units: bool
+  dtype: i1
+  nc_var_name: u_fly_deep_in_shallow

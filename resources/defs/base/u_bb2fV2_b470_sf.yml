@@ -1,0 +1,7 @@
+u_bb2fV2_b470_sf:
+  attrs:
+    long_name: u_bb2fV2_b470_sf
+    sensor: u_bb2fV2_b470_sf
+    units: Mnodim
+  dtype: f4
+  nc_var_name: u_bb2fV2_b470_sf

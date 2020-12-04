@@ -1,0 +1,7 @@
+u_thruster_inflection_holdoff_deep:
+  attrs:
+    long_name: u_thruster_inflection_holdoff_deep
+    sensor: u_thruster_inflection_holdoff_deep
+    units: sec
+  dtype: f4
+  nc_var_name: u_thruster_inflection_holdoff_deep

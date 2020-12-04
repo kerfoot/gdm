@@ -1,0 +1,7 @@
+m_digifin_motorstep_counter:
+  attrs:
+    long_name: m_digifin_motorstep_counter
+    sensor: m_digifin_motorstep_counter
+    units: nodim
+  dtype: f4
+  nc_var_name: m_digifin_motorstep_counter

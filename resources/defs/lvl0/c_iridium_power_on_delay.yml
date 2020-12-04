@@ -1,0 +1,7 @@
+c_iridium_power_on_delay:
+  attrs:
+    long_name: c_iridium_power_on_delay
+    sensor: c_iridium_power_on_delay
+    units: sec
+  dtype: f4
+  nc_var_name: c_iridium_power_on_delay

@@ -1,0 +1,7 @@
+sci_reqd_heartbeat:
+  attrs:
+    long_name: sci_reqd_heartbeat
+    sensor: sci_reqd_heartbeat
+    units: secs
+  dtype: f4
+  nc_var_name: sci_reqd_heartbeat

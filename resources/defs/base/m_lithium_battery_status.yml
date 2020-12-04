@@ -1,0 +1,7 @@
+m_lithium_battery_status:
+  attrs:
+    long_name: m_lithium_battery_status
+    sensor: m_lithium_battery_status
+    units: nodim
+  dtype: f4
+  nc_var_name: m_lithium_battery_status

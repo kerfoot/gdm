@@ -1,0 +1,7 @@
+sci_water_pressure:
+  attrs:
+    long_name: sci_water_pressure
+    sensor: sci_water_pressure
+    units: bar
+  dtype: f4
+  nc_var_name: sci_water_pressure

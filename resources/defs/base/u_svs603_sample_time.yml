@@ -1,0 +1,7 @@
+u_svs603_sample_time:
+  attrs:
+    long_name: u_svs603_sample_time
+    sensor: u_svs603_sample_time
+    units: secs
+  dtype: f4
+  nc_var_name: u_svs603_sample_time

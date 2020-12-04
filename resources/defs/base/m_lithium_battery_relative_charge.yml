@@ -1,0 +1,7 @@
+m_lithium_battery_relative_charge:
+  attrs:
+    long_name: m_lithium_battery_relative_charge
+    sensor: m_lithium_battery_relative_charge
+    units: '%'
+  dtype: f4
+  nc_var_name: m_lithium_battery_relative_charge

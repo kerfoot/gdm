@@ -1,0 +1,7 @@
+u_bb2flsV4_chl_cwo:
+  attrs:
+    long_name: u_bb2flsV4_chl_cwo
+    sensor: u_bb2flsV4_chl_cwo
+    units: nodim
+  dtype: f4
+  nc_var_name: u_bb2flsV4_chl_cwo

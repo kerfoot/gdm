@@ -1,0 +1,7 @@
+m_min_free_heap:
+  attrs:
+    long_name: m_min_free_heap
+    sensor: m_min_free_heap
+    units: bytes
+  dtype: f4
+  nc_var_name: m_min_free_heap

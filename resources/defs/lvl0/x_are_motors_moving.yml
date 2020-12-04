@@ -1,0 +1,7 @@
+x_are_motors_moving:
+  attrs:
+    long_name: x_are_motors_moving
+    sensor: x_are_motors_moving
+    units: bool
+  dtype: i1
+  nc_var_name: x_are_motors_moving

@@ -1,0 +1,7 @@
+xs_battpos:
+  attrs:
+    long_name: xs_battpos
+    sensor: xs_battpos
+    units: in
+  dtype: f4
+  nc_var_name: xs_battpos

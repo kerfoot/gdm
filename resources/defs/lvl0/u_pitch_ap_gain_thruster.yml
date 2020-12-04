@@ -1,0 +1,7 @@
+u_pitch_ap_gain_thruster:
+  attrs:
+    long_name: u_pitch_ap_gain_thruster
+    sensor: u_pitch_ap_gain_thruster
+    units: 1/rad
+  dtype: f4
+  nc_var_name: u_pitch_ap_gain_thruster

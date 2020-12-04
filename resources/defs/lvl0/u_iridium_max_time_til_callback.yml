@@ -1,0 +1,7 @@
+u_iridium_max_time_til_callback:
+  attrs:
+    long_name: u_iridium_max_time_til_callback
+    sensor: u_iridium_max_time_til_callback
+    units: sec
+  dtype: f4
+  nc_var_name: u_iridium_max_time_til_callback

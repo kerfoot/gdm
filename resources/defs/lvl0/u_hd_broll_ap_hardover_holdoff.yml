@@ -1,0 +1,7 @@
+u_hd_broll_ap_hardover_holdoff:
+  attrs:
+    long_name: u_hd_broll_ap_hardover_holdoff
+    sensor: u_hd_broll_ap_hardover_holdoff
+    units: sec
+  dtype: f4
+  nc_var_name: u_hd_broll_ap_hardover_holdoff

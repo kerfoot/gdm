@@ -1,0 +1,7 @@
+f_veh_temp_threshold:
+  attrs:
+    long_name: f_veh_temp_threshold
+    sensor: f_veh_temp_threshold
+    units: c
+  dtype: f4
+  nc_var_name: f_veh_temp_threshold

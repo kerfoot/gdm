@@ -1,0 +1,7 @@
+m_hdg_derror:
+  attrs:
+    long_name: m_hdg_derror
+    sensor: m_hdg_derror
+    units: rad/sec
+  dtype: f4
+  nc_var_name: m_hdg_derror

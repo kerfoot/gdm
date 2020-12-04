@@ -1,0 +1,7 @@
+f_thermal_reqd_acc_pres:
+  attrs:
+    long_name: f_thermal_reqd_acc_pres
+    sensor: f_thermal_reqd_acc_pres
+    units: bar
+  dtype: f4
+  nc_var_name: f_thermal_reqd_acc_pres

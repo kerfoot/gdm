@@ -1,0 +1,7 @@
+sci_software_ver:
+  attrs:
+    long_name: sci_software_ver
+    sensor: sci_software_ver
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_software_ver

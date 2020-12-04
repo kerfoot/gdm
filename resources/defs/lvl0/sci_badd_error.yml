@@ -1,0 +1,7 @@
+sci_badd_error:
+  attrs:
+    long_name: sci_badd_error
+    sensor: sci_badd_error
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_badd_error

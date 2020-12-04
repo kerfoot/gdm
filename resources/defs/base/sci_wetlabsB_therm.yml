@@ -1,0 +1,7 @@
+sci_wetlabsB_therm:
+  attrs:
+    long_name: sci_wetlabsB_therm
+    sensor: sci_wetlabsB_therm
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_wetlabsB_therm

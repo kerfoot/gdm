@@ -1,0 +1,7 @@
+m_digifin_status:
+  attrs:
+    long_name: m_digifin_status
+    sensor: m_digifin_status
+    units: nodim
+  dtype: f4
+  nc_var_name: m_digifin_status

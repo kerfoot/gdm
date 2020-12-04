@@ -1,0 +1,7 @@
+c_hydrophone_drive_num:
+  attrs:
+    long_name: c_hydrophone_drive_num
+    sensor: c_hydrophone_drive_num
+    units: nodim
+  dtype: f4
+  nc_var_name: c_hydrophone_drive_num

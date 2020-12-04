@@ -1,0 +1,7 @@
+f_clock_source:
+  attrs:
+    long_name: f_clock_source
+    sensor: f_clock_source
+    units: enum
+  dtype: i1
+  nc_var_name: f_clock_source

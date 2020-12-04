@@ -1,0 +1,7 @@
+f_thruster_speed_max:
+  attrs:
+    long_name: f_thruster_speed_max
+    sensor: f_thruster_speed_max
+    units: rpm
+  dtype: f4
+  nc_var_name: f_thruster_speed_max

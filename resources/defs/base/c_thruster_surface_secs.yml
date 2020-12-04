@@ -1,0 +1,7 @@
+c_thruster_surface_secs:
+  attrs:
+    long_name: c_thruster_surface_secs
+    sensor: c_thruster_surface_secs
+    units: s
+  dtype: f4
+  nc_var_name: c_thruster_surface_secs

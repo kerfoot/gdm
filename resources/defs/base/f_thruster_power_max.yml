@@ -1,0 +1,7 @@
+f_thruster_power_max:
+  attrs:
+    long_name: f_thruster_power_max
+    sensor: f_thruster_power_max
+    units: watt
+  dtype: f4
+  nc_var_name: f_thruster_power_max

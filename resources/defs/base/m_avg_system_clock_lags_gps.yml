@@ -1,0 +1,7 @@
+m_avg_system_clock_lags_gps:
+  attrs:
+    long_name: m_avg_system_clock_lags_gps
+    sensor: m_avg_system_clock_lags_gps
+    units: sec
+  dtype: f4
+  nc_var_name: m_avg_system_clock_lags_gps

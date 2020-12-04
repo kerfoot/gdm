@@ -1,0 +1,7 @@
+m_pressure:
+  attrs:
+    long_name: m_pressure
+    sensor: m_pressure
+    units: bar
+  dtype: f4
+  nc_var_name: m_pressure

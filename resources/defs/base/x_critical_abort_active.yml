@@ -1,0 +1,7 @@
+x_critical_abort_active:
+  attrs:
+    long_name: x_critical_abort_active
+    sensor: x_critical_abort_active
+    units: int
+  dtype: f4
+  nc_var_name: x_critical_abort_active

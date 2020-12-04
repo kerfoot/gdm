@@ -1,0 +1,7 @@
+u_exp_alt_pwr_stb_time:
+  attrs:
+    long_name: u_exp_alt_pwr_stb_time
+    sensor: u_exp_alt_pwr_stb_time
+    units: s
+  dtype: f4
+  nc_var_name: u_exp_alt_pwr_stb_time

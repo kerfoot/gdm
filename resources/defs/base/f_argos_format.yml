@@ -1,0 +1,7 @@
+f_argos_format:
+  attrs:
+    long_name: f_argos_format
+    sensor: f_argos_format
+    units: enum
+  dtype: i1
+  nc_var_name: f_argos_format

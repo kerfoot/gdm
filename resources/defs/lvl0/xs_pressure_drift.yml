@@ -1,0 +1,7 @@
+xs_pressure_drift:
+  attrs:
+    long_name: xs_pressure_drift
+    sensor: xs_pressure_drift
+    units: volts
+  dtype: f4
+  nc_var_name: xs_pressure_drift

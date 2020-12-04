@@ -1,0 +1,7 @@
+c_heap_measurement_period:
+  attrs:
+    long_name: c_heap_measurement_period
+    sensor: c_heap_measurement_period
+    units: mins
+  dtype: f4
+  nc_var_name: c_heap_measurement_period

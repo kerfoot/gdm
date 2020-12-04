@@ -1,0 +1,7 @@
+xs_hdg_rate:
+  attrs:
+    long_name: xs_hdg_rate
+    sensor: xs_hdg_rate
+    units: rad/sec
+  dtype: f4
+  nc_var_name: xs_hdg_rate

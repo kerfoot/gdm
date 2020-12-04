@@ -1,0 +1,7 @@
+u_freewave_data_rate:
+  attrs:
+    long_name: u_freewave_data_rate
+    sensor: u_freewave_data_rate
+    units: KBps
+  dtype: f4
+  nc_var_name: u_freewave_data_rate

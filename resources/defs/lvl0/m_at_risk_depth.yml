@@ -1,0 +1,7 @@
+m_at_risk_depth:
+  attrs:
+    long_name: m_at_risk_depth
+    sensor: m_at_risk_depth
+    units: m
+  dtype: f4
+  nc_var_name: m_at_risk_depth

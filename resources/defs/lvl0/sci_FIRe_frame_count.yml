@@ -1,0 +1,7 @@
+sci_FIRe_frame_count:
+  attrs:
+    long_name: sci_FIRe_frame_count
+    sensor: sci_FIRe_frame_count
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_FIRe_frame_count

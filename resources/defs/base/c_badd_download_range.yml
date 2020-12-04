@@ -1,0 +1,7 @@
+c_badd_download_range:
+  attrs:
+    long_name: c_badd_download_range
+    sensor: c_badd_download_range
+    units: m
+  dtype: f4
+  nc_var_name: c_badd_download_range

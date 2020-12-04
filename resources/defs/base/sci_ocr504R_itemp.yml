@@ -1,0 +1,7 @@
+sci_ocr504R_itemp:
+  attrs:
+    long_name: sci_ocr504R_itemp
+    sensor: sci_ocr504R_itemp
+    units: Celsius
+  dtype: f4
+  nc_var_name: sci_ocr504R_itemp

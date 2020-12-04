@@ -1,0 +1,7 @@
+u_ballast_pumped_micropos_dc:
+  attrs:
+    long_name: u_ballast_pumped_micropos_dc
+    sensor: u_ballast_pumped_micropos_dc
+    units: nodim
+  dtype: f4
+  nc_var_name: u_ballast_pumped_micropos_dc

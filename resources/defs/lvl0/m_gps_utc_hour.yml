@@ -1,0 +1,7 @@
+m_gps_utc_hour:
+  attrs:
+    long_name: m_gps_utc_hour
+    sensor: m_gps_utc_hour
+    units: byte
+  dtype: i1
+  nc_var_name: m_gps_utc_hour

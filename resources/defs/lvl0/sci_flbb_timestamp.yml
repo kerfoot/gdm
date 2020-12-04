@@ -1,0 +1,7 @@
+sci_flbb_timestamp:
+  attrs:
+    long_name: sci_flbb_timestamp
+    sensor: sci_flbb_timestamp
+    units: timestamp
+  dtype: f8
+  nc_var_name: sci_flbb_timestamp

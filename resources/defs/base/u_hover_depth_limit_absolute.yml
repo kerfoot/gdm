@@ -1,0 +1,7 @@
+u_hover_depth_limit_absolute:
+  attrs:
+    long_name: u_hover_depth_limit_absolute
+    sensor: u_hover_depth_limit_absolute
+    units: rad
+  dtype: f4
+  nc_var_name: u_hover_depth_limit_absolute

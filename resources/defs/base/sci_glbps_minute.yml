@@ -1,0 +1,7 @@
+sci_glbps_minute:
+  attrs:
+    long_name: sci_glbps_minute
+    sensor: sci_glbps_minute
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_glbps_minute

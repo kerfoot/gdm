@@ -1,0 +1,7 @@
+sci_svs603_is_running:
+  attrs:
+    long_name: sci_svs603_is_running
+    sensor: sci_svs603_is_running
+    units: bool
+  dtype: i1
+  nc_var_name: sci_svs603_is_running

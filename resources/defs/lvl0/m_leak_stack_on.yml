@@ -1,0 +1,7 @@
+m_leak_stack_on:
+  attrs:
+    long_name: m_leak_stack_on
+    sensor: m_leak_stack_on
+    units: bool
+  dtype: i1
+  nc_var_name: m_leak_stack_on

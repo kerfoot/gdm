@@ -1,0 +1,7 @@
+sci_dvl_sa_roll:
+  attrs:
+    long_name: sci_dvl_sa_roll
+    sensor: sci_dvl_sa_roll
+    units: deg
+  dtype: f4
+  nc_var_name: sci_dvl_sa_roll

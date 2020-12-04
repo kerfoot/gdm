@@ -1,0 +1,7 @@
+c_badd_transaction_num:
+  attrs:
+    long_name: c_badd_transaction_num
+    sensor: c_badd_transaction_num
+    units: nodim
+  dtype: f4
+  nc_var_name: c_badd_transaction_num

@@ -1,0 +1,7 @@
+c_ocr507I_on:
+  attrs:
+    long_name: c_ocr507I_on
+    sensor: c_ocr507I_on
+    units: sec
+  dtype: f4
+  nc_var_name: c_ocr507I_on

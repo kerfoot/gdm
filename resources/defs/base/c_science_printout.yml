@@ -1,0 +1,7 @@
+c_science_printout:
+  attrs:
+    long_name: c_science_printout
+    sensor: c_science_printout
+    units: nodim
+  dtype: f4
+  nc_var_name: c_science_printout

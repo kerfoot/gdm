@@ -1,0 +1,7 @@
+x_dive_bpump_slow:
+  attrs:
+    long_name: x_dive_bpump_slow
+    sensor: x_dive_bpump_slow
+    units: cc
+  dtype: f4
+  nc_var_name: x_dive_bpump_slow

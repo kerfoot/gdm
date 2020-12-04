@@ -1,0 +1,7 @@
+f_leakdetect_threshold:
+  attrs:
+    long_name: f_leakdetect_threshold
+    sensor: f_leakdetect_threshold
+    units: volts
+  dtype: f4
+  nc_var_name: f_leakdetect_threshold

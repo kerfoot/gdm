@@ -1,0 +1,7 @@
+u_avg_thruster_power_num:
+  attrs:
+    long_name: u_avg_thruster_power_num
+    sensor: u_avg_thruster_power_num
+    units: nodim
+  dtype: f4
+  nc_var_name: u_avg_thruster_power_num

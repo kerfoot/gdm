@@ -1,0 +1,7 @@
+m_science_unreadiness_for_consci:
+  attrs:
+    long_name: m_science_unreadiness_for_consci
+    sensor: m_science_unreadiness_for_consci
+    units: enum
+  dtype: i1
+  nc_var_name: m_science_unreadiness_for_consci

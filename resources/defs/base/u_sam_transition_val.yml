@@ -1,0 +1,7 @@
+u_sam_transition_val:
+  attrs:
+    long_name: u_sam_transition_val
+    sensor: u_sam_transition_val
+    units: nodim
+  dtype: f4
+  nc_var_name: u_sam_transition_val

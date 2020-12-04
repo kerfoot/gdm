@@ -1,0 +1,7 @@
+m_iridium_on:
+  attrs:
+    long_name: m_iridium_on
+    sensor: m_iridium_on
+    units: bool
+  dtype: i1
+  nc_var_name: m_iridium_on

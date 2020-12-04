@@ -1,0 +1,7 @@
+s_mag_var:
+  attrs:
+    long_name: s_mag_var
+    sensor: s_mag_var
+    units: rad
+  dtype: f4
+  nc_var_name: s_mag_var

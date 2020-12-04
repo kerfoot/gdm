@@ -1,0 +1,7 @@
+m_magnetic_field:
+  attrs:
+    long_name: m_magnetic_field
+    sensor: m_magnetic_field
+    units: nodim
+  dtype: f4
+  nc_var_name: m_magnetic_field

@@ -1,0 +1,7 @@
+m_bms_emergency_battery_latch:
+  attrs:
+    long_name: m_bms_emergency_battery_latch
+    sensor: m_bms_emergency_battery_latch
+    units: bool
+  dtype: i1
+  nc_var_name: m_bms_emergency_battery_latch

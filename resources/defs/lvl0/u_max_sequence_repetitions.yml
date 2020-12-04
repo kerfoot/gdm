@@ -1,0 +1,7 @@
+u_max_sequence_repetitions:
+  attrs:
+    long_name: u_max_sequence_repetitions
+    sensor: u_max_sequence_repetitions
+    units: nodim
+  dtype: f4
+  nc_var_name: u_max_sequence_repetitions

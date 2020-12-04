@@ -1,0 +1,7 @@
+sci_rinkoII_temp:
+  attrs:
+    long_name: sci_rinkoII_temp
+    sensor: sci_rinkoII_temp
+    units: degC
+  dtype: f4
+  nc_var_name: sci_rinkoII_temp

@@ -1,0 +1,7 @@
+sci_uModem_is_installed:
+  attrs:
+    long_name: sci_uModem_is_installed
+    sensor: sci_uModem_is_installed
+    units: bool
+  dtype: i1
+  nc_var_name: sci_uModem_is_installed

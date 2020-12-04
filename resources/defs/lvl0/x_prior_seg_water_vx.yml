@@ -1,0 +1,7 @@
+x_prior_seg_water_vx:
+  attrs:
+    long_name: x_prior_seg_water_vx
+    sensor: x_prior_seg_water_vx
+    units: m/s
+  dtype: f4
+  nc_var_name: x_prior_seg_water_vx

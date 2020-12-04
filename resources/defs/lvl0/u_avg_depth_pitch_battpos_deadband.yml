@@ -1,0 +1,7 @@
+u_avg_depth_pitch_battpos_deadband:
+  attrs:
+    long_name: u_avg_depth_pitch_battpos_deadband
+    sensor: u_avg_depth_pitch_battpos_deadband
+    units: m
+  dtype: f4
+  nc_var_name: u_avg_depth_pitch_battpos_deadband

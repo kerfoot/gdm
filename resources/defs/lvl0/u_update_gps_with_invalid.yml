@@ -1,0 +1,7 @@
+u_update_gps_with_invalid:
+  attrs:
+    long_name: u_update_gps_with_invalid
+    sensor: u_update_gps_with_invalid
+    units: bool
+  dtype: i1
+  nc_var_name: u_update_gps_with_invalid

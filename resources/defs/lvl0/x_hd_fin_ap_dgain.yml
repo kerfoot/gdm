@@ -1,0 +1,7 @@
+x_hd_fin_ap_dgain:
+  attrs:
+    long_name: x_hd_fin_ap_dgain
+    sensor: x_hd_fin_ap_dgain
+    units: sec/rad
+  dtype: f4
+  nc_var_name: x_hd_fin_ap_dgain

@@ -1,0 +1,7 @@
+u_calc_water_vel_min_dist:
+  attrs:
+    long_name: u_calc_water_vel_min_dist
+    sensor: u_calc_water_vel_min_dist
+    units: km
+  dtype: f4
+  nc_var_name: u_calc_water_vel_min_dist

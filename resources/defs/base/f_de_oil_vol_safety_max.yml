@@ -1,0 +1,7 @@
+f_de_oil_vol_safety_max:
+  attrs:
+    long_name: f_de_oil_vol_safety_max
+    sensor: f_de_oil_vol_safety_max
+    units: cc
+  dtype: f4
+  nc_var_name: f_de_oil_vol_safety_max

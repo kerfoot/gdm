@@ -1,0 +1,7 @@
+c_rinkoII_on:
+  attrs:
+    long_name: c_rinkoII_on
+    sensor: c_rinkoII_on
+    units: sec
+  dtype: f4
+  nc_var_name: c_rinkoII_on

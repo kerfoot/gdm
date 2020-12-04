@@ -1,0 +1,7 @@
+u_pressure_median_k:
+  attrs:
+    long_name: u_pressure_median_k
+    sensor: u_pressure_median_k
+    units: nodim
+  dtype: f4
+  nc_var_name: u_pressure_median_k

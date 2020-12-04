@@ -1,0 +1,7 @@
+f_nominal_pitch:
+  attrs:
+    long_name: f_nominal_pitch
+    sensor: f_nominal_pitch
+    units: rad
+  dtype: f4
+  nc_var_name: f_nominal_pitch

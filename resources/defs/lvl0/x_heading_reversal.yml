@@ -1,0 +1,7 @@
+x_heading_reversal:
+  attrs:
+    long_name: x_heading_reversal
+    sensor: x_heading_reversal
+    units: rad
+  dtype: f4
+  nc_var_name: x_heading_reversal

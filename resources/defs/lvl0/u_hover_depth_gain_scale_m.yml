@@ -1,0 +1,7 @@
+u_hover_depth_gain_scale_m:
+  attrs:
+    long_name: u_hover_depth_gain_scale_m
+    sensor: u_hover_depth_gain_scale_m
+    units: X
+  dtype: f4
+  nc_var_name: u_hover_depth_gain_scale_m

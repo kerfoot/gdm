@@ -1,0 +1,7 @@
+u_ap_thruster_speed_deadband:
+  attrs:
+    long_name: u_ap_thruster_speed_deadband
+    sensor: u_ap_thruster_speed_deadband
+    units: m/s
+  dtype: f4
+  nc_var_name: u_ap_thruster_speed_deadband

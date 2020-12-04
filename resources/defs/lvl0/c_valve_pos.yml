@@ -1,0 +1,7 @@
+c_valve_pos:
+  attrs:
+    long_name: c_valve_pos
+    sensor: c_valve_pos
+    units: enum
+  dtype: i1
+  nc_var_name: c_valve_pos

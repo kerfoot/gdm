@@ -1,0 +1,7 @@
+u_fl3slo_cdom_sf:
+  attrs:
+    long_name: u_fl3slo_cdom_sf
+    sensor: u_fl3slo_cdom_sf
+    units: ppb/l/nodim
+  dtype: f4
+  nc_var_name: u_fl3slo_cdom_sf

@@ -1,0 +1,7 @@
+m_depth_rate_running_avg:
+  attrs:
+    long_name: m_depth_rate_running_avg
+    sensor: m_depth_rate_running_avg
+    units: m/s
+  dtype: f4
+  nc_var_name: m_depth_rate_running_avg

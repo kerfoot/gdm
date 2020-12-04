@@ -1,0 +1,7 @@
+c_viper_max_errors:
+  attrs:
+    long_name: c_viper_max_errors
+    sensor: c_viper_max_errors
+    units: nodim
+  dtype: f4
+  nc_var_name: c_viper_max_errors

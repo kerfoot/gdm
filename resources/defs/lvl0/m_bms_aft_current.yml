@@ -1,0 +1,7 @@
+m_bms_aft_current:
+  attrs:
+    long_name: m_bms_aft_current
+    sensor: m_bms_aft_current
+    units: amp
+  dtype: f4
+  nc_var_name: m_bms_aft_current

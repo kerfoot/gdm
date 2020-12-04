@@ -1,0 +1,7 @@
+sci_oxy4_oxygen:
+  attrs:
+    long_name: sci_oxy4_oxygen
+    sensor: sci_oxy4_oxygen
+    units: uM
+  dtype: f4
+  nc_var_name: sci_oxy4_oxygen

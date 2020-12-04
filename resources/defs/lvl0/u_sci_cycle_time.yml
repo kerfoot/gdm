@@ -1,0 +1,7 @@
+u_sci_cycle_time:
+  attrs:
+    long_name: u_sci_cycle_time
+    sensor: u_sci_cycle_time
+    units: sec
+  dtype: f4
+  nc_var_name: u_sci_cycle_time

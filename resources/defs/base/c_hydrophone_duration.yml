@@ -1,0 +1,7 @@
+c_hydrophone_duration:
+  attrs:
+    long_name: c_hydrophone_duration
+    sensor: c_hydrophone_duration
+    units: sec
+  dtype: f4
+  nc_var_name: c_hydrophone_duration

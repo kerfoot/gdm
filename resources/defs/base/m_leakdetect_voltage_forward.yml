@@ -1,0 +1,7 @@
+m_leakdetect_voltage_forward:
+  attrs:
+    long_name: m_leakdetect_voltage_forward
+    sensor: m_leakdetect_voltage_forward
+    units: volts
+  dtype: f4
+  nc_var_name: m_leakdetect_voltage_forward

@@ -1,0 +1,7 @@
+xs_altitude:
+  attrs:
+    long_name: xs_altitude
+    sensor: xs_altitude
+    units: m
+  dtype: f4
+  nc_var_name: xs_altitude

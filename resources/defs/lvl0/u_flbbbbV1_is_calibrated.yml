@@ -1,0 +1,7 @@
+u_flbbbbV1_is_calibrated:
+  attrs:
+    long_name: u_flbbbbV1_is_calibrated
+    sensor: u_flbbbbV1_is_calibrated
+    units: bool
+  dtype: i1
+  nc_var_name: u_flbbbbV1_is_calibrated

@@ -1,0 +1,7 @@
+x_console_announcement_made:
+  attrs:
+    long_name: x_console_announcement_made
+    sensor: x_console_announcement_made
+    units: nodim
+  dtype: f4
+  nc_var_name: x_console_announcement_made

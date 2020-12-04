@@ -1,0 +1,7 @@
+sci_obsvr_voltage:
+  attrs:
+    long_name: sci_obsvr_voltage
+    sensor: sci_obsvr_voltage
+    units: volts
+  dtype: f4
+  nc_var_name: sci_obsvr_voltage

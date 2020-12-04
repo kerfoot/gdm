@@ -1,0 +1,7 @@
+u_de_avg_oil_vol_err_alpha:
+  attrs:
+    long_name: u_de_avg_oil_vol_err_alpha
+    sensor: u_de_avg_oil_vol_err_alpha
+    units: nodim
+  dtype: f4
+  nc_var_name: u_de_avg_oil_vol_err_alpha

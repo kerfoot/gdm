@@ -1,0 +1,7 @@
+u_bb2c_beta660_offset:
+  attrs:
+    long_name: u_bb2c_beta660_offset
+    sensor: u_bb2c_beta660_offset
+    units: nodim
+  dtype: f4
+  nc_var_name: u_bb2c_beta660_offset

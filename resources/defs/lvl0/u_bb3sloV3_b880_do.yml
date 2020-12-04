@@ -1,0 +1,7 @@
+u_bb3sloV3_b880_do:
+  attrs:
+    long_name: u_bb3sloV3_b880_do
+    sensor: u_bb3sloV3_b880_do
+    units: nodim
+  dtype: f4
+  nc_var_name: u_bb3sloV3_b880_do

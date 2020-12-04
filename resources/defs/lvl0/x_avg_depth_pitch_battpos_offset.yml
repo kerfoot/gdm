@@ -1,0 +1,7 @@
+x_avg_depth_pitch_battpos_offset:
+  attrs:
+    long_name: x_avg_depth_pitch_battpos_offset
+    sensor: x_avg_depth_pitch_battpos_offset
+    units: in
+  dtype: f4
+  nc_var_name: x_avg_depth_pitch_battpos_offset

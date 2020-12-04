@@ -1,0 +1,7 @@
+sci_flbbbbV1_bb1_scaled:
+  attrs:
+    long_name: sci_flbbbbV1_bb1_scaled
+    sensor: sci_flbbbbV1_bb1_scaled
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_flbbbbV1_bb1_scaled

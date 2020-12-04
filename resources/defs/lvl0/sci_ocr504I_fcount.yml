@@ -1,0 +1,7 @@
+sci_ocr504I_fcount:
+  attrs:
+    long_name: sci_ocr504I_fcount
+    sensor: sci_ocr504I_fcount
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_ocr504I_fcount

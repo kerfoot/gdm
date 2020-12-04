@@ -1,0 +1,7 @@
+c_science_stress_on:
+  attrs:
+    long_name: c_science_stress_on
+    sensor: c_science_stress_on
+    units: sensors/sec
+  dtype: f4
+  nc_var_name: c_science_stress_on

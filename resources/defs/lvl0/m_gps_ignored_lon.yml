@@ -1,0 +1,7 @@
+m_gps_ignored_lon:
+  attrs:
+    long_name: m_gps_ignored_lon
+    sensor: m_gps_ignored_lon
+    units: lon
+  dtype: f8
+  nc_var_name: m_gps_ignored_lon

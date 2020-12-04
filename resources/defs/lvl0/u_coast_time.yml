@@ -1,0 +1,7 @@
+u_coast_time:
+  attrs:
+    long_name: u_coast_time
+    sensor: u_coast_time
+    units: s
+  dtype: f4
+  nc_var_name: u_coast_time

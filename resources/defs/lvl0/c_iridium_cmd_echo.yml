@@ -1,0 +1,7 @@
+c_iridium_cmd_echo:
+  attrs:
+    long_name: c_iridium_cmd_echo
+    sensor: c_iridium_cmd_echo
+    units: enum
+  dtype: i1
+  nc_var_name: c_iridium_cmd_echo

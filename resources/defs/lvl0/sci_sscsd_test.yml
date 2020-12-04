@@ -1,0 +1,7 @@
+sci_sscsd_test:
+  attrs:
+    long_name: sci_sscsd_test
+    sensor: sci_sscsd_test
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_sscsd_test

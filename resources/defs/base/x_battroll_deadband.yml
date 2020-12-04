@@ -1,0 +1,7 @@
+x_battroll_deadband:
+  attrs:
+    long_name: x_battroll_deadband
+    sensor: x_battroll_deadband
+    units: rad
+  dtype: f4
+  nc_var_name: x_battroll_deadband

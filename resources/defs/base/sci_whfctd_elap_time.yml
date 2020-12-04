@@ -1,0 +1,7 @@
+sci_whfctd_elap_time:
+  attrs:
+    long_name: sci_whfctd_elap_time
+    sensor: sci_whfctd_elap_time
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_whfctd_elap_time

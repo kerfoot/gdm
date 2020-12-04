@@ -1,0 +1,7 @@
+dhs_valid:
+  attrs:
+    long_name: dhs_valid
+    sensor: dhs_valid
+    units: bool
+  dtype: i1
+  nc_var_name: dhs_valid

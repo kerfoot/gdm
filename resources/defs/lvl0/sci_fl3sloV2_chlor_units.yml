@@ -1,0 +1,7 @@
+sci_fl3sloV2_chlor_units:
+  attrs:
+    long_name: sci_fl3sloV2_chlor_units
+    sensor: sci_fl3sloV2_chlor_units
+    units: ug/l
+  dtype: f4
+  nc_var_name: sci_fl3sloV2_chlor_units

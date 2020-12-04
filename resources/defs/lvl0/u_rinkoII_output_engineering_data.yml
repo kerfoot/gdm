@@ -1,0 +1,7 @@
+u_rinkoII_output_engineering_data:
+  attrs:
+    long_name: u_rinkoII_output_engineering_data
+    sensor: u_rinkoII_output_engineering_data
+    units: bool
+  dtype: i1
+  nc_var_name: u_rinkoII_output_engineering_data

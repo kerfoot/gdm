@@ -1,0 +1,7 @@
+s_ice_secs_start:
+  attrs:
+    long_name: s_ice_secs_start
+    sensor: s_ice_secs_start
+    units: s
+  dtype: f4
+  nc_var_name: s_ice_secs_start

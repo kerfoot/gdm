@@ -1,0 +1,7 @@
+sci_wants_wpt:
+  attrs:
+    long_name: sci_wants_wpt
+    sensor: sci_wants_wpt
+    units: enum
+  dtype: i1
+  nc_var_name: sci_wants_wpt

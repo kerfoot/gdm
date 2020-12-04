@@ -1,0 +1,7 @@
+x_ab_lookup_ballast:
+  attrs:
+    long_name: x_ab_lookup_ballast
+    sensor: x_ab_lookup_ballast
+    units: cc
+  dtype: f4
+  nc_var_name: x_ab_lookup_ballast

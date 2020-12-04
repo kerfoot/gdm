@@ -1,0 +1,7 @@
+x_disk_files_removed:
+  attrs:
+    long_name: x_disk_files_removed
+    sensor: x_disk_files_removed
+    units: nodim
+  dtype: f4
+  nc_var_name: x_disk_files_removed

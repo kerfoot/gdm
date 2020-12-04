@@ -1,0 +1,7 @@
+m_tot_on_time:
+  attrs:
+    long_name: m_tot_on_time
+    sensor: m_tot_on_time
+    units: days
+  dtype: f4
+  nc_var_name: m_tot_on_time

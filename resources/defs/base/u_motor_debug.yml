@@ -1,0 +1,7 @@
+u_motor_debug:
+  attrs:
+    long_name: u_motor_debug
+    sensor: u_motor_debug
+    units: nodim
+  dtype: f4
+  nc_var_name: u_motor_debug

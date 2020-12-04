@@ -1,0 +1,7 @@
+sci_oxy4_tcphase:
+  attrs:
+    long_name: sci_oxy4_tcphase
+    sensor: sci_oxy4_tcphase
+    units: deg
+  dtype: f4
+  nc_var_name: sci_oxy4_tcphase

@@ -1,0 +1,7 @@
+sci_lisst_meansize:
+  attrs:
+    long_name: sci_lisst_meansize
+    sensor: sci_lisst_meansize
+    units: um
+  dtype: f4
+  nc_var_name: sci_lisst_meansize

@@ -1,0 +1,7 @@
+x_de_pump_disable:
+  attrs:
+    long_name: x_de_pump_disable
+    sensor: x_de_pump_disable
+    units: bool
+  dtype: i1
+  nc_var_name: x_de_pump_disable

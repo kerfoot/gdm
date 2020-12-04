@@ -1,0 +1,7 @@
+dhs_silence_lvl:
+  attrs:
+    long_name: dhs_silence_lvl
+    sensor: dhs_silence_lvl
+    units: nodim
+  dtype: f4
+  nc_var_name: dhs_silence_lvl

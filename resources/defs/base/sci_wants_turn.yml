@@ -1,0 +1,7 @@
+sci_wants_turn:
+  attrs:
+    long_name: sci_wants_turn
+    sensor: sci_wants_turn
+    units: enum
+  dtype: i1
+  nc_var_name: sci_wants_turn

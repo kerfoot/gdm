@@ -1,0 +1,7 @@
+u_check_secs_comms_tickle:
+  attrs:
+    long_name: u_check_secs_comms_tickle
+    sensor: u_check_secs_comms_tickle
+    units: sec
+  dtype: f4
+  nc_var_name: u_check_secs_comms_tickle

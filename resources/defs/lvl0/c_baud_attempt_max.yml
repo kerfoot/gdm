@@ -1,0 +1,7 @@
+c_baud_attempt_max:
+  attrs:
+    long_name: c_baud_attempt_max
+    sensor: c_baud_attempt_max
+    units: enum
+  dtype: i1
+  nc_var_name: c_baud_attempt_max

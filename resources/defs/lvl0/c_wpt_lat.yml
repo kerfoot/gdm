@@ -1,0 +1,7 @@
+c_wpt_lat:
+  attrs:
+    long_name: c_wpt_lat
+    sensor: c_wpt_lat
+    units: lat
+  dtype: f8
+  nc_var_name: c_wpt_lat

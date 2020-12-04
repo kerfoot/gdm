@@ -1,0 +1,7 @@
+sci_seaOWL_timestamp:
+  attrs:
+    long_name: sci_seaOWL_timestamp
+    sensor: sci_seaOWL_timestamp
+    units: timestamp
+  dtype: f8
+  nc_var_name: sci_seaOWL_timestamp

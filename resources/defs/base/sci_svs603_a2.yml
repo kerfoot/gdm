@@ -1,0 +1,7 @@
+sci_svs603_a2:
+  attrs:
+    long_name: sci_svs603_a2
+    sensor: sci_svs603_a2
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_svs603_a2

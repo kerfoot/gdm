@@ -1,0 +1,7 @@
+sci_flntu_chlor_ref:
+  attrs:
+    long_name: sci_flntu_chlor_ref
+    sensor: sci_flntu_chlor_ref
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_flntu_chlor_ref

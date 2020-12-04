@@ -1,0 +1,7 @@
+x_target_bpump_depth_rate_max:
+  attrs:
+    long_name: x_target_bpump_depth_rate_max
+    sensor: x_target_bpump_depth_rate_max
+    units: m/s
+  dtype: f4
+  nc_var_name: x_target_bpump_depth_rate_max

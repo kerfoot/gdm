@@ -1,0 +1,7 @@
+sci_wetlabsC_serial_num:
+  attrs:
+    long_name: sci_wetlabsC_serial_num
+    sensor: sci_wetlabsC_serial_num
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_wetlabsC_serial_num

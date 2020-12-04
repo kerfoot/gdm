@@ -1,0 +1,7 @@
+u_bb2flsV9_b532_cwo:
+  attrs:
+    long_name: u_bb2flsV9_b532_cwo
+    sensor: u_bb2flsV9_b532_cwo
+    units: nodim
+  dtype: f4
+  nc_var_name: u_bb2flsV9_b532_cwo

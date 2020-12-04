@@ -1,0 +1,7 @@
+c_lms_on:
+  attrs:
+    long_name: c_lms_on
+    sensor: c_lms_on
+    units: sec
+  dtype: f4
+  nc_var_name: c_lms_on

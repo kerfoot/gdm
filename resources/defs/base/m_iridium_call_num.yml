@@ -1,0 +1,7 @@
+m_iridium_call_num:
+  attrs:
+    long_name: m_iridium_call_num
+    sensor: m_iridium_call_num
+    units: nodim
+  dtype: f4
+  nc_var_name: m_iridium_call_num

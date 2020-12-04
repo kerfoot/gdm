@@ -1,0 +1,7 @@
+f_crush_depth:
+  attrs:
+    long_name: f_crush_depth
+    sensor: f_crush_depth
+    units: m
+  dtype: f4
+  nc_var_name: f_crush_depth

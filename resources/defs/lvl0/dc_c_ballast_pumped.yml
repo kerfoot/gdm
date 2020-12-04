@@ -1,0 +1,7 @@
+dc_c_ballast_pumped:
+  attrs:
+    long_name: dc_c_ballast_pumped
+    sensor: dc_c_ballast_pumped
+    units: cc
+  dtype: f4
+  nc_var_name: dc_c_ballast_pumped

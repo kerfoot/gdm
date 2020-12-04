@@ -1,0 +1,7 @@
+c_bam_mode:
+  attrs:
+    long_name: c_bam_mode
+    sensor: c_bam_mode
+    units: enum
+  dtype: i1
+  nc_var_name: c_bam_mode

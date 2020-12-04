@@ -1,0 +1,7 @@
+u_ballast_pumped_micropos_rt:
+  attrs:
+    long_name: u_ballast_pumped_micropos_rt
+    sensor: u_ballast_pumped_micropos_rt
+    units: msec
+  dtype: f4
+  nc_var_name: u_ballast_pumped_micropos_rt

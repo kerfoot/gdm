@@ -1,0 +1,7 @@
+u_bar_per_meter:
+  attrs:
+    long_name: u_bar_per_meter
+    sensor: u_bar_per_meter
+    units: bar/m
+  dtype: f4
+  nc_var_name: u_bar_per_meter

@@ -1,0 +1,7 @@
+sci_wetlabsB_num_channels:
+  attrs:
+    long_name: sci_wetlabsB_num_channels
+    sensor: sci_wetlabsB_num_channels
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_wetlabsB_num_channels

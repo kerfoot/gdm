@@ -1,0 +1,7 @@
+u_hover_depth_pitch_deadband:
+  attrs:
+    long_name: u_hover_depth_pitch_deadband
+    sensor: u_hover_depth_pitch_deadband
+    units: X
+  dtype: f4
+  nc_var_name: u_hover_depth_pitch_deadband

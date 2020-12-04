@@ -1,0 +1,7 @@
+c_badd_data_min_tries:
+  attrs:
+    long_name: c_badd_data_min_tries
+    sensor: c_badd_data_min_tries
+    units: int
+  dtype: f4
+  nc_var_name: c_badd_data_min_tries

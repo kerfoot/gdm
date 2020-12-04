@@ -1,0 +1,7 @@
+u_thruster_burst_volts:
+  attrs:
+    long_name: u_thruster_burst_volts
+    sensor: u_thruster_burst_volts
+    units: volts
+  dtype: f4
+  nc_var_name: u_thruster_burst_volts

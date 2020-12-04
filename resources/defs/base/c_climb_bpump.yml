@@ -1,0 +1,7 @@
+c_climb_bpump:
+  attrs:
+    long_name: c_climb_bpump
+    sensor: c_climb_bpump
+    units: X
+  dtype: f4
+  nc_var_name: c_climb_bpump

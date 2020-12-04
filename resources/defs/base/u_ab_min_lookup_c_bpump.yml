@@ -1,0 +1,7 @@
+u_ab_min_lookup_c_bpump:
+  attrs:
+    long_name: u_ab_min_lookup_c_bpump
+    sensor: u_ab_min_lookup_c_bpump
+    units: cc
+  dtype: f4
+  nc_var_name: u_ab_min_lookup_c_bpump

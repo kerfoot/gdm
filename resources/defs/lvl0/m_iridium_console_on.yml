@@ -1,0 +1,7 @@
+m_iridium_console_on:
+  attrs:
+    long_name: m_iridium_console_on
+    sensor: m_iridium_console_on
+    units: enum
+  dtype: i1
+  nc_var_name: m_iridium_console_on

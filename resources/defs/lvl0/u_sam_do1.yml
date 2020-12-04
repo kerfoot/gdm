@@ -1,0 +1,7 @@
+u_sam_do1:
+  attrs:
+    long_name: u_sam_do1
+    sensor: u_sam_do1
+    units: nodim
+  dtype: f4
+  nc_var_name: u_sam_do1

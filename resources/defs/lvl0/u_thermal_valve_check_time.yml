@@ -1,0 +1,7 @@
+u_thermal_valve_check_time:
+  attrs:
+    long_name: u_thermal_valve_check_time
+    sensor: u_thermal_valve_check_time
+    units: sec
+  dtype: f4
+  nc_var_name: u_thermal_valve_check_time

@@ -1,0 +1,7 @@
+m_vehicle_temp:
+  attrs:
+    long_name: m_vehicle_temp
+    sensor: m_vehicle_temp
+    units: degC
+  dtype: f4
+  nc_var_name: m_vehicle_temp

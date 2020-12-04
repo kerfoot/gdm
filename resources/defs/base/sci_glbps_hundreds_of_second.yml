@@ -1,0 +1,7 @@
+sci_glbps_hundreds_of_second:
+  attrs:
+    long_name: sci_glbps_hundreds_of_second
+    sensor: sci_glbps_hundreds_of_second
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_glbps_hundreds_of_second

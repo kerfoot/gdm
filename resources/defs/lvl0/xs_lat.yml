@@ -1,0 +1,7 @@
+xs_lat:
+  attrs:
+    long_name: xs_lat
+    sensor: xs_lat
+    units: deg
+  dtype: f4
+  nc_var_name: xs_lat

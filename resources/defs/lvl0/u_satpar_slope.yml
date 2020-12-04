@@ -1,0 +1,7 @@
+u_satpar_slope:
+  attrs:
+    long_name: u_satpar_slope
+    sensor: u_satpar_slope
+    units: Mnodim
+  dtype: f4
+  nc_var_name: u_satpar_slope

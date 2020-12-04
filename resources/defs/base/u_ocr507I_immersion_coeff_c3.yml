@@ -1,0 +1,7 @@
+u_ocr507I_immersion_coeff_c3:
+  attrs:
+    long_name: u_ocr507I_immersion_coeff_c3
+    sensor: u_ocr507I_immersion_coeff_c3
+    units: nodim
+  dtype: f4
+  nc_var_name: u_ocr507I_immersion_coeff_c3

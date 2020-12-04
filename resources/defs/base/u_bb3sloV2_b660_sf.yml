@@ -1,0 +1,7 @@
+u_bb3sloV2_b660_sf:
+  attrs:
+    long_name: u_bb3sloV2_b660_sf
+    sensor: u_bb3sloV2_b660_sf
+    units: Mnodim
+  dtype: f4
+  nc_var_name: u_bb3sloV2_b660_sf

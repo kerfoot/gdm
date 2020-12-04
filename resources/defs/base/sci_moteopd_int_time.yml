@@ -1,0 +1,7 @@
+sci_moteopd_int_time:
+  attrs:
+    long_name: sci_moteopd_int_time
+    sensor: sci_moteopd_int_time
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_moteopd_int_time

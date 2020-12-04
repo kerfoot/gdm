@@ -1,0 +1,7 @@
+c_weight_drop:
+  attrs:
+    long_name: c_weight_drop
+    sensor: c_weight_drop
+    units: bool
+  dtype: i1
+  nc_var_name: c_weight_drop

@@ -1,0 +1,7 @@
+sci_fl2UrRh_uran_sig:
+  attrs:
+    long_name: sci_fl2UrRh_uran_sig
+    sensor: sci_fl2UrRh_uran_sig
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_fl2UrRh_uran_sig

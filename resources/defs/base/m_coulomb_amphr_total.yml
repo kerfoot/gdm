@@ -1,0 +1,7 @@
+m_coulomb_amphr_total:
+  attrs:
+    long_name: m_coulomb_amphr_total
+    sensor: m_coulomb_amphr_total
+    units: amp-hrs
+  dtype: f4
+  nc_var_name: m_coulomb_amphr_total

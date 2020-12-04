@@ -1,0 +1,7 @@
+u_flrh_sf:
+  attrs:
+    long_name: u_flrh_sf
+    sensor: u_flrh_sf
+    units: ppb/nodim
+  dtype: f4
+  nc_var_name: u_flrh_sf

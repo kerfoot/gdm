@@ -1,0 +1,7 @@
+u_iridium_force_port:
+  attrs:
+    long_name: u_iridium_force_port
+    sensor: u_iridium_force_port
+    units: bool
+  dtype: i1
+  nc_var_name: u_iridium_force_port

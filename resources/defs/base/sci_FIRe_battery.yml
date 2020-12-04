@@ -1,0 +1,7 @@
+sci_FIRe_battery:
+  attrs:
+    long_name: sci_FIRe_battery
+    sensor: sci_FIRe_battery
+    units: volts
+  dtype: f4
+  nc_var_name: sci_FIRe_battery

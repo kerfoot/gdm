@@ -1,0 +1,7 @@
+x_hd_broll_ap_is_hardover:
+  attrs:
+    long_name: x_hd_broll_ap_is_hardover
+    sensor: x_hd_broll_ap_is_hardover
+    units: bool
+  dtype: i1
+  nc_var_name: x_hd_broll_ap_is_hardover

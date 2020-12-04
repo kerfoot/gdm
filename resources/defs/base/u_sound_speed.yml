@@ -1,0 +1,7 @@
+u_sound_speed:
+  attrs:
+    long_name: u_sound_speed
+    sensor: u_sound_speed
+    units: m/s
+  dtype: f4
+  nc_var_name: u_sound_speed

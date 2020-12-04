@@ -1,0 +1,7 @@
+sci_flbbcd_cdom_ref:
+  attrs:
+    long_name: sci_flbbcd_cdom_ref
+    sensor: sci_flbbcd_cdom_ref
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_flbbcd_cdom_ref

@@ -1,0 +1,7 @@
+x_avg_hover_ballast:
+  attrs:
+    long_name: x_avg_hover_ballast
+    sensor: x_avg_hover_ballast
+    units: cc
+  dtype: f4
+  nc_var_name: x_avg_hover_ballast

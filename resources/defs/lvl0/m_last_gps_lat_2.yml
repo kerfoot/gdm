@@ -1,0 +1,7 @@
+m_last_gps_lat_2:
+  attrs:
+    long_name: m_last_gps_lat_2
+    sensor: m_last_gps_lat_2
+    units: lat
+  dtype: f8
+  nc_var_name: m_last_gps_lat_2

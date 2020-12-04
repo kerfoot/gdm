@@ -1,0 +1,7 @@
+u_use_pitch_servo_memory:
+  attrs:
+    long_name: u_use_pitch_servo_memory
+    sensor: u_use_pitch_servo_memory
+    units: bool
+  dtype: i1
+  nc_var_name: u_use_pitch_servo_memory

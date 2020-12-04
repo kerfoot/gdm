@@ -1,0 +1,7 @@
+u_reqd_depth_at_surface:
+  attrs:
+    long_name: u_reqd_depth_at_surface
+    sensor: u_reqd_depth_at_surface
+    units: m
+  dtype: f4
+  nc_var_name: u_reqd_depth_at_surface

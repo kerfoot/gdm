@@ -1,0 +1,7 @@
+m_gps_postfix_y_lmc:
+  attrs:
+    long_name: m_gps_postfix_y_lmc
+    sensor: m_gps_postfix_y_lmc
+    units: m
+  dtype: f4
+  nc_var_name: m_gps_postfix_y_lmc

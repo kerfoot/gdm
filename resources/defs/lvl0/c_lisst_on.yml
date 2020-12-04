@@ -1,0 +1,7 @@
+c_lisst_on:
+  attrs:
+    long_name: c_lisst_on
+    sensor: c_lisst_on
+    units: sec
+  dtype: f4
+  nc_var_name: c_lisst_on

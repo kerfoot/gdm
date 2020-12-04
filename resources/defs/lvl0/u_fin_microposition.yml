@@ -1,0 +1,7 @@
+u_fin_microposition:
+  attrs:
+    long_name: u_fin_microposition
+    sensor: u_fin_microposition
+    units: bool
+  dtype: i1
+  nc_var_name: u_fin_microposition

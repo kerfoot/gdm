@@ -1,0 +1,7 @@
+u_lon_goto_l99:
+  attrs:
+    long_name: u_lon_goto_l99
+    sensor: u_lon_goto_l99
+    units: lon
+  dtype: f8
+  nc_var_name: u_lon_goto_l99

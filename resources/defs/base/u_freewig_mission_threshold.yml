@@ -1,0 +1,7 @@
+u_freewig_mission_threshold:
+  attrs:
+    long_name: u_freewig_mission_threshold
+    sensor: u_freewig_mission_threshold
+    units: int
+  dtype: f4
+  nc_var_name: u_freewig_mission_threshold

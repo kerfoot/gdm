@@ -1,0 +1,7 @@
+sci_obsvr_storage_used:
+  attrs:
+    long_name: sci_obsvr_storage_used
+    sensor: sci_obsvr_storage_used
+    units: '%'
+  dtype: f4
+  nc_var_name: sci_obsvr_storage_used

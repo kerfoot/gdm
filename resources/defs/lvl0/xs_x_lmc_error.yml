@@ -1,0 +1,7 @@
+xs_x_lmc_error:
+  attrs:
+    long_name: xs_x_lmc_error
+    sensor: xs_x_lmc_error
+    units: m
+  dtype: f4
+  nc_var_name: xs_x_lmc_error

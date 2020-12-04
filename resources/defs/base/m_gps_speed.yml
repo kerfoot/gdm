@@ -1,0 +1,7 @@
+m_gps_speed:
+  attrs:
+    long_name: m_gps_speed
+    sensor: m_gps_speed
+    units: m/s
+  dtype: f4
+  nc_var_name: m_gps_speed

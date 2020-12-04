@@ -1,0 +1,7 @@
+c_flbbcd_on:
+  attrs:
+    long_name: c_flbbcd_on
+    sensor: c_flbbcd_on
+    units: sec
+  dtype: f4
+  nc_var_name: c_flbbcd_on

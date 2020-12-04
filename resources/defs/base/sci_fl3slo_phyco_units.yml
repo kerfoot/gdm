@@ -1,0 +1,7 @@
+sci_fl3slo_phyco_units:
+  attrs:
+    long_name: sci_fl3slo_phyco_units
+    sensor: sci_fl3slo_phyco_units
+    units: ppb
+  dtype: f4
+  nc_var_name: sci_fl3slo_phyco_units

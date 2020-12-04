@@ -1,0 +1,7 @@
+u_flbb_bb_do:
+  attrs:
+    long_name: u_flbb_bb_do
+    sensor: u_flbb_bb_do
+    units: nodim
+  dtype: f4
+  nc_var_name: u_flbb_bb_do

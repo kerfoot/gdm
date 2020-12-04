@@ -1,0 +1,7 @@
+c_dvl_on:
+  attrs:
+    long_name: c_dvl_on
+    sensor: c_dvl_on
+    units: sec
+  dtype: f4
+  nc_var_name: c_dvl_on

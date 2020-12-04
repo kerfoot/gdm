@@ -1,0 +1,7 @@
+f_battpos_db_frac_dz:
+  attrs:
+    long_name: f_battpos_db_frac_dz
+    sensor: f_battpos_db_frac_dz
+    units: nodim
+  dtype: f4
+  nc_var_name: f_battpos_db_frac_dz

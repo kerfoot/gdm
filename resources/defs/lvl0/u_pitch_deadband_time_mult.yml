@@ -1,0 +1,7 @@
+u_pitch_deadband_time_mult:
+  attrs:
+    long_name: u_pitch_deadband_time_mult
+    sensor: u_pitch_deadband_time_mult
+    units: nodim
+  dtype: f4
+  nc_var_name: u_pitch_deadband_time_mult

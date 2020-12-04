@@ -1,0 +1,7 @@
+f_bms_battery_packs_present:
+  attrs:
+    long_name: f_bms_battery_packs_present
+    sensor: f_bms_battery_packs_present
+    units: nodim
+  dtype: f4
+  nc_var_name: f_bms_battery_packs_present

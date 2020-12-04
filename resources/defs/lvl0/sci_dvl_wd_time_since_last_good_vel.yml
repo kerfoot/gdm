@@ -1,0 +1,7 @@
+sci_dvl_wd_time_since_last_good_vel:
+  attrs:
+    long_name: sci_dvl_wd_time_since_last_good_vel
+    sensor: sci_dvl_wd_time_since_last_good_vel
+    units: sec
+  dtype: f4
+  nc_var_name: sci_dvl_wd_time_since_last_good_vel

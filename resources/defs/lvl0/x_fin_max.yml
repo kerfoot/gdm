@@ -1,0 +1,7 @@
+x_fin_max:
+  attrs:
+    long_name: x_fin_max
+    sensor: x_fin_max
+    units: rad
+  dtype: f4
+  nc_var_name: x_fin_max

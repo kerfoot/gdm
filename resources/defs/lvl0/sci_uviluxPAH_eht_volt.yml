@@ -1,0 +1,7 @@
+sci_uviluxPAH_eht_volt:
+  attrs:
+    long_name: sci_uviluxPAH_eht_volt
+    sensor: sci_uviluxPAH_eht_volt
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_uviluxPAH_eht_volt

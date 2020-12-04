@@ -1,0 +1,7 @@
+x_last_wpt_lon:
+  attrs:
+    long_name: x_last_wpt_lon
+    sensor: x_last_wpt_lon
+    units: lon
+  dtype: f8
+  nc_var_name: x_last_wpt_lon

@@ -1,0 +1,7 @@
+u_flbbbbV1_bb1_sf:
+  attrs:
+    long_name: u_flbbbbV1_bb1_sf
+    sensor: u_flbbbbV1_bb1_sf
+    units: Mnodim
+  dtype: f4
+  nc_var_name: u_flbbbbV1_bb1_sf

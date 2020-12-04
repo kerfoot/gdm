@@ -1,0 +1,7 @@
+sci_oxy4_calphase:
+  attrs:
+    long_name: sci_oxy4_calphase
+    sensor: sci_oxy4_calphase
+    units: deg
+  dtype: f4
+  nc_var_name: sci_oxy4_calphase

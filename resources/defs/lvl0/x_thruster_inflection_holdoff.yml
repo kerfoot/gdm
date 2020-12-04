@@ -1,0 +1,7 @@
+x_thruster_inflection_holdoff:
+  attrs:
+    long_name: x_thruster_inflection_holdoff
+    sensor: x_thruster_inflection_holdoff
+    units: sec
+  dtype: f4
+  nc_var_name: x_thruster_inflection_holdoff

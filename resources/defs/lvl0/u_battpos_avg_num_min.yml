@@ -1,0 +1,7 @@
+u_battpos_avg_num_min:
+  attrs:
+    long_name: u_battpos_avg_num_min
+    sensor: u_battpos_avg_num_min
+    units: enum
+  dtype: i1
+  nc_var_name: u_battpos_avg_num_min

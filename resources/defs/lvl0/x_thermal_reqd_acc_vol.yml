@@ -1,0 +1,7 @@
+x_thermal_reqd_acc_vol:
+  attrs:
+    long_name: x_thermal_reqd_acc_vol
+    sensor: x_thermal_reqd_acc_vol
+    units: cc
+  dtype: f4
+  nc_var_name: x_thermal_reqd_acc_vol

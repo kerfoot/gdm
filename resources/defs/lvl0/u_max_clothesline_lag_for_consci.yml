@@ -1,0 +1,7 @@
+u_max_clothesline_lag_for_consci:
+  attrs:
+    long_name: u_max_clothesline_lag_for_consci
+    sensor: u_max_clothesline_lag_for_consci
+    units: s
+  dtype: f4
+  nc_var_name: u_max_clothesline_lag_for_consci

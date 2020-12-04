@@ -1,0 +1,7 @@
+u_sam_eff_pathlength:
+  attrs:
+    long_name: u_sam_eff_pathlength
+    sensor: u_sam_eff_pathlength
+    units: nodim
+  dtype: f4
+  nc_var_name: u_sam_eff_pathlength

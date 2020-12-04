@@ -1,0 +1,7 @@
+sci_uviluxPAH_sig:
+  attrs:
+    long_name: sci_uviluxPAH_sig
+    sensor: sci_uviluxPAH_sig
+    units: ug/l
+  dtype: f4
+  nc_var_name: sci_uviluxPAH_sig

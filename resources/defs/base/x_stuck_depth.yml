@@ -1,0 +1,7 @@
+x_stuck_depth:
+  attrs:
+    long_name: x_stuck_depth
+    sensor: x_stuck_depth
+    units: m
+  dtype: f4
+  nc_var_name: x_stuck_depth

@@ -1,0 +1,7 @@
+u_iridium_data_rate:
+  attrs:
+    long_name: u_iridium_data_rate
+    sensor: u_iridium_data_rate
+    units: KBps
+  dtype: f4
+  nc_var_name: u_iridium_data_rate

@@ -1,0 +1,7 @@
+sci_moteopd_sn:
+  attrs:
+    long_name: sci_moteopd_sn
+    sensor: sci_moteopd_sn
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_moteopd_sn

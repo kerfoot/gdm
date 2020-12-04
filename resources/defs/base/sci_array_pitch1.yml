@@ -1,0 +1,7 @@
+sci_array_pitch1:
+  attrs:
+    long_name: sci_array_pitch1
+    sensor: sci_array_pitch1
+    units: deg
+  dtype: f4
+  nc_var_name: sci_array_pitch1

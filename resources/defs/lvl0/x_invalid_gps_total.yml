@@ -1,0 +1,7 @@
+x_invalid_gps_total:
+  attrs:
+    long_name: x_invalid_gps_total
+    sensor: x_invalid_gps_total
+    units: nodim
+  dtype: f4
+  nc_var_name: x_invalid_gps_total

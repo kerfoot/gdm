@@ -1,0 +1,7 @@
+x_are_in_lab:
+  attrs:
+    long_name: x_are_in_lab
+    sensor: x_are_in_lab
+    units: bool
+  dtype: i1
+  nc_var_name: x_are_in_lab

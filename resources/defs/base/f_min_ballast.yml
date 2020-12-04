@@ -1,0 +1,7 @@
+f_min_ballast:
+  attrs:
+    long_name: f_min_ballast
+    sensor: f_min_ballast
+    units: X
+  dtype: f4
+  nc_var_name: f_min_ballast

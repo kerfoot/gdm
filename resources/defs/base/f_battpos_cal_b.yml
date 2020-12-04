@@ -1,0 +1,7 @@
+f_battpos_cal_b:
+  attrs:
+    long_name: f_battpos_cal_b
+    sensor: f_battpos_cal_b
+    units: inches
+  dtype: f4
+  nc_var_name: f_battpos_cal_b

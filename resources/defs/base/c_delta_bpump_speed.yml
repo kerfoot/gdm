@@ -1,0 +1,7 @@
+c_delta_bpump_speed:
+  attrs:
+    long_name: c_delta_bpump_speed
+    sensor: c_delta_bpump_speed
+    units: X
+  dtype: f4
+  nc_var_name: c_delta_bpump_speed

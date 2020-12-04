@@ -1,0 +1,7 @@
+c_science_all_on_enabled:
+  attrs:
+    long_name: c_science_all_on_enabled
+    sensor: c_science_all_on_enabled
+    units: bool
+  dtype: i1
+  nc_var_name: c_science_all_on_enabled

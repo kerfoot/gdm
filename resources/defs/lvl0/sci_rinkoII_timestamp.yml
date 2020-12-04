@@ -1,0 +1,7 @@
+sci_rinkoII_timestamp:
+  attrs:
+    long_name: sci_rinkoII_timestamp
+    sensor: sci_rinkoII_timestamp
+    units: timestamp
+  dtype: f8
+  nc_var_name: sci_rinkoII_timestamp

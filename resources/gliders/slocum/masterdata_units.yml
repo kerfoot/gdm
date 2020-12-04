@@ -1,0 +1,117 @@
+# Masterdata sensor unit -> udunits2 sensor mappings
+'%': 
+1/m: m-1
+1/rad: rad-1
+1/rad-sec: rad-1 sec-1
+1/sec: sec-1
+Celsius: degrees_C
+Hz: 
+KBps: 
+Mbytes: 
+Mnodim: 
+NTU: 
+NTU/nodim: 
+QSDE: 
+S/m: S m-1
+Tnodim: 
+X: 
+abstime: 
+amp: 
+amp-hrs: 
+amps: 
+bar: 
+bar/m: bar m-1
+bool: '1'
+button: 
+byte: 
+bytes: 
+c: 
+cc: 
+cc-s/m: 
+cc/Volt: 
+cc/m: cc m-1
+cc/sec: cc sec-1
+counts: 
+dB: 
+days: 
+dbar: 
+deg: degrees_C
+degC: degrees_C
+degc: degrees_C
+digits: 
+enum: 
+hours: 
+in: 
+in/sec: inches sec-1
+inHg: 
+inHg/Volt: inHg volt-1
+inches: 
+inches/Volt: inchces volt-1
+inches/sec: inches sec-1
+int: 
+joules: 
+kjoules: 
+km: 
+lat: degrees_decimal_minutes
+lon: degrees_decimal_minutes
+m: 
+m-s: m s
+m/m: m m-1
+m/s: m sec-1
+m/s-amp: m s-1 amp-1 
+m/s-amp-amp: 
+m/s-volts: 
+mS/cm: mS cm-1
+mV: 
+mbar: 
+mg/l: mg L-1
+mgN/L: mgN L-1
+min: 
+mins: 
+mm/s: mm sec-1
+ms: 
+msec: 
+msecs: 
+nodim: 
+nodim)0.25: nodim
+out: 
+photons/s: photons sec-1
+photons/s/L: photons sec-1 L-1
+ppb: 
+ppb/count/nodim: 
+ppb/l/nodim: 
+ppb/nodim: 
+ppm: 
+ppmv: 
+ppt: 
+psu: '1'
+rad: 
+rad-sec: rad sec
+rad/Volt: rad volt-1
+rad/cc: rad cc-1
+rad/in: rad inch-1
+rad/s: rad sec-1
+rad/sec: rad sec-1
+rpm: 
+s: 
+s/rad: sec rad-1
+sec: 
+sec/rad: sec rad-1
+secs: 
+sensors/sec: seconds sec-1
+timestamp: seconds since 1970-01-01 00:00:00Z
+uE/m^2sec: microEinsteins m-2 sec-1
+uL/L: uL L-1
+uM: microMoles
+uT: 
+uW/cm^2/nm: microWatts cm-2 nm-1
+uatm: 
+ug/l: ug L-1
+ug/l/nodim: 
+um: micron
+umol-photons/m^2/s: 
+volts: 
+volts/sec: volts sec-1
+watt: 
+watt-hrs: 
+yos: 

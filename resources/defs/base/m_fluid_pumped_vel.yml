@@ -1,0 +1,7 @@
+m_fluid_pumped_vel:
+  attrs:
+    long_name: m_fluid_pumped_vel
+    sensor: m_fluid_pumped_vel
+    units: cc/sec
+  dtype: f4
+  nc_var_name: m_fluid_pumped_vel

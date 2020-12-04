@@ -1,0 +1,7 @@
+m_pitch_error:
+  attrs:
+    long_name: m_pitch_error
+    sensor: m_pitch_error
+    units: rad
+  dtype: f4
+  nc_var_name: m_pitch_error

@@ -1,0 +1,7 @@
+s_water_depth_avg:
+  attrs:
+    long_name: s_water_depth_avg
+    sensor: s_water_depth_avg
+    units: m
+  dtype: f4
+  nc_var_name: s_water_depth_avg

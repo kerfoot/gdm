@@ -1,0 +1,7 @@
+sci_bbam_beam_c:
+  attrs:
+    long_name: sci_bbam_beam_c
+    sensor: sci_bbam_beam_c
+    units: 1/m
+  dtype: f4
+  nc_var_name: sci_bbam_beam_c

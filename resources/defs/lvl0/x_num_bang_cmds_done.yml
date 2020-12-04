@@ -1,0 +1,7 @@
+x_num_bang_cmds_done:
+  attrs:
+    long_name: x_num_bang_cmds_done
+    sensor: x_num_bang_cmds_done
+    units: nodim
+  dtype: f4
+  nc_var_name: x_num_bang_cmds_done

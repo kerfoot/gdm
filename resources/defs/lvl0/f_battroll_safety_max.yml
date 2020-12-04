@@ -1,0 +1,7 @@
+f_battroll_safety_max:
+  attrs:
+    long_name: f_battroll_safety_max
+    sensor: f_battroll_safety_max
+    units: rad
+  dtype: f4
+  nc_var_name: f_battroll_safety_max

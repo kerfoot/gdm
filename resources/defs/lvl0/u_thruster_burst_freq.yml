@@ -1,0 +1,7 @@
+u_thruster_burst_freq:
+  attrs:
+    long_name: u_thruster_burst_freq
+    sensor: u_thruster_burst_freq
+    units: hours
+  dtype: f4
+  nc_var_name: u_thruster_burst_freq

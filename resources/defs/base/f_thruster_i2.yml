@@ -1,0 +1,7 @@
+f_thruster_i2:
+  attrs:
+    long_name: f_thruster_i2
+    sensor: f_thruster_i2
+    units: m/s-amp-amp
+  dtype: f4
+  nc_var_name: f_thruster_i2

@@ -1,0 +1,7 @@
+sci_moteopd_volt:
+  attrs:
+    long_name: sci_moteopd_volt
+    sensor: sci_moteopd_volt
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_moteopd_volt

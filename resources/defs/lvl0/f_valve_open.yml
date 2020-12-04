@@ -1,0 +1,7 @@
+f_valve_open:
+  attrs:
+    long_name: f_valve_open
+    sensor: f_valve_open
+    units: int
+  dtype: f4
+  nc_var_name: f_valve_open

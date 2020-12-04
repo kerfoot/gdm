@@ -1,0 +1,7 @@
+f_nominal_dive_rate:
+  attrs:
+    long_name: f_nominal_dive_rate
+    sensor: f_nominal_dive_rate
+    units: m/s
+  dtype: f4
+  nc_var_name: f_nominal_dive_rate

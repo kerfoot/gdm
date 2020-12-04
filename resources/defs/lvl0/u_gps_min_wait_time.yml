@@ -1,0 +1,7 @@
+u_gps_min_wait_time:
+  attrs:
+    long_name: u_gps_min_wait_time
+    sensor: u_gps_min_wait_time
+    units: sec
+  dtype: f4
+  nc_var_name: u_gps_min_wait_time

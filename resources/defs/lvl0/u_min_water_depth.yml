@@ -1,0 +1,7 @@
+u_min_water_depth:
+  attrs:
+    long_name: u_min_water_depth
+    sensor: u_min_water_depth
+    units: m
+  dtype: f4
+  nc_var_name: u_min_water_depth

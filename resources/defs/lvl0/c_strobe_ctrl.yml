@@ -1,0 +1,7 @@
+c_strobe_ctrl:
+  attrs:
+    long_name: c_strobe_ctrl
+    sensor: c_strobe_ctrl
+    units: bool
+  dtype: i1
+  nc_var_name: c_strobe_ctrl

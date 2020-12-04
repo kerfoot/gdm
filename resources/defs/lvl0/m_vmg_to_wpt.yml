@@ -1,0 +1,7 @@
+m_vmg_to_wpt:
+  attrs:
+    long_name: m_vmg_to_wpt
+    sensor: m_vmg_to_wpt
+    units: m/s
+  dtype: f4
+  nc_var_name: m_vmg_to_wpt

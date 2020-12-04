@@ -1,0 +1,7 @@
+sci_glbps_year:
+  attrs:
+    long_name: sci_glbps_year
+    sensor: sci_glbps_year
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_glbps_year

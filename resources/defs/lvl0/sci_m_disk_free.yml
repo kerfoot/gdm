@@ -1,0 +1,7 @@
+sci_m_disk_free:
+  attrs:
+    long_name: sci_m_disk_free
+    sensor: sci_m_disk_free
+    units: Mbytes
+  dtype: f4
+  nc_var_name: sci_m_disk_free

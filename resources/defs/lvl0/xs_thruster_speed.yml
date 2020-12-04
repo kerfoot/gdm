@@ -1,0 +1,7 @@
+xs_thruster_speed:
+  attrs:
+    long_name: xs_thruster_speed
+    sensor: xs_thruster_speed
+    units: m/s
+  dtype: f4
+  nc_var_name: xs_thruster_speed

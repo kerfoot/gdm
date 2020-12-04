@@ -1,0 +1,7 @@
+u_zmodem_verbosity:
+  attrs:
+    long_name: u_zmodem_verbosity
+    sensor: u_zmodem_verbosity
+    units: nodim
+  dtype: f4
+  nc_var_name: u_zmodem_verbosity

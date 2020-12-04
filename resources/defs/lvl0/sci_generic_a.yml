@@ -1,0 +1,7 @@
+sci_generic_a:
+  attrs:
+    long_name: sci_generic_a
+    sensor: sci_generic_a
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_generic_a

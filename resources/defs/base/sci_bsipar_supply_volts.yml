@@ -1,0 +1,7 @@
+sci_bsipar_supply_volts:
+  attrs:
+    long_name: sci_bsipar_supply_volts
+    sensor: sci_bsipar_supply_volts
+    units: volts
+  dtype: f4
+  nc_var_name: sci_bsipar_supply_volts

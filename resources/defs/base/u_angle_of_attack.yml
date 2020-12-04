@@ -1,0 +1,7 @@
+u_angle_of_attack:
+  attrs:
+    long_name: u_angle_of_attack
+    sensor: u_angle_of_attack
+    units: rad
+  dtype: f4
+  nc_var_name: u_angle_of_attack

@@ -1,0 +1,7 @@
+m_iridium_waiting_redial_delay:
+  attrs:
+    long_name: m_iridium_waiting_redial_delay
+    sensor: m_iridium_waiting_redial_delay
+    units: bool
+  dtype: i1
+  nc_var_name: m_iridium_waiting_redial_delay

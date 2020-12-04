@@ -1,0 +1,7 @@
+c_badd_debug:
+  attrs:
+    long_name: c_badd_debug
+    sensor: c_badd_debug
+    units: enum
+  dtype: i1
+  nc_var_name: c_badd_debug

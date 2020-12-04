@@ -1,0 +1,7 @@
+f_ccd_time:
+  attrs:
+    long_name: f_ccd_time
+    sensor: f_ccd_time
+    units: ms
+  dtype: f4
+  nc_var_name: f_ccd_time

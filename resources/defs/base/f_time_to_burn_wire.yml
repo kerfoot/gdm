@@ -1,0 +1,7 @@
+f_time_to_burn_wire:
+  attrs:
+    long_name: f_time_to_burn_wire
+    sensor: f_time_to_burn_wire
+    units: sec
+  dtype: f4
+  nc_var_name: f_time_to_burn_wire

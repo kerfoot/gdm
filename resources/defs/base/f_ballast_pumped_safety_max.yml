@@ -1,0 +1,7 @@
+f_ballast_pumped_safety_max:
+  attrs:
+    long_name: f_ballast_pumped_safety_max
+    sensor: f_ballast_pumped_safety_max
+    units: cc
+  dtype: f4
+  nc_var_name: f_ballast_pumped_safety_max

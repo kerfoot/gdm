@@ -1,0 +1,7 @@
+sci_bb3slo_b470_ref:
+  attrs:
+    long_name: sci_bb3slo_b470_ref
+    sensor: sci_bb3slo_b470_ref
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_bb3slo_b470_ref

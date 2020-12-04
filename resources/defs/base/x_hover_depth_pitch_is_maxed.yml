@@ -1,0 +1,7 @@
+x_hover_depth_pitch_is_maxed:
+  attrs:
+    long_name: x_hover_depth_pitch_is_maxed
+    sensor: x_hover_depth_pitch_is_maxed
+    units: bool
+  dtype: i1
+  nc_var_name: x_hover_depth_pitch_is_maxed

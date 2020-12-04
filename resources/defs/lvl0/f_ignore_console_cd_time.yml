@@ -1,0 +1,7 @@
+f_ignore_console_cd_time:
+  attrs:
+    long_name: f_ignore_console_cd_time
+    sensor: f_ignore_console_cd_time
+    units: sec
+  dtype: f4
+  nc_var_name: f_ignore_console_cd_time

@@ -1,0 +1,7 @@
+sci_bb2flsV5_timestamp:
+  attrs:
+    long_name: sci_bb2flsV5_timestamp
+    sensor: sci_bb2flsV5_timestamp
+    units: timestamp
+  dtype: f8
+  nc_var_name: sci_bb2flsV5_timestamp

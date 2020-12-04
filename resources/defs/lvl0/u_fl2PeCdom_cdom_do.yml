@@ -1,0 +1,7 @@
+u_fl2PeCdom_cdom_do:
+  attrs:
+    long_name: u_fl2PeCdom_cdom_do
+    sensor: u_fl2PeCdom_cdom_do
+    units: nodim
+  dtype: f4
+  nc_var_name: u_fl2PeCdom_cdom_do

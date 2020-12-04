@@ -1,0 +1,7 @@
+u_vacuum_air_bag_inflated:
+  attrs:
+    long_name: u_vacuum_air_bag_inflated
+    sensor: u_vacuum_air_bag_inflated
+    units: inHg
+  dtype: f4
+  nc_var_name: u_vacuum_air_bag_inflated

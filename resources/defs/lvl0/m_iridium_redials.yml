@@ -1,0 +1,7 @@
+m_iridium_redials:
+  attrs:
+    long_name: m_iridium_redials
+    sensor: m_iridium_redials
+    units: nodim
+  dtype: f4
+  nc_var_name: m_iridium_redials

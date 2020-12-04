@@ -1,0 +1,7 @@
+u_diveclimb_msg_print:
+  attrs:
+    long_name: u_diveclimb_msg_print
+    sensor: u_diveclimb_msg_print
+    units: nodim
+  dtype: f4
+  nc_var_name: u_diveclimb_msg_print

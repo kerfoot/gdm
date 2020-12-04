@@ -1,0 +1,7 @@
+sci_glbps_timestamp:
+  attrs:
+    long_name: sci_glbps_timestamp
+    sensor: sci_glbps_timestamp
+    units: timestamp
+  dtype: f8
+  nc_var_name: sci_glbps_timestamp

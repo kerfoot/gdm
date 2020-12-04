@@ -1,0 +1,7 @@
+s_battery:
+  attrs:
+    long_name: s_battery
+    sensor: s_battery
+    units: volts
+  dtype: f4
+  nc_var_name: s_battery

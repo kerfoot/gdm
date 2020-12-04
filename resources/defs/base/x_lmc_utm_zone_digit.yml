@@ -1,0 +1,7 @@
+x_lmc_utm_zone_digit:
+  attrs:
+    long_name: x_lmc_utm_zone_digit
+    sensor: x_lmc_utm_zone_digit
+    units: byte
+  dtype: i1
+  nc_var_name: x_lmc_utm_zone_digit

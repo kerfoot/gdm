@@ -1,0 +1,7 @@
+dhs_start_time:
+  attrs:
+    long_name: dhs_start_time
+    sensor: dhs_start_time
+    units: abstime
+  dtype: f4
+  nc_var_name: dhs_start_time

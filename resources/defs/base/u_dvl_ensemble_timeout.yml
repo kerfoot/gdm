@@ -1,0 +1,7 @@
+u_dvl_ensemble_timeout:
+  attrs:
+    long_name: u_dvl_ensemble_timeout
+    sensor: u_dvl_ensemble_timeout
+    units: sec
+  dtype: f4
+  nc_var_name: u_dvl_ensemble_timeout

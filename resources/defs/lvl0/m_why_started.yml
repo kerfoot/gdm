@@ -1,0 +1,7 @@
+m_why_started:
+  attrs:
+    long_name: m_why_started
+    sensor: m_why_started
+    units: enum
+  dtype: i1
+  nc_var_name: m_why_started

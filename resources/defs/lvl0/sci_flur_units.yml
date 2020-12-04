@@ -1,0 +1,7 @@
+sci_flur_units:
+  attrs:
+    long_name: sci_flur_units
+    sensor: sci_flur_units
+    units: ppb
+  dtype: f4
+  nc_var_name: sci_flur_units

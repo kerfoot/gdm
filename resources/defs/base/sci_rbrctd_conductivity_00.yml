@@ -1,0 +1,7 @@
+sci_rbrctd_conductivity_00:
+  attrs:
+    long_name: sci_rbrctd_conductivity_00
+    sensor: sci_rbrctd_conductivity_00
+    units: mS/cm
+  dtype: f4
+  nc_var_name: sci_rbrctd_conductivity_00

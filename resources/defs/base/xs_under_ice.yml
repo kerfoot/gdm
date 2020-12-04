@@ -1,0 +1,7 @@
+xs_under_ice:
+  attrs:
+    long_name: xs_under_ice
+    sensor: xs_under_ice
+    units: bool
+  dtype: i1
+  nc_var_name: xs_under_ice

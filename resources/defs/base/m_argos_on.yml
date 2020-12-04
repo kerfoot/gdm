@@ -1,0 +1,7 @@
+m_argos_on:
+  attrs:
+    long_name: m_argos_on
+    sensor: m_argos_on
+    units: bool
+  dtype: i1
+  nc_var_name: m_argos_on

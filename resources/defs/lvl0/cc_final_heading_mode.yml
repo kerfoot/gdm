@@ -1,0 +1,7 @@
+cc_final_heading_mode:
+  attrs:
+    long_name: cc_final_heading_mode
+    sensor: cc_final_heading_mode
+    units: enum
+  dtype: i1
+  nc_var_name: cc_final_heading_mode

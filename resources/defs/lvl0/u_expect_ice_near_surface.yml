@@ -1,0 +1,7 @@
+u_expect_ice_near_surface:
+  attrs:
+    long_name: u_expect_ice_near_surface
+    sensor: u_expect_ice_near_surface
+    units: bool
+  dtype: i1
+  nc_var_name: u_expect_ice_near_surface

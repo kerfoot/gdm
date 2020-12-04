@@ -1,0 +1,7 @@
+m_avg_thruster_power_drift:
+  attrs:
+    long_name: m_avg_thruster_power_drift
+    sensor: m_avg_thruster_power_drift
+    units: watt
+  dtype: f4
+  nc_var_name: m_avg_thruster_power_drift

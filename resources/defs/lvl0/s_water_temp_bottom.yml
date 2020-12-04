@@ -1,0 +1,7 @@
+s_water_temp_bottom:
+  attrs:
+    long_name: s_water_temp_bottom
+    sensor: s_water_temp_bottom
+    units: degc
+  dtype: f4
+  nc_var_name: s_water_temp_bottom

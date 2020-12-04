@@ -1,0 +1,7 @@
+x_deactivate_hover:
+  attrs:
+    long_name: x_deactivate_hover
+    sensor: x_deactivate_hover
+    units: bool
+  dtype: i1
+  nc_var_name: x_deactivate_hover

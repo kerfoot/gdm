@@ -1,0 +1,7 @@
+x_in_gliderdos:
+  attrs:
+    long_name: x_in_gliderdos
+    sensor: x_in_gliderdos
+    units: bool
+  dtype: i1
+  nc_var_name: x_in_gliderdos

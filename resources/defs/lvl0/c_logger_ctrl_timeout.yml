@@ -1,0 +1,7 @@
+c_logger_ctrl_timeout:
+  attrs:
+    long_name: c_logger_ctrl_timeout
+    sensor: c_logger_ctrl_timeout
+    units: sec
+  dtype: f4
+  nc_var_name: c_logger_ctrl_timeout

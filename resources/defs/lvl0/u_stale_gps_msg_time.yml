@@ -1,0 +1,7 @@
+u_stale_gps_msg_time:
+  attrs:
+    long_name: u_stale_gps_msg_time
+    sensor: u_stale_gps_msg_time
+    units: s
+  dtype: f4
+  nc_var_name: u_stale_gps_msg_time

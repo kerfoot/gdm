@@ -1,0 +1,7 @@
+sci_miniProCO2_correctedCO2:
+  attrs:
+    long_name: sci_miniProCO2_correctedCO2
+    sensor: sci_miniProCO2_correctedCO2
+    units: ppmv
+  dtype: f4
+  nc_var_name: sci_miniProCO2_correctedCO2

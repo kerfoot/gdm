@@ -1,0 +1,7 @@
+u_vsf_125_sf:
+  attrs:
+    long_name: u_vsf_125_sf
+    sensor: u_vsf_125_sf
+    units: Mnodim
+  dtype: f4
+  nc_var_name: u_vsf_125_sf

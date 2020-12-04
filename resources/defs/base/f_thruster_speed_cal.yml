@@ -1,0 +1,7 @@
+f_thruster_speed_cal:
+  attrs:
+    long_name: f_thruster_speed_cal
+    sensor: f_thruster_speed_cal
+    units: nodim
+  dtype: f4
+  nc_var_name: f_thruster_speed_cal

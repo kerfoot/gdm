@@ -1,0 +1,7 @@
+m_pitch_energy:
+  attrs:
+    long_name: m_pitch_energy
+    sensor: m_pitch_energy
+    units: joules
+  dtype: f4
+  nc_var_name: m_pitch_energy

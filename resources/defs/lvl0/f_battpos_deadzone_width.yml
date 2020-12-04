@@ -1,0 +1,7 @@
+f_battpos_deadzone_width:
+  attrs:
+    long_name: f_battpos_deadzone_width
+    sensor: f_battpos_deadzone_width
+    units: inches
+  dtype: f4
+  nc_var_name: f_battpos_deadzone_width

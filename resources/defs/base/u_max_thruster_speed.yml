@@ -1,0 +1,7 @@
+u_max_thruster_speed:
+  attrs:
+    long_name: u_max_thruster_speed
+    sensor: u_max_thruster_speed
+    units: m/s
+  dtype: f4
+  nc_var_name: u_max_thruster_speed

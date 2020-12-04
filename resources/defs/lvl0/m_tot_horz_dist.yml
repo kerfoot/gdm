@@ -1,0 +1,7 @@
+m_tot_horz_dist:
+  attrs:
+    long_name: m_tot_horz_dist
+    sensor: m_tot_horz_dist
+    units: km
+  dtype: f4
+  nc_var_name: m_tot_horz_dist

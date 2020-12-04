@@ -1,0 +1,7 @@
+m_time_til_wpt:
+  attrs:
+    long_name: m_time_til_wpt
+    sensor: m_time_til_wpt
+    units: s
+  dtype: f4
+  nc_var_name: m_time_til_wpt

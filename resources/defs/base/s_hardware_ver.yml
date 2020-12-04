@@ -1,0 +1,7 @@
+s_hardware_ver:
+  attrs:
+    long_name: s_hardware_ver
+    sensor: s_hardware_ver
+    units: nodim
+  dtype: f4
+  nc_var_name: s_hardware_ver

@@ -1,0 +1,7 @@
+sci_suna_nitrate_concentration:
+  attrs:
+    long_name: sci_suna_nitrate_concentration
+    sensor: sci_suna_nitrate_concentration
+    units: uM
+  dtype: f4
+  nc_var_name: sci_suna_nitrate_concentration

@@ -1,0 +1,7 @@
+dhs_channel:
+  attrs:
+    long_name: dhs_channel
+    sensor: dhs_channel
+    units: nodim
+  dtype: f4
+  nc_var_name: dhs_channel

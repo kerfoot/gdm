@@ -1,0 +1,7 @@
+sci_dvl_we_u_vel:
+  attrs:
+    long_name: sci_dvl_we_u_vel
+    sensor: sci_dvl_we_u_vel
+    units: mm/s
+  dtype: f4
+  nc_var_name: sci_dvl_we_u_vel

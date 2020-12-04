@@ -1,0 +1,7 @@
+u_hover_depth_p_gain_min:
+  attrs:
+    long_name: u_hover_depth_p_gain_min
+    sensor: u_hover_depth_p_gain_min
+    units: X
+  dtype: f4
+  nc_var_name: u_hover_depth_p_gain_min

@@ -1,0 +1,7 @@
+sci_ubat_HV_step:
+  attrs:
+    long_name: sci_ubat_HV_step
+    sensor: sci_ubat_HV_step
+    units: volts
+  dtype: f4
+  nc_var_name: sci_ubat_HV_step

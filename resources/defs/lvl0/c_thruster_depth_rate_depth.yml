@@ -1,0 +1,7 @@
+c_thruster_depth_rate_depth:
+  attrs:
+    long_name: c_thruster_depth_rate_depth
+    sensor: c_thruster_depth_rate_depth
+    units: m
+  dtype: f4
+  nc_var_name: c_thruster_depth_rate_depth

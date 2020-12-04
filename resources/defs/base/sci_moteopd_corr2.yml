@@ -1,0 +1,7 @@
+sci_moteopd_corr2:
+  attrs:
+    long_name: sci_moteopd_corr2
+    sensor: sci_moteopd_corr2
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_moteopd_corr2

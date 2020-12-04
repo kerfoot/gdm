@@ -1,0 +1,7 @@
+m_device_warning:
+  attrs:
+    long_name: m_device_warning
+    sensor: m_device_warning
+    units: nodim
+  dtype: f4
+  nc_var_name: m_device_warning

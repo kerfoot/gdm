@@ -1,0 +1,7 @@
+u_tickle_on_console_cd:
+  attrs:
+    long_name: u_tickle_on_console_cd
+    sensor: u_tickle_on_console_cd
+    units: bool
+  dtype: i1
+  nc_var_name: u_tickle_on_console_cd

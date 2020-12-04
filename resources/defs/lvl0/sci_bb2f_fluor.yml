@@ -1,0 +1,7 @@
+sci_bb2f_fluor:
+  attrs:
+    long_name: sci_bb2f_fluor
+    sensor: sci_bb2f_fluor
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_bb2f_fluor

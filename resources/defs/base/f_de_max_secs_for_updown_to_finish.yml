@@ -1,0 +1,7 @@
+f_de_max_secs_for_updown_to_finish:
+  attrs:
+    long_name: f_de_max_secs_for_updown_to_finish
+    sensor: f_de_max_secs_for_updown_to_finish
+    units: secs
+  dtype: f4
+  nc_var_name: f_de_max_secs_for_updown_to_finish

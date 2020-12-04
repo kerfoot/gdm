@@ -1,0 +1,7 @@
+s_de_oil_pot_volt_flux:
+  attrs:
+    long_name: s_de_oil_pot_volt_flux
+    sensor: s_de_oil_pot_volt_flux
+    units: volts/sec
+  dtype: f4
+  nc_var_name: s_de_oil_pot_volt_flux

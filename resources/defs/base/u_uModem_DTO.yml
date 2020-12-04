@@ -1,0 +1,7 @@
+u_uModem_DTO:
+  attrs:
+    long_name: u_uModem_DTO
+    sensor: u_uModem_DTO
+    units: sec
+  dtype: f4
+  nc_var_name: u_uModem_DTO

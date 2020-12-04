@@ -1,0 +1,7 @@
+m_science_sync_time:
+  attrs:
+    long_name: m_science_sync_time
+    sensor: m_science_sync_time
+    units: timestamp
+  dtype: f8
+  nc_var_name: m_science_sync_time

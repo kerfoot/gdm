@@ -1,0 +1,7 @@
+m_vacuum:
+  attrs:
+    long_name: m_vacuum
+    sensor: m_vacuum
+    units: inHg
+  dtype: f4
+  nc_var_name: m_vacuum

@@ -1,0 +1,7 @@
+f_ballast_pumped_stall_retry:
+  attrs:
+    long_name: f_ballast_pumped_stall_retry
+    sensor: f_ballast_pumped_stall_retry
+    units: sec
+  dtype: f4
+  nc_var_name: f_ballast_pumped_stall_retry

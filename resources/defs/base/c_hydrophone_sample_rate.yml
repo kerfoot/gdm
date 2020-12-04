@@ -1,0 +1,7 @@
+c_hydrophone_sample_rate:
+  attrs:
+    long_name: c_hydrophone_sample_rate
+    sensor: c_hydrophone_sample_rate
+    units: Hz
+  dtype: f4
+  nc_var_name: c_hydrophone_sample_rate

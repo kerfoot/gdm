@@ -1,0 +1,7 @@
+dhs_xmit_files:
+  attrs:
+    long_name: dhs_xmit_files
+    sensor: dhs_xmit_files
+    units: nodim
+  dtype: f4
+  nc_var_name: dhs_xmit_files

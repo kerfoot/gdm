@@ -1,0 +1,7 @@
+sci_oxy4_saturation:
+  attrs:
+    long_name: sci_oxy4_saturation
+    sensor: sci_oxy4_saturation
+    units: '%'
+  dtype: f4
+  nc_var_name: sci_oxy4_saturation

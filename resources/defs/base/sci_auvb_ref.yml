@@ -1,0 +1,7 @@
+sci_auvb_ref:
+  attrs:
+    long_name: sci_auvb_ref
+    sensor: sci_auvb_ref
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_auvb_ref

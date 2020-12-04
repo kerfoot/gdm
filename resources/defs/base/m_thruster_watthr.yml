@@ -1,0 +1,7 @@
+m_thruster_watthr:
+  attrs:
+    long_name: m_thruster_watthr
+    sensor: m_thruster_watthr
+    units: watt-hrs
+  dtype: f4
+  nc_var_name: m_thruster_watthr

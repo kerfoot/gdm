@@ -1,0 +1,7 @@
+m_vacuum_change_since_air_pump_on:
+  attrs:
+    long_name: m_vacuum_change_since_air_pump_on
+    sensor: m_vacuum_change_since_air_pump_on
+    units: inHg
+  dtype: f4
+  nc_var_name: m_vacuum_change_since_air_pump_on

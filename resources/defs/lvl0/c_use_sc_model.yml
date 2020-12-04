@@ -1,0 +1,7 @@
+c_use_sc_model:
+  attrs:
+    long_name: c_use_sc_model
+    sensor: c_use_sc_model
+    units: bool
+  dtype: i1
+  nc_var_name: c_use_sc_model

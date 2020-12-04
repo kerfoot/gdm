@@ -1,0 +1,7 @@
+sci_flrh_units:
+  attrs:
+    long_name: sci_flrh_units
+    sensor: sci_flrh_units
+    units: ppb
+  dtype: f4
+  nc_var_name: sci_flrh_units

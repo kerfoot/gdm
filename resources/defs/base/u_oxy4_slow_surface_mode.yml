@@ -1,0 +1,7 @@
+u_oxy4_slow_surface_mode:
+  attrs:
+    long_name: u_oxy4_slow_surface_mode
+    sensor: u_oxy4_slow_surface_mode
+    units: bool
+  dtype: i1
+  nc_var_name: u_oxy4_slow_surface_mode

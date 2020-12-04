@@ -1,0 +1,7 @@
+u_max_pitch_ap_period:
+  attrs:
+    long_name: u_max_pitch_ap_period
+    sensor: u_max_pitch_ap_period
+    units: sec
+  dtype: f4
+  nc_var_name: u_max_pitch_ap_period

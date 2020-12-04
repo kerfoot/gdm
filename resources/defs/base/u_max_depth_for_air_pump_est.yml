@@ -1,0 +1,7 @@
+u_max_depth_for_air_pump_est:
+  attrs:
+    long_name: u_max_depth_for_air_pump_est
+    sensor: u_max_depth_for_air_pump_est
+    units: m
+  dtype: f4
+  nc_var_name: u_max_depth_for_air_pump_est

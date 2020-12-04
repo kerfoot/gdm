@@ -1,0 +1,7 @@
+c_badd_datacol_status_secs:
+  attrs:
+    long_name: c_badd_datacol_status_secs
+    sensor: c_badd_datacol_status_secs
+    units: sec
+  dtype: f4
+  nc_var_name: c_badd_datacol_status_secs

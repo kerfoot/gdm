@@ -1,0 +1,7 @@
+s_ocean_pressure_min:
+  attrs:
+    long_name: s_ocean_pressure_min
+    sensor: s_ocean_pressure_min
+    units: volts
+  dtype: f4
+  nc_var_name: s_ocean_pressure_min

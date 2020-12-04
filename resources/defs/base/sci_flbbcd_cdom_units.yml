@@ -1,0 +1,7 @@
+sci_flbbcd_cdom_units:
+  attrs:
+    long_name: sci_flbbcd_cdom_units
+    sensor: sci_flbbcd_cdom_units
+    units: ppb
+  dtype: f4
+  nc_var_name: sci_flbbcd_cdom_units

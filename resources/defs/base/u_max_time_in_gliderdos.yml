@@ -1,0 +1,7 @@
+u_max_time_in_gliderdos:
+  attrs:
+    long_name: u_max_time_in_gliderdos
+    sensor: u_max_time_in_gliderdos
+    units: sec
+  dtype: f4
+  nc_var_name: u_max_time_in_gliderdos

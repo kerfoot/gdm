@@ -1,0 +1,7 @@
+c_oxy4_num_fields_to_send:
+  attrs:
+    long_name: c_oxy4_num_fields_to_send
+    sensor: c_oxy4_num_fields_to_send
+    units: nodim
+  dtype: f4
+  nc_var_name: c_oxy4_num_fields_to_send

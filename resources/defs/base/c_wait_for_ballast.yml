@@ -1,0 +1,7 @@
+c_wait_for_ballast:
+  attrs:
+    long_name: c_wait_for_ballast
+    sensor: c_wait_for_ballast
+    units: sec
+  dtype: f4
+  nc_var_name: c_wait_for_ballast

@@ -1,0 +1,7 @@
+sci_suna_internal_date:
+  attrs:
+    long_name: sci_suna_internal_date
+    sensor: sci_suna_internal_date
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_suna_internal_date

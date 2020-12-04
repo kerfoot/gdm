@@ -1,0 +1,7 @@
+m_num_half_yos_in_segment:
+  attrs:
+    long_name: m_num_half_yos_in_segment
+    sensor: m_num_half_yos_in_segment
+    units: nodim
+  dtype: f4
+  nc_var_name: m_num_half_yos_in_segment

@@ -1,0 +1,7 @@
+x_have_we_moved_vertically:
+  attrs:
+    long_name: x_have_we_moved_vertically
+    sensor: x_have_we_moved_vertically
+    units: bool
+  dtype: i1
+  nc_var_name: x_have_we_moved_vertically

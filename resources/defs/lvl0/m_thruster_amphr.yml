@@ -1,0 +1,7 @@
+m_thruster_amphr:
+  attrs:
+    long_name: m_thruster_amphr
+    sensor: m_thruster_amphr
+    units: amp-hrs
+  dtype: f4
+  nc_var_name: m_thruster_amphr

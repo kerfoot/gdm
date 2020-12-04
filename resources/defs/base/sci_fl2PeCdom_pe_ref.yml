@@ -1,0 +1,7 @@
+sci_fl2PeCdom_pe_ref:
+  attrs:
+    long_name: sci_fl2PeCdom_pe_ref
+    sensor: sci_fl2PeCdom_pe_ref
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_fl2PeCdom_pe_ref

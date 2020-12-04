@@ -1,0 +1,7 @@
+sci_fl3slo_phyco_ref:
+  attrs:
+    long_name: sci_fl3slo_phyco_ref
+    sensor: sci_fl3slo_phyco_ref
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_fl3slo_phyco_ref

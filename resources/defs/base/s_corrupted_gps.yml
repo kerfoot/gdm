@@ -1,0 +1,7 @@
+s_corrupted_gps:
+  attrs:
+    long_name: s_corrupted_gps
+    sensor: s_corrupted_gps
+    units: bool
+  dtype: i1
+  nc_var_name: s_corrupted_gps

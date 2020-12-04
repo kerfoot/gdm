@@ -1,0 +1,7 @@
+m_att_consecutive_error:
+  attrs:
+    long_name: m_att_consecutive_error
+    sensor: m_att_consecutive_error
+    units: nodim
+  dtype: f4
+  nc_var_name: m_att_consecutive_error

@@ -1,0 +1,7 @@
+u_max_expected_iceberg_depth:
+  attrs:
+    long_name: u_max_expected_iceberg_depth
+    sensor: u_max_expected_iceberg_depth
+    units: m
+  dtype: f4
+  nc_var_name: u_max_expected_iceberg_depth

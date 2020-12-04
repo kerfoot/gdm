@@ -1,0 +1,7 @@
+u_mission_year_base:
+  attrs:
+    long_name: u_mission_year_base
+    sensor: u_mission_year_base
+    units: int
+  dtype: f4
+  nc_var_name: u_mission_year_base

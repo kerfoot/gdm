@@ -1,0 +1,7 @@
+x_in_surface_dialog:
+  attrs:
+    long_name: x_in_surface_dialog
+    sensor: x_in_surface_dialog
+    units: nodim
+  dtype: f4
+  nc_var_name: x_in_surface_dialog

@@ -1,0 +1,7 @@
+sci_dvl_ts_timestamp:
+  attrs:
+    long_name: sci_dvl_ts_timestamp
+    sensor: sci_dvl_ts_timestamp
+    units: timestamp
+  dtype: f8
+  nc_var_name: sci_dvl_ts_timestamp

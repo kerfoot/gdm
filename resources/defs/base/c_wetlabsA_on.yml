@@ -1,0 +1,7 @@
+c_wetlabsA_on:
+  attrs:
+    long_name: c_wetlabsA_on
+    sensor: c_wetlabsA_on
+    units: sec
+  dtype: f4
+  nc_var_name: c_wetlabsA_on

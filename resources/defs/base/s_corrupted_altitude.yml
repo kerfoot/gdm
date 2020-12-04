@@ -1,0 +1,7 @@
+s_corrupted_altitude:
+  attrs:
+    long_name: s_corrupted_altitude
+    sensor: s_corrupted_altitude
+    units: bool
+  dtype: i1
+  nc_var_name: s_corrupted_altitude

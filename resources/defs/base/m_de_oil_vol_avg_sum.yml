@@ -1,0 +1,7 @@
+m_de_oil_vol_avg_sum:
+  attrs:
+    long_name: m_de_oil_vol_avg_sum
+    sensor: m_de_oil_vol_avg_sum
+    units: cc
+  dtype: f4
+  nc_var_name: m_de_oil_vol_avg_sum

@@ -1,0 +1,7 @@
+c_primary_wpt_x_lmc:
+  attrs:
+    long_name: c_primary_wpt_x_lmc
+    sensor: c_primary_wpt_x_lmc
+    units: m
+  dtype: f4
+  nc_var_name: c_primary_wpt_x_lmc

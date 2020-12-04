@@ -1,0 +1,7 @@
+u_battpos_ap_deadband:
+  attrs:
+    long_name: u_battpos_ap_deadband
+    sensor: u_battpos_ap_deadband
+    units: inches
+  dtype: f4
+  nc_var_name: u_battpos_ap_deadband

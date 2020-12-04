@@ -1,0 +1,7 @@
+u_hover_bpump_ap_gain_shallow:
+  attrs:
+    long_name: u_hover_bpump_ap_gain_shallow
+    sensor: u_hover_bpump_ap_gain_shallow
+    units: cc/m
+  dtype: f4
+  nc_var_name: u_hover_bpump_ap_gain_shallow

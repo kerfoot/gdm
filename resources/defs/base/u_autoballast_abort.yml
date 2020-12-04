@@ -1,0 +1,7 @@
+u_autoballast_abort:
+  attrs:
+    long_name: u_autoballast_abort
+    sensor: u_autoballast_abort
+    units: bool
+  dtype: i1
+  nc_var_name: u_autoballast_abort

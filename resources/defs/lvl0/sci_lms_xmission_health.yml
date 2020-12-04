@@ -1,0 +1,7 @@
+sci_lms_xmission_health:
+  attrs:
+    long_name: sci_lms_xmission_health
+    sensor: sci_lms_xmission_health
+    units: '%'
+  dtype: f4
+  nc_var_name: sci_lms_xmission_health

@@ -1,0 +1,7 @@
+m_freewig_mission_counter:
+  attrs:
+    long_name: m_freewig_mission_counter
+    sensor: m_freewig_mission_counter
+    units: int
+  dtype: f4
+  nc_var_name: m_freewig_mission_counter

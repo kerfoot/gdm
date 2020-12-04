@@ -1,0 +1,7 @@
+sci_svs603_stop_state:
+  attrs:
+    long_name: sci_svs603_stop_state
+    sensor: sci_svs603_stop_state
+    units: enum
+  dtype: i1
+  nc_var_name: sci_svs603_stop_state

@@ -1,0 +1,7 @@
+u_sam_median_window:
+  attrs:
+    long_name: u_sam_median_window
+    sensor: u_sam_median_window
+    units: nodim
+  dtype: f4
+  nc_var_name: u_sam_median_window

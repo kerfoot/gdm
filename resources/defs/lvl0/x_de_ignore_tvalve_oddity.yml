@@ -1,0 +1,7 @@
+x_de_ignore_tvalve_oddity:
+  attrs:
+    long_name: x_de_ignore_tvalve_oddity
+    sensor: x_de_ignore_tvalve_oddity
+    units: bool
+  dtype: i1
+  nc_var_name: x_de_ignore_tvalve_oddity

@@ -1,0 +1,7 @@
+c_climb_target_depth:
+  attrs:
+    long_name: c_climb_target_depth
+    sensor: c_climb_target_depth
+    units: m
+  dtype: f4
+  nc_var_name: c_climb_target_depth

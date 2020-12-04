@@ -1,0 +1,7 @@
+xs_water_speed:
+  attrs:
+    long_name: xs_water_speed
+    sensor: xs_water_speed
+    units: m/s
+  dtype: f4
+  nc_var_name: xs_water_speed

@@ -1,0 +1,7 @@
+sci_whfctd_ref_hi:
+  attrs:
+    long_name: sci_whfctd_ref_hi
+    sensor: sci_whfctd_ref_hi
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_whfctd_ref_hi

@@ -1,0 +1,7 @@
+m_surface_depth_reached:
+  attrs:
+    long_name: m_surface_depth_reached
+    sensor: m_surface_depth_reached
+    units: bool
+  dtype: i1
+  nc_var_name: m_surface_depth_reached

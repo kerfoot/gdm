@@ -1,0 +1,7 @@
+sci_bb2fV2_chlor:
+  attrs:
+    long_name: sci_bb2fV2_chlor
+    sensor: sci_bb2fV2_chlor
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_bb2fV2_chlor

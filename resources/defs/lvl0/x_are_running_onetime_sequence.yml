@@ -1,0 +1,7 @@
+x_are_running_onetime_sequence:
+  attrs:
+    long_name: x_are_running_onetime_sequence
+    sensor: x_are_running_onetime_sequence
+    units: bool
+  dtype: i1
+  nc_var_name: x_are_running_onetime_sequence

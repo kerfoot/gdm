@@ -1,0 +1,7 @@
+sci_flrh_temp:
+  attrs:
+    long_name: sci_flrh_temp
+    sensor: sci_flrh_temp
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_flrh_temp

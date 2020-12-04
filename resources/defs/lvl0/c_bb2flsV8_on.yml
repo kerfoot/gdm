@@ -1,0 +1,7 @@
+c_bb2flsV8_on:
+  attrs:
+    long_name: c_bb2flsV8_on
+    sensor: c_bb2flsV8_on
+    units: sec
+  dtype: f4
+  nc_var_name: c_bb2flsV8_on

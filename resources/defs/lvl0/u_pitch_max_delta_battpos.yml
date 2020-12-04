@@ -1,0 +1,7 @@
+u_pitch_max_delta_battpos:
+  attrs:
+    long_name: u_pitch_max_delta_battpos
+    sensor: u_pitch_max_delta_battpos
+    units: in
+  dtype: f4
+  nc_var_name: u_pitch_max_delta_battpos

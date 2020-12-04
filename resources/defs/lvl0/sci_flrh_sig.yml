@@ -1,0 +1,7 @@
+sci_flrh_sig:
+  attrs:
+    long_name: sci_flrh_sig
+    sensor: sci_flrh_sig
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_flrh_sig

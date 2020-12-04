@@ -1,0 +1,7 @@
+u_dvl_debug_level:
+  attrs:
+    long_name: u_dvl_debug_level
+    sensor: u_dvl_debug_level
+    units: nodim
+  dtype: f4
+  nc_var_name: u_dvl_debug_level

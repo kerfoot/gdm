@@ -1,0 +1,7 @@
+f_valve_restrict:
+  attrs:
+    long_name: f_valve_restrict
+    sensor: f_valve_restrict
+    units: int
+  dtype: f4
+  nc_var_name: f_valve_restrict

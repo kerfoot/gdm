@@ -1,0 +1,7 @@
+x_hit_a_waypoint:
+  attrs:
+    long_name: x_hit_a_waypoint
+    sensor: x_hit_a_waypoint
+    units: bool
+  dtype: i1
+  nc_var_name: x_hit_a_waypoint

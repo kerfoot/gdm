@@ -1,0 +1,7 @@
+m_avg_thruster_depth:
+  attrs:
+    long_name: m_avg_thruster_depth
+    sensor: m_avg_thruster_depth
+    units: m
+  dtype: f4
+  nc_var_name: m_avg_thruster_depth

@@ -1,0 +1,7 @@
+u_min_altimeter:
+  attrs:
+    long_name: u_min_altimeter
+    sensor: u_min_altimeter
+    units: m
+  dtype: f4
+  nc_var_name: u_min_altimeter

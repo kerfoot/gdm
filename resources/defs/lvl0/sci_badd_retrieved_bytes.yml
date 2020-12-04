@@ -1,0 +1,7 @@
+sci_badd_retrieved_bytes:
+  attrs:
+    long_name: sci_badd_retrieved_bytes
+    sensor: sci_badd_retrieved_bytes
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_badd_retrieved_bytes

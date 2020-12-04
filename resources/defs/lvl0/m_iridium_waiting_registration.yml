@@ -1,0 +1,7 @@
+m_iridium_waiting_registration:
+  attrs:
+    long_name: m_iridium_waiting_registration
+    sensor: m_iridium_waiting_registration
+    units: bool
+  dtype: i1
+  nc_var_name: m_iridium_waiting_registration

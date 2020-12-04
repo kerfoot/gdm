@@ -1,0 +1,7 @@
+sci_badd_target_range:
+  attrs:
+    long_name: sci_badd_target_range
+    sensor: sci_badd_target_range
+    units: m
+  dtype: f4
+  nc_var_name: sci_badd_target_range

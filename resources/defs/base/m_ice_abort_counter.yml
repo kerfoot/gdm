@@ -1,0 +1,7 @@
+m_ice_abort_counter:
+  attrs:
+    long_name: m_ice_abort_counter
+    sensor: m_ice_abort_counter
+    units: int
+  dtype: f4
+  nc_var_name: m_ice_abort_counter

@@ -1,0 +1,7 @@
+m_gps_invalid_lat:
+  attrs:
+    long_name: m_gps_invalid_lat
+    sensor: m_gps_invalid_lat
+    units: lat
+  dtype: f8
+  nc_var_name: m_gps_invalid_lat

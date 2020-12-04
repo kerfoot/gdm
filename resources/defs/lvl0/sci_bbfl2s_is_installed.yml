@@ -1,0 +1,7 @@
+sci_bbfl2s_is_installed:
+  attrs:
+    long_name: sci_bbfl2s_is_installed
+    sensor: sci_bbfl2s_is_installed
+    units: bool
+  dtype: i1
+  nc_var_name: sci_bbfl2s_is_installed

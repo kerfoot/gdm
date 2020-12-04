@@ -1,0 +1,7 @@
+f_depth_subsampling_rate:
+  attrs:
+    long_name: f_depth_subsampling_rate
+    sensor: f_depth_subsampling_rate
+    units: sec
+  dtype: f4
+  nc_var_name: f_depth_subsampling_rate

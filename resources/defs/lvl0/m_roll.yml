@@ -1,0 +1,7 @@
+m_roll:
+  attrs:
+    long_name: m_roll
+    sensor: m_roll
+    units: rad
+  dtype: f4
+  nc_var_name: m_roll

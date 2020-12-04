@@ -1,0 +1,7 @@
+u_use_real_thruster_in_simulation:
+  attrs:
+    long_name: u_use_real_thruster_in_simulation
+    sensor: u_use_real_thruster_in_simulation
+    units: bool
+  dtype: i1
+  nc_var_name: u_use_real_thruster_in_simulation

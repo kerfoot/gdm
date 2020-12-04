@@ -1,0 +1,7 @@
+x_reset_depth_rate_thr:
+  attrs:
+    long_name: x_reset_depth_rate_thr
+    sensor: x_reset_depth_rate_thr
+    units: bool
+  dtype: i1
+  nc_var_name: x_reset_depth_rate_thr

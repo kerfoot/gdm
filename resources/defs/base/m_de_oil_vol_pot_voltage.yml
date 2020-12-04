@@ -1,0 +1,7 @@
+m_de_oil_vol_pot_voltage:
+  attrs:
+    long_name: m_de_oil_vol_pot_voltage
+    sensor: m_de_oil_vol_pot_voltage
+    units: volts
+  dtype: f4
+  nc_var_name: m_de_oil_vol_pot_voltage

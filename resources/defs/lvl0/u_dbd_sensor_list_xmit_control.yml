@@ -1,0 +1,7 @@
+u_dbd_sensor_list_xmit_control:
+  attrs:
+    long_name: u_dbd_sensor_list_xmit_control
+    sensor: u_dbd_sensor_list_xmit_control
+    units: enum
+  dtype: i1
+  nc_var_name: u_dbd_sensor_list_xmit_control

@@ -1,0 +1,7 @@
+m_de_pump_fault_count:
+  attrs:
+    long_name: m_de_pump_fault_count
+    sensor: m_de_pump_fault_count
+    units: nodim
+  dtype: f4
+  nc_var_name: m_de_pump_fault_count

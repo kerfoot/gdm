@@ -1,0 +1,7 @@
+x_system_clock_adjusted:
+  attrs:
+    long_name: x_system_clock_adjusted
+    sensor: x_system_clock_adjusted
+    units: sec
+  dtype: f4
+  nc_var_name: x_system_clock_adjusted

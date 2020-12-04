@@ -1,0 +1,7 @@
+m_gps_dist_segment:
+  attrs:
+    long_name: m_gps_dist_segment
+    sensor: m_gps_dist_segment
+    units: km
+  dtype: f4
+  nc_var_name: m_gps_dist_segment

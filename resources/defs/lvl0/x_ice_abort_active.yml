@@ -1,0 +1,7 @@
+x_ice_abort_active:
+  attrs:
+    long_name: x_ice_abort_active
+    sensor: x_ice_abort_active
+    units: nodim
+  dtype: f4
+  nc_var_name: x_ice_abort_active

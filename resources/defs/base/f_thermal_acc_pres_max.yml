@@ -1,0 +1,7 @@
+f_thermal_acc_pres_max:
+  attrs:
+    long_name: f_thermal_acc_pres_max
+    sensor: f_thermal_acc_pres_max
+    units: volts
+  dtype: f4
+  nc_var_name: f_thermal_acc_pres_max

@@ -1,0 +1,7 @@
+u_science_send_time_limit_adjustment_factor:
+  attrs:
+    long_name: u_science_send_time_limit_adjustment_factor
+    sensor: u_science_send_time_limit_adjustment_factor
+    units: nodim
+  dtype: f4
+  nc_var_name: u_science_send_time_limit_adjustment_factor

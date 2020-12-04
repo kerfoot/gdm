@@ -1,0 +1,7 @@
+sci_dvl_ts_depth:
+  attrs:
+    long_name: sci_dvl_ts_depth
+    sensor: sci_dvl_ts_depth
+    units: m
+  dtype: f4
+  nc_var_name: sci_dvl_ts_depth

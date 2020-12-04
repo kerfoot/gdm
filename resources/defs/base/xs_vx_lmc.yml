@@ -1,0 +1,7 @@
+xs_vx_lmc:
+  attrs:
+    long_name: xs_vx_lmc
+    sensor: xs_vx_lmc
+    units: m/s
+  dtype: f4
+  nc_var_name: xs_vx_lmc

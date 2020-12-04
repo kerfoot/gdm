@@ -1,0 +1,7 @@
+sci_svs603_dom_period:
+  attrs:
+    long_name: sci_svs603_dom_period
+    sensor: sci_svs603_dom_period
+    units: sec
+  dtype: f4
+  nc_var_name: sci_svs603_dom_period

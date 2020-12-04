@@ -1,0 +1,7 @@
+f_valve_oil_flow_factor:
+  attrs:
+    long_name: f_valve_oil_flow_factor
+    sensor: f_valve_oil_flow_factor
+    units: nodim
+  dtype: f4
+  nc_var_name: f_valve_oil_flow_factor

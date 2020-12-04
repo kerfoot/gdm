@@ -1,0 +1,7 @@
+u_pressure_autocal_deadband:
+  attrs:
+    long_name: u_pressure_autocal_deadband
+    sensor: u_pressure_autocal_deadband
+    units: bar
+  dtype: f4
+  nc_var_name: u_pressure_autocal_deadband

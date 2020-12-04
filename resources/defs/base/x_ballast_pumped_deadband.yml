@@ -1,0 +1,7 @@
+x_ballast_pumped_deadband:
+  attrs:
+    long_name: x_ballast_pumped_deadband
+    sensor: x_ballast_pumped_deadband
+    units: cc
+  dtype: f4
+  nc_var_name: x_ballast_pumped_deadband

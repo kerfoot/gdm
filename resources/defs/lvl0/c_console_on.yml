@@ -1,0 +1,7 @@
+c_console_on:
+  attrs:
+    long_name: c_console_on
+    sensor: c_console_on
+    units: bool
+  dtype: i1
+  nc_var_name: c_console_on

@@ -1,0 +1,7 @@
+x_water_speed_too_high:
+  attrs:
+    long_name: x_water_speed_too_high
+    sensor: x_water_speed_too_high
+    units: bool
+  dtype: i1
+  nc_var_name: x_water_speed_too_high

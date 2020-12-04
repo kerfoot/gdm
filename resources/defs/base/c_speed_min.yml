@@ -1,0 +1,7 @@
+c_speed_min:
+  attrs:
+    long_name: c_speed_min
+    sensor: c_speed_min
+    units: m/s
+  dtype: f4
+  nc_var_name: c_speed_min

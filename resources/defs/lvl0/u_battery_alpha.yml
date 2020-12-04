@@ -1,0 +1,7 @@
+u_battery_alpha:
+  attrs:
+    long_name: u_battery_alpha
+    sensor: u_battery_alpha
+    units: nodim
+  dtype: f4
+  nc_var_name: u_battery_alpha

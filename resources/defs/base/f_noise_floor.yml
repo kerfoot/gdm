@@ -1,0 +1,7 @@
+f_noise_floor:
+  attrs:
+    long_name: f_noise_floor
+    sensor: f_noise_floor
+    units: volts
+  dtype: f4
+  nc_var_name: f_noise_floor

@@ -1,0 +1,7 @@
+m_coulomb_current:
+  attrs:
+    long_name: m_coulomb_current
+    sensor: m_coulomb_current
+    units: amp
+  dtype: f4
+  nc_var_name: m_coulomb_current

@@ -1,0 +1,7 @@
+sci_suna_timestamp:
+  attrs:
+    long_name: sci_suna_timestamp
+    sensor: sci_suna_timestamp
+    units: timestamp
+  dtype: f8
+  nc_var_name: sci_suna_timestamp

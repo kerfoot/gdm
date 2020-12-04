@@ -1,0 +1,7 @@
+sci_flbbbbV1_fl_scaled:
+  attrs:
+    long_name: sci_flbbbbV1_fl_scaled
+    sensor: sci_flbbbbV1_fl_scaled
+    units: ug/l
+  dtype: f4
+  nc_var_name: sci_flbbbbV1_fl_scaled

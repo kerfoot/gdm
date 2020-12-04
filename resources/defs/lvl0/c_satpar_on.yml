@@ -1,0 +1,7 @@
+c_satpar_on:
+  attrs:
+    long_name: c_satpar_on
+    sensor: c_satpar_on
+    units: sec
+  dtype: f4
+  nc_var_name: c_satpar_on

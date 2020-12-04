@@ -1,0 +1,7 @@
+c_iridium_lead_zeros:
+  attrs:
+    long_name: c_iridium_lead_zeros
+    sensor: c_iridium_lead_zeros
+    units: nodim
+  dtype: f4
+  nc_var_name: c_iridium_lead_zeros

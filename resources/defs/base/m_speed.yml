@@ -1,0 +1,7 @@
+m_speed:
+  attrs:
+    long_name: m_speed
+    sensor: m_speed
+    units: m/s
+  dtype: f4
+  nc_var_name: m_speed

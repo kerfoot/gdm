@@ -1,0 +1,7 @@
+sci_ubat_BL_avg:
+  attrs:
+    long_name: sci_ubat_BL_avg
+    sensor: sci_ubat_BL_avg
+    units: photons/s
+  dtype: f4
+  nc_var_name: sci_ubat_BL_avg

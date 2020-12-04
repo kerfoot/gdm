@@ -1,0 +1,7 @@
+u_dvl_es_expected_salinity:
+  attrs:
+    long_name: u_dvl_es_expected_salinity
+    sensor: u_dvl_es_expected_salinity
+    units: ppt
+  dtype: f4
+  nc_var_name: u_dvl_es_expected_salinity

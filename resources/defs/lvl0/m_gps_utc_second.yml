@@ -1,0 +1,7 @@
+m_gps_utc_second:
+  attrs:
+    long_name: m_gps_utc_second
+    sensor: m_gps_utc_second
+    units: nodim
+  dtype: f4
+  nc_var_name: m_gps_utc_second

@@ -1,0 +1,7 @@
+x_pitch_ap_period:
+  attrs:
+    long_name: x_pitch_ap_period
+    sensor: x_pitch_ap_period
+    units: sec
+  dtype: f4
+  nc_var_name: x_pitch_ap_period

@@ -1,0 +1,7 @@
+c_digifin_cmd_data:
+  attrs:
+    long_name: c_digifin_cmd_data
+    sensor: c_digifin_cmd_data
+    units: nodim
+  dtype: f4
+  nc_var_name: c_digifin_cmd_data

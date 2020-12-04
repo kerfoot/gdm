@@ -1,0 +1,7 @@
+m_iridium_rcv_chars:
+  attrs:
+    long_name: m_iridium_rcv_chars
+    sensor: m_iridium_rcv_chars
+    units: int
+  dtype: f4
+  nc_var_name: m_iridium_rcv_chars

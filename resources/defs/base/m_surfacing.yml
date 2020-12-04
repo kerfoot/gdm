@@ -1,0 +1,7 @@
+m_surfacing:
+  attrs:
+    long_name: m_surfacing
+    sensor: m_surfacing
+    units: bool
+  dtype: i1
+  nc_var_name: m_surfacing

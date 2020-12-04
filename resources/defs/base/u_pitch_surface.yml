@@ -1,0 +1,7 @@
+u_pitch_surface:
+  attrs:
+    long_name: u_pitch_surface
+    sensor: u_pitch_surface
+    units: rad
+  dtype: f4
+  nc_var_name: u_pitch_surface

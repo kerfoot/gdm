@@ -1,0 +1,7 @@
+m_bms_emergency_battery_voltage:
+  attrs:
+    long_name: m_bms_emergency_battery_voltage
+    sensor: m_bms_emergency_battery_voltage
+    units: volts
+  dtype: f4
+  nc_var_name: m_bms_emergency_battery_voltage

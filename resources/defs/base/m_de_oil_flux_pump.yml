@@ -1,0 +1,7 @@
+m_de_oil_flux_pump:
+  attrs:
+    long_name: m_de_oil_flux_pump
+    sensor: m_de_oil_flux_pump
+    units: cc/sec
+  dtype: f4
+  nc_var_name: m_de_oil_flux_pump

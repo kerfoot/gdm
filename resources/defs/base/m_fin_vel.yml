@@ -1,0 +1,7 @@
+m_fin_vel:
+  attrs:
+    long_name: m_fin_vel
+    sensor: m_fin_vel
+    units: rad/sec
+  dtype: f4
+  nc_var_name: m_fin_vel

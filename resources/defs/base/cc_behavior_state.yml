@@ -1,0 +1,7 @@
+cc_behavior_state:
+  attrs:
+    long_name: cc_behavior_state
+    sensor: cc_behavior_state
+    units: enum
+  dtype: i1
+  nc_var_name: cc_behavior_state

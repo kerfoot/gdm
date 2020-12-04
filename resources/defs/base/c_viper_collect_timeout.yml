@@ -1,0 +1,7 @@
+c_viper_collect_timeout:
+  attrs:
+    long_name: c_viper_collect_timeout
+    sensor: c_viper_collect_timeout
+    units: sec
+  dtype: f4
+  nc_var_name: c_viper_collect_timeout

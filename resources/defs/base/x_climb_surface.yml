@@ -1,0 +1,7 @@
+x_climb_surface:
+  attrs:
+    long_name: x_climb_surface
+    sensor: x_climb_surface
+    units: nodim
+  dtype: f4
+  nc_var_name: x_climb_surface

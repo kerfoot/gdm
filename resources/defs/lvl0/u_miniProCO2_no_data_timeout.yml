@@ -1,0 +1,7 @@
+u_miniProCO2_no_data_timeout:
+  attrs:
+    long_name: u_miniProCO2_no_data_timeout
+    sensor: u_miniProCO2_no_data_timeout
+    units: sec
+  dtype: f4
+  nc_var_name: u_miniProCO2_no_data_timeout

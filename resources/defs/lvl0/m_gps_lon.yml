@@ -1,0 +1,7 @@
+m_gps_lon:
+  attrs:
+    long_name: m_gps_lon
+    sensor: m_gps_lon
+    units: lon
+  dtype: f8
+  nc_var_name: m_gps_lon

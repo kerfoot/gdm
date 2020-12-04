@@ -1,0 +1,7 @@
+sci_lisst_rbn2_index:
+  attrs:
+    long_name: sci_lisst_rbn2_index
+    sensor: sci_lisst_rbn2_index
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_lisst_rbn2_index

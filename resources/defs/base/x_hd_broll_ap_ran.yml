@@ -1,0 +1,7 @@
+x_hd_broll_ap_ran:
+  attrs:
+    long_name: x_hd_broll_ap_ran
+    sensor: x_hd_broll_ap_ran
+    units: bool
+  dtype: i1
+  nc_var_name: x_hd_broll_ap_ran

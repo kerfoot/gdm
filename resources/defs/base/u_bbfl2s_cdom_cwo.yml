@@ -1,0 +1,7 @@
+u_bbfl2s_cdom_cwo:
+  attrs:
+    long_name: u_bbfl2s_cdom_cwo
+    sensor: u_bbfl2s_cdom_cwo
+    units: nodim
+  dtype: f4
+  nc_var_name: u_bbfl2s_cdom_cwo

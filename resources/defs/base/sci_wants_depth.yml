@@ -1,0 +1,7 @@
+sci_wants_depth:
+  attrs:
+    long_name: sci_wants_depth
+    sensor: sci_wants_depth
+    units: enum
+  dtype: i1
+  nc_var_name: sci_wants_depth

@@ -1,0 +1,7 @@
+u_uModem_FML:
+  attrs:
+    long_name: u_uModem_FML
+    sensor: u_uModem_FML
+    units: nodim
+  dtype: f4
+  nc_var_name: u_uModem_FML

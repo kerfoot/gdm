@@ -1,0 +1,7 @@
+sci_microRider_timestamp:
+  attrs:
+    long_name: sci_microRider_timestamp
+    sensor: sci_microRider_timestamp
+    units: timestamp
+  dtype: f8
+  nc_var_name: sci_microRider_timestamp

@@ -1,0 +1,7 @@
+cc_final_heading_value:
+  attrs:
+    long_name: cc_final_heading_value
+    sensor: cc_final_heading_value
+    units: X
+  dtype: f4
+  nc_var_name: cc_final_heading_value

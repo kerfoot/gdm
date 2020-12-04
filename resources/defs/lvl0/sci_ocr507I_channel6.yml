@@ -1,0 +1,7 @@
+sci_ocr507I_channel6:
+  attrs:
+    long_name: sci_ocr507I_channel6
+    sensor: sci_ocr507I_channel6
+    units: nodim
+  dtype: f4
+  nc_var_name: sci_ocr507I_channel6

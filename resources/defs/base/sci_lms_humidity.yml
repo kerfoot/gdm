@@ -1,0 +1,7 @@
+sci_lms_humidity:
+  attrs:
+    long_name: sci_lms_humidity
+    sensor: sci_lms_humidity
+    units: '%'
+  dtype: f4
+  nc_var_name: sci_lms_humidity

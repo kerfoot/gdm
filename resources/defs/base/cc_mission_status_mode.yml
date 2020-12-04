@@ -1,0 +1,7 @@
+cc_mission_status_mode:
+  attrs:
+    long_name: cc_mission_status_mode
+    sensor: cc_mission_status_mode
+    units: enum
+  dtype: i1
+  nc_var_name: cc_mission_status_mode
