@@ -1,7 +1,0 @@
-sci_ubat_BL_potential:
-  attrs:
-    long_name: sci_ubat_BL_potential
-    sensor: sci_ubat_BL_potential
-    units: photons/s/L
-  dtype: f4
-  nc_var_name: sci_ubat_BL_potential

@@ -1,7 +1,0 @@
-u_thermal_pump_reqd_pitch:
-  attrs:
-    long_name: u_thermal_pump_reqd_pitch
-    sensor: u_thermal_pump_reqd_pitch
-    units: rad
-  dtype: f4
-  nc_var_name: u_thermal_pump_reqd_pitch

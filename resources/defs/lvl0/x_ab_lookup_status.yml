@@ -1,7 +1,0 @@
-x_ab_lookup_status:
-  attrs:
-    long_name: x_ab_lookup_status
-    sensor: x_ab_lookup_status
-    units: nodim
-  dtype: f4
-  nc_var_name: x_ab_lookup_status

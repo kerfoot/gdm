@@ -1,7 +1,0 @@
-u_dmon_ctd_msg_period:
-  attrs:
-    long_name: u_dmon_ctd_msg_period
-    sensor: u_dmon_ctd_msg_period
-    units: sec
-  dtype: f4
-  nc_var_name: u_dmon_ctd_msg_period

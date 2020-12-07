@@ -1,7 +1,0 @@
-u_flbbbbV1_bb2_cwo:
-  attrs:
-    long_name: u_flbbbbV1_bb2_cwo
-    sensor: u_flbbbbV1_bb2_cwo
-    units: nodim
-  dtype: f4
-  nc_var_name: u_flbbbbV1_bb2_cwo

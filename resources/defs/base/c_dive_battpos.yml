@@ -1,7 +1,0 @@
-c_dive_battpos:
-  attrs:
-    long_name: c_dive_battpos
-    sensor: c_dive_battpos
-    units: in
-  dtype: f4
-  nc_var_name: c_dive_battpos

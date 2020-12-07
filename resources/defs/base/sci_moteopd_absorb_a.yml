@@ -1,7 +1,0 @@
-sci_moteopd_absorb_a:
-  attrs:
-    long_name: sci_moteopd_absorb_a
-    sensor: sci_moteopd_absorb_a
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_moteopd_absorb_a

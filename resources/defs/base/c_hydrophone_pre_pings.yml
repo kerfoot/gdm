@@ -1,7 +1,0 @@
-c_hydrophone_pre_pings:
-  attrs:
-    long_name: c_hydrophone_pre_pings
-    sensor: c_hydrophone_pre_pings
-    units: nodim
-  dtype: f4
-  nc_var_name: c_hydrophone_pre_pings

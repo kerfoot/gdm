@@ -1,7 +1,0 @@
-sci_wants_quiet:
-  attrs:
-    long_name: sci_wants_quiet
-    sensor: sci_wants_quiet
-    units: bool
-  dtype: i1
-  nc_var_name: sci_wants_quiet

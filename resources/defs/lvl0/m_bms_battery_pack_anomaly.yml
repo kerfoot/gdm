@@ -1,7 +1,0 @@
-m_bms_battery_pack_anomaly:
-  attrs:
-    long_name: m_bms_battery_pack_anomaly
-    sensor: m_bms_battery_pack_anomaly
-    units: nodim
-  dtype: f4
-  nc_var_name: m_bms_battery_pack_anomaly

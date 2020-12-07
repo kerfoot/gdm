@@ -1,7 +1,0 @@
-m_gps_toofar_lon:
-  attrs:
-    long_name: m_gps_toofar_lon
-    sensor: m_gps_toofar_lon
-    units: lat
-  dtype: f8
-  nc_var_name: m_gps_toofar_lon

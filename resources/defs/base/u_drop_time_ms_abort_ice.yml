@@ -1,7 +1,0 @@
-u_drop_time_ms_abort_ice:
-  attrs:
-    long_name: u_drop_time_ms_abort_ice
-    sensor: u_drop_time_ms_abort_ice
-    units: bool
-  dtype: i1
-  nc_var_name: u_drop_time_ms_abort_ice

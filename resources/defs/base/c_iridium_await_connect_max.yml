@@ -1,7 +1,0 @@
-c_iridium_await_connect_max:
-  attrs:
-    long_name: c_iridium_await_connect_max
-    sensor: c_iridium_await_connect_max
-    units: mins
-  dtype: f4
-  nc_var_name: c_iridium_await_connect_max

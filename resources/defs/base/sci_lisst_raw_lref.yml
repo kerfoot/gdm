@@ -1,7 +1,0 @@
-sci_lisst_raw_lref:
-  attrs:
-    long_name: sci_lisst_raw_lref
-    sensor: sci_lisst_raw_lref
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_lisst_raw_lref

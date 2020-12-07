@@ -1,7 +1,0 @@
-x_last_commanded_fin_pos:
-  attrs:
-    long_name: x_last_commanded_fin_pos
-    sensor: x_last_commanded_fin_pos
-    units: rad
-  dtype: f4
-  nc_var_name: x_last_commanded_fin_pos

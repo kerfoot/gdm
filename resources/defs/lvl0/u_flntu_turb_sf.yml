@@ -1,7 +1,0 @@
-u_flntu_turb_sf:
-  attrs:
-    long_name: u_flntu_turb_sf
-    sensor: u_flntu_turb_sf
-    units: NTU/nodim
-  dtype: f4
-  nc_var_name: u_flntu_turb_sf

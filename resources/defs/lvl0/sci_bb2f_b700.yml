@@ -1,7 +1,0 @@
-sci_bb2f_b700:
-  attrs:
-    long_name: sci_bb2f_b700
-    sensor: sci_bb2f_b700
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_bb2f_b700

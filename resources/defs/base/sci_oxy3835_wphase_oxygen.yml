@@ -1,7 +1,0 @@
-sci_oxy3835_wphase_oxygen:
-  attrs:
-    long_name: sci_oxy3835_wphase_oxygen
-    sensor: sci_oxy3835_wphase_oxygen
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_oxy3835_wphase_oxygen

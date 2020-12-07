@@ -1,7 +1,0 @@
-sci_array_roll2:
-  attrs:
-    long_name: sci_array_roll2
-    sensor: sci_array_roll2
-    units: deg
-  dtype: f4
-  nc_var_name: sci_array_roll2

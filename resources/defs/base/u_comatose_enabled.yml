@@ -1,7 +1,0 @@
-u_comatose_enabled:
-  attrs:
-    long_name: u_comatose_enabled
-    sensor: u_comatose_enabled
-    units: bool
-  dtype: i1
-  nc_var_name: u_comatose_enabled

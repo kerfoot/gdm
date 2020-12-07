@@ -1,7 +1,0 @@
-u_pressure_median:
-  attrs:
-    long_name: u_pressure_median
-    sensor: u_pressure_median
-    units: bool
-  dtype: i1
-  nc_var_name: u_pressure_median

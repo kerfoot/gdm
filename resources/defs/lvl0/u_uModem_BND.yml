@@ -1,7 +1,0 @@
-u_uModem_BND:
-  attrs:
-    long_name: u_uModem_BND
-    sensor: u_uModem_BND
-    units: enum
-  dtype: i1
-  nc_var_name: u_uModem_BND

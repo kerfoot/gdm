@@ -1,7 +1,0 @@
-sci_oxy4_c1amp:
-  attrs:
-    long_name: sci_oxy4_c1amp
-    sensor: sci_oxy4_c1amp
-    units: mV
-  dtype: f4
-  nc_var_name: sci_oxy4_c1amp

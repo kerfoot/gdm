@@ -1,7 +1,0 @@
-x_last_wpt_lat:
-  attrs:
-    long_name: x_last_wpt_lat
-    sensor: x_last_wpt_lat
-    units: lat
-  dtype: f8
-  nc_var_name: x_last_wpt_lat

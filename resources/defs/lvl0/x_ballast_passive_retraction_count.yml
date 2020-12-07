@@ -1,7 +1,0 @@
-x_ballast_passive_retraction_count:
-  attrs:
-    long_name: x_ballast_passive_retraction_count
-    sensor: x_ballast_passive_retraction_count
-    units: int
-  dtype: f4
-  nc_var_name: x_ballast_passive_retraction_count

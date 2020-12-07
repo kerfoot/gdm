@@ -1,7 +1,0 @@
-x_thermal_pump_start_in:
-  attrs:
-    long_name: x_thermal_pump_start_in
-    sensor: x_thermal_pump_start_in
-    units: sec
-  dtype: f4
-  nc_var_name: x_thermal_pump_start_in

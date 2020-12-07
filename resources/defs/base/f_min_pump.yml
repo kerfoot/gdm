@@ -1,7 +1,0 @@
-f_min_pump:
-  attrs:
-    long_name: f_min_pump
-    sensor: f_min_pump
-    units: X
-  dtype: f4
-  nc_var_name: f_min_pump

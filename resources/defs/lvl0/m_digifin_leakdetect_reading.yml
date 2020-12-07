@@ -1,7 +1,0 @@
-m_digifin_leakdetect_reading:
-  attrs:
-    long_name: m_digifin_leakdetect_reading
-    sensor: m_digifin_leakdetect_reading
-    units: nodim
-  dtype: f4
-  nc_var_name: m_digifin_leakdetect_reading

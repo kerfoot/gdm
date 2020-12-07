@@ -1,7 +1,0 @@
-u_bb2fls_b660_cwo:
-  attrs:
-    long_name: u_bb2fls_b660_cwo
-    sensor: u_bb2fls_b660_cwo
-    units: nodim
-  dtype: f4
-  nc_var_name: u_bb2fls_b660_cwo

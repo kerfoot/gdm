@@ -1,7 +1,0 @@
-u_thruster_water_speed_control_pump_maxed:
-  attrs:
-    long_name: u_thruster_water_speed_control_pump_maxed
-    sensor: u_thruster_water_speed_control_pump_maxed
-    units: bool
-  dtype: i1
-  nc_var_name: u_thruster_water_speed_control_pump_maxed

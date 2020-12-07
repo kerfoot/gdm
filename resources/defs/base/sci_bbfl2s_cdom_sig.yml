@@ -1,7 +1,0 @@
-sci_bbfl2s_cdom_sig:
-  attrs:
-    long_name: sci_bbfl2s_cdom_sig
-    sensor: sci_bbfl2s_cdom_sig
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_bbfl2s_cdom_sig

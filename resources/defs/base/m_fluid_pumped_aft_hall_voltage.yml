@@ -1,7 +1,0 @@
-m_fluid_pumped_aft_hall_voltage:
-  attrs:
-    long_name: m_fluid_pumped_aft_hall_voltage
-    sensor: m_fluid_pumped_aft_hall_voltage
-    units: volts
-  dtype: f4
-  nc_var_name: m_fluid_pumped_aft_hall_voltage

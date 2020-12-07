@@ -1,7 +1,0 @@
-u_stuck_depth_offset:
-  attrs:
-    long_name: u_stuck_depth_offset
-    sensor: u_stuck_depth_offset
-    units: m
-  dtype: f4
-  nc_var_name: u_stuck_depth_offset

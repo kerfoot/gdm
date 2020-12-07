@@ -1,7 +1,0 @@
-sci_bb2lss_beta880_eng_units:
-  attrs:
-    long_name: sci_bb2lss_beta880_eng_units
-    sensor: sci_bb2lss_beta880_eng_units
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_bb2lss_beta880_eng_units

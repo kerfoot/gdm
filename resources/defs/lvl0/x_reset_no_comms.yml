@@ -1,7 +1,0 @@
-x_reset_no_comms:
-  attrs:
-    long_name: x_reset_no_comms
-    sensor: x_reset_no_comms
-    units: enum
-  dtype: i1
-  nc_var_name: x_reset_no_comms

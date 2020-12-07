@@ -1,7 +1,0 @@
-f_de_oil_vol_in_system:
-  attrs:
-    long_name: f_de_oil_vol_in_system
-    sensor: f_de_oil_vol_in_system
-    units: cc
-  dtype: f4
-  nc_var_name: f_de_oil_vol_in_system

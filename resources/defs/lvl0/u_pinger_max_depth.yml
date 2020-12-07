@@ -1,7 +1,0 @@
-u_pinger_max_depth:
-  attrs:
-    long_name: u_pinger_max_depth
-    sensor: u_pinger_max_depth
-    units: m
-  dtype: f4
-  nc_var_name: u_pinger_max_depth

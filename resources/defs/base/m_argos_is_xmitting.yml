@@ -1,7 +1,0 @@
-m_argos_is_xmitting:
-  attrs:
-    long_name: m_argos_is_xmitting
-    sensor: m_argos_is_xmitting
-    units: bool
-  dtype: i1
-  nc_var_name: m_argos_is_xmitting

@@ -1,7 +1,0 @@
-u_avg_msecs_of_post_ds_processing_alpha:
-  attrs:
-    long_name: u_avg_msecs_of_post_ds_processing_alpha
-    sensor: u_avg_msecs_of_post_ds_processing_alpha
-    units: nodim
-  dtype: f4
-  nc_var_name: u_avg_msecs_of_post_ds_processing_alpha

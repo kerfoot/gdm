@@ -1,7 +1,0 @@
-sci_fl2PeCdom_temp:
-  attrs:
-    long_name: sci_fl2PeCdom_temp
-    sensor: sci_fl2PeCdom_temp
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_fl2PeCdom_temp

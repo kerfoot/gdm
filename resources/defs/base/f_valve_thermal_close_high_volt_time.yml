@@ -1,7 +1,0 @@
-f_valve_thermal_close_high_volt_time:
-  attrs:
-    long_name: f_valve_thermal_close_high_volt_time
-    sensor: f_valve_thermal_close_high_volt_time
-    units: sec
-  dtype: f4
-  nc_var_name: f_valve_thermal_close_high_volt_time

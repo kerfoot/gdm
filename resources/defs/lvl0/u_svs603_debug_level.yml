@@ -1,7 +1,0 @@
-u_svs603_debug_level:
-  attrs:
-    long_name: u_svs603_debug_level
-    sensor: u_svs603_debug_level
-    units: nodim
-  dtype: f4
-  nc_var_name: u_svs603_debug_level

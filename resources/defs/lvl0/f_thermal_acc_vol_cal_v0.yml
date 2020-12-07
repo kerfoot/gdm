@@ -1,7 +1,0 @@
-f_thermal_acc_vol_cal_v0:
-  attrs:
-    long_name: f_thermal_acc_vol_cal_v0
-    sensor: f_thermal_acc_vol_cal_v0
-    units: cc
-  dtype: f4
-  nc_var_name: f_thermal_acc_vol_cal_v0

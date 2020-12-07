@@ -1,7 +1,0 @@
-u_uModem_CST:
-  attrs:
-    long_name: u_uModem_CST
-    sensor: u_uModem_CST
-    units: bool
-  dtype: i1
-  nc_var_name: u_uModem_CST

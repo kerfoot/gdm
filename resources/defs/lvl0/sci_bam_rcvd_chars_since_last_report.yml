@@ -1,7 +1,0 @@
-sci_bam_rcvd_chars_since_last_report:
-  attrs:
-    long_name: sci_bam_rcvd_chars_since_last_report
-    sensor: sci_bam_rcvd_chars_since_last_report
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_bam_rcvd_chars_since_last_report

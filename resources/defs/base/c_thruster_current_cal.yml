@@ -1,7 +1,0 @@
-c_thruster_current_cal:
-  attrs:
-    long_name: c_thruster_current_cal
-    sensor: c_thruster_current_cal
-    units: nodim
-  dtype: f4
-  nc_var_name: c_thruster_current_cal

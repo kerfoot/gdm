@@ -1,7 +1,0 @@
-c_pressure_recall:
-  attrs:
-    long_name: c_pressure_recall
-    sensor: c_pressure_recall
-    units: msec
-  dtype: f4
-  nc_var_name: c_pressure_recall

@@ -1,7 +1,0 @@
-sci_oxy4_c1rph:
-  attrs:
-    long_name: sci_oxy4_c1rph
-    sensor: sci_oxy4_c1rph
-    units: deg
-  dtype: f4
-  nc_var_name: sci_oxy4_c1rph

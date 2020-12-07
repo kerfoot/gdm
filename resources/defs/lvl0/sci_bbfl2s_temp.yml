@@ -1,7 +1,0 @@
-sci_bbfl2s_temp:
-  attrs:
-    long_name: sci_bbfl2s_temp
-    sensor: sci_bbfl2s_temp
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_bbfl2s_temp

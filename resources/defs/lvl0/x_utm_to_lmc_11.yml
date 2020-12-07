@@ -1,7 +1,0 @@
-x_utm_to_lmc_11:
-  attrs:
-    long_name: x_utm_to_lmc_11
-    sensor: x_utm_to_lmc_11
-    units: nodim
-  dtype: f4
-  nc_var_name: x_utm_to_lmc_11

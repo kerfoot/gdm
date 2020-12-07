@@ -1,7 +1,0 @@
-m_valve_pos:
-  attrs:
-    long_name: m_valve_pos
-    sensor: m_valve_pos
-    units: enum
-  dtype: i1
-  nc_var_name: m_valve_pos

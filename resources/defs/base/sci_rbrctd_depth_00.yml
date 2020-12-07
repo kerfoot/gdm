@@ -1,7 +1,0 @@
-sci_rbrctd_depth_00:
-  attrs:
-    long_name: sci_rbrctd_depth_00
-    sensor: sci_rbrctd_depth_00
-    units: m
-  dtype: f4
-  nc_var_name: sci_rbrctd_depth_00

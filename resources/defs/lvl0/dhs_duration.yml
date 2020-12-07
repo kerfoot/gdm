@@ -1,7 +1,0 @@
-dhs_duration:
-  attrs:
-    long_name: dhs_duration
-    sensor: dhs_duration
-    units: s
-  dtype: f4
-  nc_var_name: dhs_duration

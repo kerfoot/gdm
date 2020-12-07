@@ -1,7 +1,0 @@
-sci_dvl_error:
-  attrs:
-    long_name: sci_dvl_error
-    sensor: sci_dvl_error
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_dvl_error

@@ -1,7 +1,0 @@
-m_altimeter_voltage:
-  attrs:
-    long_name: m_altimeter_voltage
-    sensor: m_altimeter_voltage
-    units: volts
-  dtype: f4
-  nc_var_name: m_altimeter_voltage

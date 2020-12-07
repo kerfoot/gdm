@@ -1,7 +1,0 @@
-u_abort_min_burn_time:
-  attrs:
-    long_name: u_abort_min_burn_time
-    sensor: u_abort_min_burn_time
-    units: sec
-  dtype: f4
-  nc_var_name: u_abort_min_burn_time

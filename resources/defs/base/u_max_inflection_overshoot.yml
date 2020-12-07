@@ -1,7 +1,0 @@
-u_max_inflection_overshoot:
-  attrs:
-    long_name: u_max_inflection_overshoot
-    sensor: u_max_inflection_overshoot
-    units: m
-  dtype: f4
-  nc_var_name: u_max_inflection_overshoot

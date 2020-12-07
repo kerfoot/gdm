@@ -1,7 +1,0 @@
-c_thruster_on:
-  attrs:
-    long_name: c_thruster_on
-    sensor: c_thruster_on
-    units: '%'
-  dtype: f4
-  nc_var_name: c_thruster_on

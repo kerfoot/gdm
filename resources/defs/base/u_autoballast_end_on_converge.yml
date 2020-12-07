@@ -1,7 +1,0 @@
-u_autoballast_end_on_converge:
-  attrs:
-    long_name: u_autoballast_end_on_converge
-    sensor: u_autoballast_end_on_converge
-    units: bool
-  dtype: i1
-  nc_var_name: u_autoballast_end_on_converge

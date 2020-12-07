@@ -1,7 +1,0 @@
-cc_thruster_mode:
-  attrs:
-    long_name: cc_thruster_mode
-    sensor: cc_thruster_mode
-    units: enum
-  dtype: i1
-  nc_var_name: cc_thruster_mode

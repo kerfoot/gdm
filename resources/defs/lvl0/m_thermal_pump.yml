@@ -1,7 +1,0 @@
-m_thermal_pump:
-  attrs:
-    long_name: m_thermal_pump
-    sensor: m_thermal_pump
-    units: enum
-  dtype: i1
-  nc_var_name: m_thermal_pump

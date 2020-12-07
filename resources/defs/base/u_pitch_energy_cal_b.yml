@@ -1,7 +1,0 @@
-u_pitch_energy_cal_b:
-  attrs:
-    long_name: u_pitch_energy_cal_b
-    sensor: u_pitch_energy_cal_b
-    units: volts
-  dtype: f4
-  nc_var_name: u_pitch_energy_cal_b

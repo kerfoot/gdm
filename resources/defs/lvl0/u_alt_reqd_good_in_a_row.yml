@@ -1,7 +1,0 @@
-u_alt_reqd_good_in_a_row:
-  attrs:
-    long_name: u_alt_reqd_good_in_a_row
-    sensor: u_alt_reqd_good_in_a_row
-    units: nodim
-  dtype: f4
-  nc_var_name: u_alt_reqd_good_in_a_row

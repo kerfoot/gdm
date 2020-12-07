@@ -1,7 +1,0 @@
-m_tot_ballast_pumped_energy:
-  attrs:
-    long_name: m_tot_ballast_pumped_energy
-    sensor: m_tot_ballast_pumped_energy
-    units: kjoules
-  dtype: f4
-  nc_var_name: m_tot_ballast_pumped_energy

@@ -1,7 +1,0 @@
-sci_rbrctd_cond_cell_temp_00:
-  attrs:
-    long_name: sci_rbrctd_cond_cell_temp_00
-    sensor: sci_rbrctd_cond_cell_temp_00
-    units: degC
-  dtype: f4
-  nc_var_name: sci_rbrctd_cond_cell_temp_00

@@ -1,7 +1,0 @@
-c_azfp_on:
-  attrs:
-    long_name: c_azfp_on
-    sensor: c_azfp_on
-    units: sec
-  dtype: f4
-  nc_var_name: c_azfp_on

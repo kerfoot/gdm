@@ -1,7 +1,0 @@
-u_vacuum_recall:
-  attrs:
-    long_name: u_vacuum_recall
-    sensor: u_vacuum_recall
-    units: msec
-  dtype: f4
-  nc_var_name: u_vacuum_recall

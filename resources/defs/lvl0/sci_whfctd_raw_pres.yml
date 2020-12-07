@@ -1,7 +1,0 @@
-sci_whfctd_raw_pres:
-  attrs:
-    long_name: sci_whfctd_raw_pres
-    sensor: sci_whfctd_raw_pres
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_whfctd_raw_pres

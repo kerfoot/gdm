@@ -1,7 +1,0 @@
-c_iridium_register:
-  attrs:
-    long_name: c_iridium_register
-    sensor: c_iridium_register
-    units: sec
-  dtype: f4
-  nc_var_name: c_iridium_register

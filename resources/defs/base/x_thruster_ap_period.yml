@@ -1,7 +1,0 @@
-x_thruster_ap_period:
-  attrs:
-    long_name: x_thruster_ap_period
-    sensor: x_thruster_ap_period
-    units: s
-  dtype: f4
-  nc_var_name: x_thruster_ap_period

@@ -1,7 +1,0 @@
-x_target_bpump_depth_rate:
-  attrs:
-    long_name: x_target_bpump_depth_rate
-    sensor: x_target_bpump_depth_rate
-    units: m/s
-  dtype: f4
-  nc_var_name: x_target_bpump_depth_rate

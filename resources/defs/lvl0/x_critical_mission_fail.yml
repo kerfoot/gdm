@@ -1,7 +1,0 @@
-x_critical_mission_fail:
-  attrs:
-    long_name: x_critical_mission_fail
-    sensor: x_critical_mission_fail
-    units: bool
-  dtype: i1
-  nc_var_name: x_critical_mission_fail

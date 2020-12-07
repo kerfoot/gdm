@@ -1,7 +1,0 @@
-sci_obsolete_var:
-  attrs:
-    long_name: sci_obsolete_var
-    sensor: sci_obsolete_var
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_obsolete_var

@@ -1,7 +1,0 @@
-u_bb2fV2_b470_cwo:
-  attrs:
-    long_name: u_bb2fV2_b470_cwo
-    sensor: u_bb2fV2_b470_cwo
-    units: nodim
-  dtype: f4
-  nc_var_name: u_bb2fV2_b470_cwo

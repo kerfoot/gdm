@@ -1,7 +1,0 @@
-u_allowable_cycle_overrun:
-  attrs:
-    long_name: u_allowable_cycle_overrun
-    sensor: u_allowable_cycle_overrun
-    units: msec
-  dtype: f4
-  nc_var_name: u_allowable_cycle_overrun

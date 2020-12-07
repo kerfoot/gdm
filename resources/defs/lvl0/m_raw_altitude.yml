@@ -1,7 +1,0 @@
-m_raw_altitude:
-  attrs:
-    long_name: m_raw_altitude
-    sensor: m_raw_altitude
-    units: m
-  dtype: f4
-  nc_var_name: m_raw_altitude

@@ -1,7 +1,0 @@
-c_bam_number_of_echos:
-  attrs:
-    long_name: c_bam_number_of_echos
-    sensor: c_bam_number_of_echos
-    units: nodim
-  dtype: f4
-  nc_var_name: c_bam_number_of_echos

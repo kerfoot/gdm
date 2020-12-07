@@ -1,7 +1,0 @@
-m_science_on:
-  attrs:
-    long_name: m_science_on
-    sensor: m_science_on
-    units: bool
-  dtype: i1
-  nc_var_name: m_science_on

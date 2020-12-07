@@ -1,7 +1,0 @@
-u_hover_depth_hardover_holdoff:
-  attrs:
-    long_name: u_hover_depth_hardover_holdoff
-    sensor: u_hover_depth_hardover_holdoff
-    units: sec
-  dtype: f4
-  nc_var_name: u_hover_depth_hardover_holdoff

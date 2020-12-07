@@ -1,7 +1,0 @@
-sci_logger_status:
-  attrs:
-    long_name: sci_logger_status
-    sensor: sci_logger_status
-    units: enum
-  dtype: i1
-  nc_var_name: sci_logger_status

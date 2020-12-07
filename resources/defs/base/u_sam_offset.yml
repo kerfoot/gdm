@@ -1,7 +1,0 @@
-u_sam_offset:
-  attrs:
-    long_name: u_sam_offset
-    sensor: u_sam_offset
-    units: nodim
-  dtype: f4
-  nc_var_name: u_sam_offset

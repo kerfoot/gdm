@@ -1,7 +1,0 @@
-f_battroll_nominal_vel:
-  attrs:
-    long_name: f_battroll_nominal_vel
-    sensor: f_battroll_nominal_vel
-    units: rad/sec
-  dtype: f4
-  nc_var_name: f_battroll_nominal_vel

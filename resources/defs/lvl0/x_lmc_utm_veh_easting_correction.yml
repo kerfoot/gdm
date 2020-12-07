@@ -1,7 +1,0 @@
-x_lmc_utm_veh_easting_correction:
-  attrs:
-    long_name: x_lmc_utm_veh_easting_correction
-    sensor: x_lmc_utm_veh_easting_correction
-    units: m
-  dtype: f4
-  nc_var_name: x_lmc_utm_veh_easting_correction

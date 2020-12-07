@@ -1,7 +1,0 @@
-u_fl2PeCdom_is_calibrated:
-  attrs:
-    long_name: u_fl2PeCdom_is_calibrated
-    sensor: u_fl2PeCdom_is_calibrated
-    units: bool
-  dtype: i1
-  nc_var_name: u_fl2PeCdom_is_calibrated

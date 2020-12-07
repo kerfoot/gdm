@@ -1,7 +1,0 @@
-s_water_depth_delta:
-  attrs:
-    long_name: s_water_depth_delta
-    sensor: s_water_depth_delta
-    units: m
-  dtype: f4
-  nc_var_name: s_water_depth_delta

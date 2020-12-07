@@ -1,7 +1,0 @@
-m_tcm3_poll_time:
-  attrs:
-    long_name: m_tcm3_poll_time
-    sensor: m_tcm3_poll_time
-    units: ms
-  dtype: f4
-  nc_var_name: m_tcm3_poll_time

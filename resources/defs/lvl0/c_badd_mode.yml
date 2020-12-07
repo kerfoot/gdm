@@ -1,7 +1,0 @@
-c_badd_mode:
-  attrs:
-    long_name: c_badd_mode
-    sensor: c_badd_mode
-    units: enum
-  dtype: i1
-  nc_var_name: c_badd_mode

@@ -1,7 +1,0 @@
-sci_svs603_hs:
-  attrs:
-    long_name: sci_svs603_hs
-    sensor: sci_svs603_hs
-    units: m
-  dtype: f4
-  nc_var_name: sci_svs603_hs

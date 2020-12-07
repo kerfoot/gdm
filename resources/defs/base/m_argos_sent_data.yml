@@ -1,7 +1,0 @@
-m_argos_sent_data:
-  attrs:
-    long_name: m_argos_sent_data
-    sensor: m_argos_sent_data
-    units: bool
-  dtype: i1
-  nc_var_name: m_argos_sent_data

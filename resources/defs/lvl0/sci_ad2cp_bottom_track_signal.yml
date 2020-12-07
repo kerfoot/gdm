@@ -1,7 +1,0 @@
-sci_ad2cp_bottom_track_signal:
-  attrs:
-    long_name: sci_ad2cp_bottom_track_signal
-    sensor: sci_ad2cp_bottom_track_signal
-    units: bool
-  dtype: i1
-  nc_var_name: sci_ad2cp_bottom_track_signal

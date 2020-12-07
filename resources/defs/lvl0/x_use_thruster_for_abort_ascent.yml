@@ -1,7 +1,0 @@
-x_use_thruster_for_abort_ascent:
-  attrs:
-    long_name: x_use_thruster_for_abort_ascent
-    sensor: x_use_thruster_for_abort_ascent
-    units: bool
-  dtype: i1
-  nc_var_name: x_use_thruster_for_abort_ascent

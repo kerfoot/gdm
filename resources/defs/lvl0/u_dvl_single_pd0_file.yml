@@ -1,7 +1,0 @@
-u_dvl_single_pd0_file:
-  attrs:
-    long_name: u_dvl_single_pd0_file
-    sensor: u_dvl_single_pd0_file
-    units: bool
-  dtype: i1
-  nc_var_name: u_dvl_single_pd0_file

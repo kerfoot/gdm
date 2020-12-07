@@ -1,7 +1,0 @@
-m_surface_est_total:
-  attrs:
-    long_name: m_surface_est_total
-    sensor: m_surface_est_total
-    units: nodim
-  dtype: f4
-  nc_var_name: m_surface_est_total

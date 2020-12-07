@@ -1,7 +1,0 @@
-s_ini_lat:
-  attrs:
-    long_name: s_ini_lat
-    sensor: s_ini_lat
-    units: deg
-  dtype: f4
-  nc_var_name: s_ini_lat

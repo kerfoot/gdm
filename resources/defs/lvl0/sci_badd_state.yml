@@ -1,7 +1,0 @@
-sci_badd_state:
-  attrs:
-    long_name: sci_badd_state
-    sensor: sci_badd_state
-    units: enum
-  dtype: i1
-  nc_var_name: sci_badd_state

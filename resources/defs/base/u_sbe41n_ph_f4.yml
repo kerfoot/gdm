@@ -1,7 +1,0 @@
-u_sbe41n_ph_f4:
-  attrs:
-    long_name: u_sbe41n_ph_f4
-    sensor: u_sbe41n_ph_f4
-    units: Mnodim
-  dtype: f4
-  nc_var_name: u_sbe41n_ph_f4

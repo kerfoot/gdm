@@ -1,7 +1,0 @@
-xs_heading:
-  attrs:
-    long_name: xs_heading
-    sensor: xs_heading
-    units: rad
-  dtype: f4
-  nc_var_name: xs_heading

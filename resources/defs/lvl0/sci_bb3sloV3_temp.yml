@@ -1,7 +1,0 @@
-sci_bb3sloV3_temp:
-  attrs:
-    long_name: sci_bb3sloV3_temp
-    sensor: sci_bb3sloV3_temp
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_bb3sloV3_temp

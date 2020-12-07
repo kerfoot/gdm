@@ -1,7 +1,0 @@
-m_avg_climb_rate:
-  attrs:
-    long_name: m_avg_climb_rate
-    sensor: m_avg_climb_rate
-    units: m/s
-  dtype: f4
-  nc_var_name: m_avg_climb_rate

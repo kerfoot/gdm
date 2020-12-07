@@ -1,7 +1,0 @@
-sci_hydrophone_collecting:
-  attrs:
-    long_name: sci_hydrophone_collecting
-    sensor: sci_hydrophone_collecting
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_hydrophone_collecting

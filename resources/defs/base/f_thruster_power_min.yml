@@ -1,7 +1,0 @@
-f_thruster_power_min:
-  attrs:
-    long_name: f_thruster_power_min
-    sensor: f_thruster_power_min
-    units: watt
-  dtype: f4
-  nc_var_name: f_thruster_power_min

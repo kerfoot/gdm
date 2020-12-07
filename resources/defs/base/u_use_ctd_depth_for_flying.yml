@@ -1,7 +1,0 @@
-u_use_ctd_depth_for_flying:
-  attrs:
-    long_name: u_use_ctd_depth_for_flying
-    sensor: u_use_ctd_depth_for_flying
-    units: bool
-  dtype: i1
-  nc_var_name: u_use_ctd_depth_for_flying

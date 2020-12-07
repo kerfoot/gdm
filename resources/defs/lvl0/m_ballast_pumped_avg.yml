@@ -1,7 +1,0 @@
-m_ballast_pumped_avg:
-  attrs:
-    long_name: m_ballast_pumped_avg
-    sensor: m_ballast_pumped_avg
-    units: cc
-  dtype: f4
-  nc_var_name: m_ballast_pumped_avg

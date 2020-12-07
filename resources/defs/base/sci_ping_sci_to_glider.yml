@@ -1,7 +1,0 @@
-sci_ping_sci_to_glider:
-  attrs:
-    long_name: sci_ping_sci_to_glider
-    sensor: sci_ping_sci_to_glider
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_ping_sci_to_glider

@@ -1,7 +1,0 @@
-u_exp_alt_correction:
-  attrs:
-    long_name: u_exp_alt_correction
-    sensor: u_exp_alt_correction
-    units: m
-  dtype: f4
-  nc_var_name: u_exp_alt_correction

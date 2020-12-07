@@ -1,7 +1,0 @@
-f_alt_mount_offset:
-  attrs:
-    long_name: f_alt_mount_offset
-    sensor: f_alt_mount_offset
-    units: rad
-  dtype: f4
-  nc_var_name: f_alt_mount_offset

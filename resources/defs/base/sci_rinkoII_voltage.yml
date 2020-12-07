@@ -1,7 +1,0 @@
-sci_rinkoII_voltage:
-  attrs:
-    long_name: sci_rinkoII_voltage
-    sensor: sci_rinkoII_voltage
-    units: volts
-  dtype: f4
-  nc_var_name: sci_rinkoII_voltage

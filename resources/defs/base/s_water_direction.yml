@@ -1,7 +1,0 @@
-s_water_direction:
-  attrs:
-    long_name: s_water_direction
-    sensor: s_water_direction
-    units: rad
-  dtype: f4
-  nc_var_name: s_water_direction

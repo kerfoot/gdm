@@ -1,7 +1,0 @@
-u_flbbcd_chlor_cwo:
-  attrs:
-    long_name: u_flbbcd_chlor_cwo
-    sensor: u_flbbcd_chlor_cwo
-    units: nodim
-  dtype: f4
-  nc_var_name: u_flbbcd_chlor_cwo

@@ -1,7 +1,0 @@
-u_min_de_oil_flux:
-  attrs:
-    long_name: u_min_de_oil_flux
-    sensor: u_min_de_oil_flux
-    units: cc/sec
-  dtype: f4
-  nc_var_name: u_min_de_oil_flux

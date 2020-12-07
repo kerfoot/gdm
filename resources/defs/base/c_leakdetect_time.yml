@@ -1,7 +1,0 @@
-c_leakdetect_time:
-  attrs:
-    long_name: c_leakdetect_time
-    sensor: c_leakdetect_time
-    units: s
-  dtype: f4
-  nc_var_name: c_leakdetect_time

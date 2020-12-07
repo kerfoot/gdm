@@ -1,7 +1,0 @@
-u_tarr_num_errors_before_restart:
-  attrs:
-    long_name: u_tarr_num_errors_before_restart
-    sensor: u_tarr_num_errors_before_restart
-    units: nodim
-  dtype: f4
-  nc_var_name: u_tarr_num_errors_before_restart

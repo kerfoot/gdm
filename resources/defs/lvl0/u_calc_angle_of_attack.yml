@@ -1,7 +1,0 @@
-u_calc_angle_of_attack:
-  attrs:
-    long_name: u_calc_angle_of_attack
-    sensor: u_calc_angle_of_attack
-    units: bool
-  dtype: i1
-  nc_var_name: u_calc_angle_of_attack

@@ -1,7 +1,0 @@
-sci_oxy3835_wphase_rphase:
-  attrs:
-    long_name: sci_oxy3835_wphase_rphase
-    sensor: sci_oxy3835_wphase_rphase
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_oxy3835_wphase_rphase

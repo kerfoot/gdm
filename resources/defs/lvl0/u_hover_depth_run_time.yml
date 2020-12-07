@@ -1,7 +1,0 @@
-u_hover_depth_run_time:
-  attrs:
-    long_name: u_hover_depth_run_time
-    sensor: u_hover_depth_run_time
-    units: sec
-  dtype: f4
-  nc_var_name: u_hover_depth_run_time

@@ -1,7 +1,0 @@
-u_reset_tickle_after_abort:
-  attrs:
-    long_name: u_reset_tickle_after_abort
-    sensor: u_reset_tickle_after_abort
-    units: bool
-  dtype: i1
-  nc_var_name: u_reset_tickle_after_abort

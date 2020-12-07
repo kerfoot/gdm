@@ -1,7 +1,0 @@
-c_whfctd_on:
-  attrs:
-    long_name: c_whfctd_on
-    sensor: c_whfctd_on
-    units: sec
-  dtype: f4
-  nc_var_name: c_whfctd_on

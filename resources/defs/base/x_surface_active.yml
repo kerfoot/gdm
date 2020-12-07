@@ -1,7 +1,0 @@
-x_surface_active:
-  attrs:
-    long_name: x_surface_active
-    sensor: x_surface_active
-    units: nodim
-  dtype: f4
-  nc_var_name: x_surface_active

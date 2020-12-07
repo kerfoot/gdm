@@ -1,7 +1,0 @@
-m_thermal_updown:
-  attrs:
-    long_name: m_thermal_updown
-    sensor: m_thermal_updown
-    units: enum
-  dtype: i1
-  nc_var_name: m_thermal_updown

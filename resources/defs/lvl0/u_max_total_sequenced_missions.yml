@@ -1,7 +1,0 @@
-u_max_total_sequenced_missions:
-  attrs:
-    long_name: u_max_total_sequenced_missions
-    sensor: u_max_total_sequenced_missions
-    units: nodim
-  dtype: f4
-  nc_var_name: u_max_total_sequenced_missions

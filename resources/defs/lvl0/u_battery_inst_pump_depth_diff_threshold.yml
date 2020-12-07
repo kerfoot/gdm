@@ -1,7 +1,0 @@
-u_battery_inst_pump_depth_diff_threshold:
-  attrs:
-    long_name: u_battery_inst_pump_depth_diff_threshold
-    sensor: u_battery_inst_pump_depth_diff_threshold
-    units: '%'
-  dtype: f4
-  nc_var_name: u_battery_inst_pump_depth_diff_threshold

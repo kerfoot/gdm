@@ -1,7 +1,0 @@
-f_iridium_lead_zeros_factory:
-  attrs:
-    long_name: f_iridium_lead_zeros_factory
-    sensor: f_iridium_lead_zeros_factory
-    units: nodim
-  dtype: f4
-  nc_var_name: f_iridium_lead_zeros_factory

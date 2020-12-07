@@ -1,7 +1,0 @@
-s_corrupted_pitch_stalled:
-  attrs:
-    long_name: s_corrupted_pitch_stalled
-    sensor: s_corrupted_pitch_stalled
-    units: bool
-  dtype: i1
-  nc_var_name: s_corrupted_pitch_stalled

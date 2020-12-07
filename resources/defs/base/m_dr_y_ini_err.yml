@@ -1,7 +1,0 @@
-m_dr_y_ini_err:
-  attrs:
-    long_name: m_dr_y_ini_err
-    sensor: m_dr_y_ini_err
-    units: m
-  dtype: f4
-  nc_var_name: m_dr_y_ini_err

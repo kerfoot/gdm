@@ -1,7 +1,0 @@
-sci_lms_raw_methane:
-  attrs:
-    long_name: sci_lms_raw_methane
-    sensor: sci_lms_raw_methane
-    units: ppmv
-  dtype: f4
-  nc_var_name: sci_lms_raw_methane

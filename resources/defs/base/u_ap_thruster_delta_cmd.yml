@@ -1,7 +1,0 @@
-u_ap_thruster_delta_cmd:
-  attrs:
-    long_name: u_ap_thruster_delta_cmd
-    sensor: u_ap_thruster_delta_cmd
-    units: '%'
-  dtype: f4
-  nc_var_name: u_ap_thruster_delta_cmd

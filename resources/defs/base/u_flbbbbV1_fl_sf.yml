@@ -1,7 +1,0 @@
-u_flbbbbV1_fl_sf:
-  attrs:
-    long_name: u_flbbbbV1_fl_sf
-    sensor: u_flbbbbV1_fl_sf
-    units: ug/l/nodim
-  dtype: f4
-  nc_var_name: u_flbbbbV1_fl_sf

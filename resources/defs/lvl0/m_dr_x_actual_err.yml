@@ -1,7 +1,0 @@
-m_dr_x_actual_err:
-  attrs:
-    long_name: m_dr_x_actual_err
-    sensor: m_dr_x_actual_err
-    units: m
-  dtype: f4
-  nc_var_name: m_dr_x_actual_err

@@ -1,7 +1,0 @@
-c_wait_for_pitch:
-  attrs:
-    long_name: c_wait_for_pitch
-    sensor: c_wait_for_pitch
-    units: bool
-  dtype: i1
-  nc_var_name: c_wait_for_pitch

@@ -1,7 +1,0 @@
-c_climb_battpos:
-  attrs:
-    long_name: c_climb_battpos
-    sensor: c_climb_battpos
-    units: in
-  dtype: f4
-  nc_var_name: c_climb_battpos

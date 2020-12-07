@@ -1,7 +1,0 @@
-s_hardware_cop_jumper:
-  attrs:
-    long_name: s_hardware_cop_jumper
-    sensor: s_hardware_cop_jumper
-    units: bool
-  dtype: i1
-  nc_var_name: s_hardware_cop_jumper

@@ -1,7 +1,0 @@
-sci_ocr504R_itemp_raw:
-  attrs:
-    long_name: sci_ocr504R_itemp_raw
-    sensor: sci_ocr504R_itemp_raw
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_ocr504R_itemp_raw

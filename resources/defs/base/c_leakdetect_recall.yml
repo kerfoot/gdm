@@ -1,7 +1,0 @@
-c_leakdetect_recall:
-  attrs:
-    long_name: c_leakdetect_recall
-    sensor: c_leakdetect_recall
-    units: msec
-  dtype: f4
-  nc_var_name: c_leakdetect_recall

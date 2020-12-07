@@ -1,7 +1,0 @@
-m_attitude_rev_measure_state:
-  attrs:
-    long_name: m_attitude_rev_measure_state
-    sensor: m_attitude_rev_measure_state
-    units: nodim
-  dtype: f4
-  nc_var_name: m_attitude_rev_measure_state

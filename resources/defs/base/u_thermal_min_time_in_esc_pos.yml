@@ -1,7 +1,0 @@
-u_thermal_min_time_in_esc_pos:
-  attrs:
-    long_name: u_thermal_min_time_in_esc_pos
-    sensor: u_thermal_min_time_in_esc_pos
-    units: s
-  dtype: f4
-  nc_var_name: u_thermal_min_time_in_esc_pos

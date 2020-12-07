@@ -1,7 +1,0 @@
-x_prepare_gps_is_valid:
-  attrs:
-    long_name: x_prepare_gps_is_valid
-    sensor: x_prepare_gps_is_valid
-    units: bool
-  dtype: i1
-  nc_var_name: x_prepare_gps_is_valid

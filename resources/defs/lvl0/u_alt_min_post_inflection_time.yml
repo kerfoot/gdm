@@ -1,7 +1,0 @@
-u_alt_min_post_inflection_time:
-  attrs:
-    long_name: u_alt_min_post_inflection_time
-    sensor: u_alt_min_post_inflection_time
-    units: sec
-  dtype: f4
-  nc_var_name: u_alt_min_post_inflection_time

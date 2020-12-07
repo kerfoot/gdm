@@ -1,7 +1,0 @@
-u_gliderbus_debug:
-  attrs:
-    long_name: u_gliderbus_debug
-    sensor: u_gliderbus_debug
-    units: nodim
-  dtype: f4
-  nc_var_name: u_gliderbus_debug

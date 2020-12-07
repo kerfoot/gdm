@@ -1,7 +1,0 @@
-f_digifin_movement_retry_max:
-  attrs:
-    long_name: f_digifin_movement_retry_max
-    sensor: f_digifin_movement_retry_max
-    units: nodim
-  dtype: f4
-  nc_var_name: f_digifin_movement_retry_max

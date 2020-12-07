@@ -1,7 +1,0 @@
-s_corrupted_pressure_noise:
-  attrs:
-    long_name: s_corrupted_pressure_noise
-    sensor: s_corrupted_pressure_noise
-    units: bool
-  dtype: i1
-  nc_var_name: s_corrupted_pressure_noise

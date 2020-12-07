@@ -1,7 +1,0 @@
-m_lithium_battery_time_to_charge:
-  attrs:
-    long_name: m_lithium_battery_time_to_charge
-    sensor: m_lithium_battery_time_to_charge
-    units: mins
-  dtype: f4
-  nc_var_name: m_lithium_battery_time_to_charge

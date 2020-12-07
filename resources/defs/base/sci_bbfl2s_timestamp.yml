@@ -1,7 +1,0 @@
-sci_bbfl2s_timestamp:
-  attrs:
-    long_name: sci_bbfl2s_timestamp
-    sensor: sci_bbfl2s_timestamp
-    units: timestamp
-  dtype: f8
-  nc_var_name: sci_bbfl2s_timestamp

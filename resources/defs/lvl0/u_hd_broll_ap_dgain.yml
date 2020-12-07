@@ -1,7 +1,0 @@
-u_hd_broll_ap_dgain:
-  attrs:
-    long_name: u_hd_broll_ap_dgain
-    sensor: u_hd_broll_ap_dgain
-    units: 1/rad-sec
-  dtype: f4
-  nc_var_name: u_hd_broll_ap_dgain

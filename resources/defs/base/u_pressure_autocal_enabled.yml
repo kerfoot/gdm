@@ -1,7 +1,0 @@
-u_pressure_autocal_enabled:
-  attrs:
-    long_name: u_pressure_autocal_enabled
-    sensor: u_pressure_autocal_enabled
-    units: bool
-  dtype: i1
-  nc_var_name: u_pressure_autocal_enabled

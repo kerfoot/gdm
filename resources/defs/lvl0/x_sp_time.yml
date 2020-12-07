@@ -1,7 +1,0 @@
-x_sp_time:
-  attrs:
-    long_name: x_sp_time
-    sensor: x_sp_time
-    units: msec
-  dtype: f4
-  nc_var_name: x_sp_time

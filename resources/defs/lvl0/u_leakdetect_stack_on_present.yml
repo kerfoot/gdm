@@ -1,7 +1,0 @@
-u_leakdetect_stack_on_present:
-  attrs:
-    long_name: u_leakdetect_stack_on_present
-    sensor: u_leakdetect_stack_on_present
-    units: bool
-  dtype: i1
-  nc_var_name: u_leakdetect_stack_on_present

@@ -1,7 +1,0 @@
-f_digifin_leakdetect_threshold:
-  attrs:
-    long_name: f_digifin_leakdetect_threshold
-    sensor: f_digifin_leakdetect_threshold
-    units: nodim
-  dtype: f4
-  nc_var_name: f_digifin_leakdetect_threshold

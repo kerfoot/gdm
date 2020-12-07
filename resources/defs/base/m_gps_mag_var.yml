@@ -1,7 +1,0 @@
-m_gps_mag_var:
-  attrs:
-    long_name: m_gps_mag_var
-    sensor: m_gps_mag_var
-    units: rad
-  dtype: f4
-  nc_var_name: m_gps_mag_var

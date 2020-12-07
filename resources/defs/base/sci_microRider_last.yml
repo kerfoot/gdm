@@ -1,7 +1,0 @@
-sci_microRider_last:
-  attrs:
-    long_name: sci_microRider_last
-    sensor: sci_microRider_last
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_microRider_last

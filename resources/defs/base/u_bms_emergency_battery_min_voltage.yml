@@ -1,7 +1,0 @@
-u_bms_emergency_battery_min_voltage:
-  attrs:
-    long_name: u_bms_emergency_battery_min_voltage
-    sensor: u_bms_emergency_battery_min_voltage
-    units: volts
-  dtype: f4
-  nc_var_name: u_bms_emergency_battery_min_voltage

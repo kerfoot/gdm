@@ -1,7 +1,0 @@
-m_tcm3_zcoverage:
-  attrs:
-    long_name: m_tcm3_zcoverage
-    sensor: m_tcm3_zcoverage
-    units: '%'
-  dtype: f4
-  nc_var_name: m_tcm3_zcoverage

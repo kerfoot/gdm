@@ -1,7 +1,0 @@
-f_valve_thermal_low_volt_opto_reads_across_gap:
-  attrs:
-    long_name: f_valve_thermal_low_volt_opto_reads_across_gap
-    sensor: f_valve_thermal_low_volt_opto_reads_across_gap
-    units: nodim
-  dtype: f4
-  nc_var_name: f_valve_thermal_low_volt_opto_reads_across_gap

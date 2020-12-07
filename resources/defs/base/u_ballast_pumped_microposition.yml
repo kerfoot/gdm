@@ -1,7 +1,0 @@
-u_ballast_pumped_microposition:
-  attrs:
-    long_name: u_ballast_pumped_microposition
-    sensor: u_ballast_pumped_microposition
-    units: bool
-  dtype: i1
-  nc_var_name: u_ballast_pumped_microposition

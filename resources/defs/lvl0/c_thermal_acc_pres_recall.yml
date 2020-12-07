@@ -1,7 +1,0 @@
-c_thermal_acc_pres_recall:
-  attrs:
-    long_name: c_thermal_acc_pres_recall
-    sensor: c_thermal_acc_pres_recall
-    units: msec
-  dtype: f4
-  nc_var_name: c_thermal_acc_pres_recall

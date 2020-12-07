@@ -1,7 +1,0 @@
-sci_oxy3835_wphase_timestamp:
-  attrs:
-    long_name: sci_oxy3835_wphase_timestamp
-    sensor: sci_oxy3835_wphase_timestamp
-    units: timestamp
-  dtype: f8
-  nc_var_name: sci_oxy3835_wphase_timestamp

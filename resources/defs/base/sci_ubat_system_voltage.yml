@@ -1,7 +1,0 @@
-sci_ubat_system_voltage:
-  attrs:
-    long_name: sci_ubat_system_voltage
-    sensor: sci_ubat_system_voltage
-    units: volts
-  dtype: f4
-  nc_var_name: sci_ubat_system_voltage

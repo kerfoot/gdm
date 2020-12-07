@@ -1,7 +1,0 @@
-u_max_bottom_slope:
-  attrs:
-    long_name: u_max_bottom_slope
-    sensor: u_max_bottom_slope
-    units: m/m
-  dtype: f4
-  nc_var_name: u_max_bottom_slope

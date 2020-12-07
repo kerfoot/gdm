@@ -1,7 +1,0 @@
-sci_ubat_flow_speed:
-  attrs:
-    long_name: sci_ubat_flow_speed
-    sensor: sci_ubat_flow_speed
-    units: rpm
-  dtype: f4
-  nc_var_name: sci_ubat_flow_speed

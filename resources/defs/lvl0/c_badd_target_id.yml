@@ -1,7 +1,0 @@
-c_badd_target_id:
-  attrs:
-    long_name: c_badd_target_id
-    sensor: c_badd_target_id
-    units: enum
-  dtype: i1
-  nc_var_name: c_badd_target_id

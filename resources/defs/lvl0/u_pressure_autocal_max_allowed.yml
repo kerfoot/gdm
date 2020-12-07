@@ -1,7 +1,0 @@
-u_pressure_autocal_max_allowed:
-  attrs:
-    long_name: u_pressure_autocal_max_allowed
-    sensor: u_pressure_autocal_max_allowed
-    units: bar
-  dtype: f4
-  nc_var_name: u_pressure_autocal_max_allowed

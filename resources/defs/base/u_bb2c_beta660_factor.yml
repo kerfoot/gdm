@@ -1,7 +1,0 @@
-u_bb2c_beta660_factor:
-  attrs:
-    long_name: u_bb2c_beta660_factor
-    sensor: u_bb2c_beta660_factor
-    units: Mnodim
-  dtype: f4
-  nc_var_name: u_bb2c_beta660_factor

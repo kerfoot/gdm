@@ -1,7 +1,0 @@
-u_att_rev_cal_ignore_warnings:
-  attrs:
-    long_name: u_att_rev_cal_ignore_warnings
-    sensor: u_att_rev_cal_ignore_warnings
-    units: nodim
-  dtype: f4
-  nc_var_name: u_att_rev_cal_ignore_warnings

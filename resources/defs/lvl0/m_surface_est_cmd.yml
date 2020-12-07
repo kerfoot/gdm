@@ -1,7 +1,0 @@
-m_surface_est_cmd:
-  attrs:
-    long_name: m_surface_est_cmd
-    sensor: m_surface_est_cmd
-    units: nodim
-  dtype: f4
-  nc_var_name: m_surface_est_cmd

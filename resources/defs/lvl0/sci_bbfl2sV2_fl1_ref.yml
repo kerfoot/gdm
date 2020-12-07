@@ -1,7 +1,0 @@
-sci_bbfl2sV2_fl1_ref:
-  attrs:
-    long_name: sci_bbfl2sV2_fl1_ref
-    sensor: sci_bbfl2sV2_fl1_ref
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_bbfl2sV2_fl1_ref

@@ -1,7 +1,0 @@
-m_tcm3_xcoverage:
-  attrs:
-    long_name: m_tcm3_xcoverage
-    sensor: m_tcm3_xcoverage
-    units: '%'
-  dtype: f4
-  nc_var_name: m_tcm3_xcoverage

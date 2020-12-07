@@ -1,7 +1,0 @@
-u_pressure_autocal_min_time_between:
-  attrs:
-    long_name: u_pressure_autocal_min_time_between
-    sensor: u_pressure_autocal_min_time_between
-    units: secs
-  dtype: f4
-  nc_var_name: u_pressure_autocal_min_time_between

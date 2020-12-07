@@ -1,7 +1,0 @@
-x_lmc_xy_source:
-  attrs:
-    long_name: x_lmc_xy_source
-    sensor: x_lmc_xy_source
-    units: enum
-  dtype: i1
-  nc_var_name: x_lmc_xy_source

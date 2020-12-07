@@ -1,7 +1,0 @@
-u_gps_reqd_valid_fixes:
-  attrs:
-    long_name: u_gps_reqd_valid_fixes
-    sensor: u_gps_reqd_valid_fixes
-    units: nodim
-  dtype: f4
-  nc_var_name: u_gps_reqd_valid_fixes

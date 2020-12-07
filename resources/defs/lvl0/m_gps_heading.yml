@@ -1,7 +1,0 @@
-m_gps_heading:
-  attrs:
-    long_name: m_gps_heading
-    sensor: m_gps_heading
-    units: rad
-  dtype: f4
-  nc_var_name: m_gps_heading

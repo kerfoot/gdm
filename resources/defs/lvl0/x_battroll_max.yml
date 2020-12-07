@@ -1,7 +1,0 @@
-x_battroll_max:
-  attrs:
-    long_name: x_battroll_max
-    sensor: x_battroll_max
-    units: rad
-  dtype: f4
-  nc_var_name: x_battroll_max

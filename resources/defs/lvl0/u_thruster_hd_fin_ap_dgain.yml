@@ -1,7 +1,0 @@
-u_thruster_hd_fin_ap_dgain:
-  attrs:
-    long_name: u_thruster_hd_fin_ap_dgain
-    sensor: u_thruster_hd_fin_ap_dgain
-    units: sec/rad
-  dtype: f4
-  nc_var_name: u_thruster_hd_fin_ap_dgain

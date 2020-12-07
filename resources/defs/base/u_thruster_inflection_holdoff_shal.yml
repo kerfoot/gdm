@@ -1,7 +1,0 @@
-u_thruster_inflection_holdoff_shal:
-  attrs:
-    long_name: u_thruster_inflection_holdoff_shal
-    sensor: u_thruster_inflection_holdoff_shal
-    units: sec
-  dtype: f4
-  nc_var_name: u_thruster_inflection_holdoff_shal

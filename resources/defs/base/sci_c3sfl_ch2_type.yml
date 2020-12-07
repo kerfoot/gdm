@@ -1,7 +1,0 @@
-sci_c3sfl_ch2_type:
-  attrs:
-    long_name: sci_c3sfl_ch2_type
-    sensor: sci_c3sfl_ch2_type
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_c3sfl_ch2_type

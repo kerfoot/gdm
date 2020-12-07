@@ -1,7 +1,0 @@
-m_magy:
-  attrs:
-    long_name: m_magy
-    sensor: m_magy
-    units: nodim
-  dtype: f4
-  nc_var_name: m_magy

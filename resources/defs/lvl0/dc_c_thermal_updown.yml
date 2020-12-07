@@ -1,7 +1,0 @@
-dc_c_thermal_updown:
-  attrs:
-    long_name: dc_c_thermal_updown
-    sensor: dc_c_thermal_updown
-    units: enum
-  dtype: i1
-  nc_var_name: dc_c_thermal_updown

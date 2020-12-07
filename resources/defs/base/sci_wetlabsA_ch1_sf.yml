@@ -1,7 +1,0 @@
-sci_wetlabsA_ch1_sf:
-  attrs:
-    long_name: sci_wetlabsA_ch1_sf
-    sensor: sci_wetlabsA_ch1_sf
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_wetlabsA_ch1_sf

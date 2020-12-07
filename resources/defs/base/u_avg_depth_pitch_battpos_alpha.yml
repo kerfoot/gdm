@@ -1,7 +1,0 @@
-u_avg_depth_pitch_battpos_alpha:
-  attrs:
-    long_name: u_avg_depth_pitch_battpos_alpha
-    sensor: u_avg_depth_pitch_battpos_alpha
-    units: nodim
-  dtype: f4
-  nc_var_name: u_avg_depth_pitch_battpos_alpha

@@ -1,7 +1,0 @@
-u_bb2lss_beta880_factor:
-  attrs:
-    long_name: u_bb2lss_beta880_factor
-    sensor: u_bb2lss_beta880_factor
-    units: Mnodim
-  dtype: f4
-  nc_var_name: u_bb2lss_beta880_factor

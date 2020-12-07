@@ -1,7 +1,0 @@
-sci_ocr507R_Va:
-  attrs:
-    long_name: sci_ocr507R_Va
-    sensor: sci_ocr507R_Va
-    units: volts
-  dtype: f4
-  nc_var_name: sci_ocr507R_Va

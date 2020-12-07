@@ -1,7 +1,0 @@
-u_pressure_median_iter:
-  attrs:
-    long_name: u_pressure_median_iter
-    sensor: u_pressure_median_iter
-    units: nodim
-  dtype: f4
-  nc_var_name: u_pressure_median_iter

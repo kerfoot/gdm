@@ -1,7 +1,0 @@
-m_gps_full_status:
-  attrs:
-    long_name: m_gps_full_status
-    sensor: m_gps_full_status
-    units: enum
-  dtype: i1
-  nc_var_name: m_gps_full_status

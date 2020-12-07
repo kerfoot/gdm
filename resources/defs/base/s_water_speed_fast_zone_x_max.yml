@@ -1,7 +1,0 @@
-s_water_speed_fast_zone_x_max:
-  attrs:
-    long_name: s_water_speed_fast_zone_x_max
-    sensor: s_water_speed_fast_zone_x_max
-    units: m
-  dtype: f4
-  nc_var_name: s_water_speed_fast_zone_x_max

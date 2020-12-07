@@ -1,7 +1,0 @@
-s_water_depth_wavelength:
-  attrs:
-    long_name: s_water_depth_wavelength
-    sensor: s_water_depth_wavelength
-    units: m
-  dtype: f4
-  nc_var_name: s_water_depth_wavelength

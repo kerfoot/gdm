@@ -1,7 +1,0 @@
-f_battpos_nominal_vel:
-  attrs:
-    long_name: f_battpos_nominal_vel
-    sensor: f_battpos_nominal_vel
-    units: inches/sec
-  dtype: f4
-  nc_var_name: f_battpos_nominal_vel

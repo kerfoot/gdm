@@ -1,7 +1,0 @@
-sci_vsf_timestamp:
-  attrs:
-    long_name: sci_vsf_timestamp
-    sensor: sci_vsf_timestamp
-    units: timestamp
-  dtype: f8
-  nc_var_name: sci_vsf_timestamp

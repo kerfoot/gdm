@@ -1,7 +1,0 @@
-x_sci_cmd_mode_state:
-  attrs:
-    long_name: x_sci_cmd_mode_state
-    sensor: x_sci_cmd_mode_state
-    units: enum
-  dtype: i1
-  nc_var_name: x_sci_cmd_mode_state

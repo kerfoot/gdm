@@ -1,7 +1,0 @@
-s_wind_direction:
-  attrs:
-    long_name: s_wind_direction
-    sensor: s_wind_direction
-    units: rad
-  dtype: f4
-  nc_var_name: s_wind_direction

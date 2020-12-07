@@ -1,7 +1,0 @@
-sci_svs603_pmax:
-  attrs:
-    long_name: sci_svs603_pmax
-    sensor: sci_svs603_pmax
-    units: sec
-  dtype: f4
-  nc_var_name: sci_svs603_pmax

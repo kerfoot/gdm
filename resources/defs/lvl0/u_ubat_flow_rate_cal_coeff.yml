@@ -1,7 +1,0 @@
-u_ubat_flow_rate_cal_coeff:
-  attrs:
-    long_name: u_ubat_flow_rate_cal_coeff
-    sensor: u_ubat_flow_rate_cal_coeff
-    units: Mnodim
-  dtype: f4
-  nc_var_name: u_ubat_flow_rate_cal_coeff

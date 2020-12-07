@@ -1,7 +1,0 @@
-sci_auvb_therm:
-  attrs:
-    long_name: sci_auvb_therm
-    sensor: sci_auvb_therm
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_auvb_therm

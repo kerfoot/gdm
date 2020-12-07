@@ -1,7 +1,0 @@
-u_ap_thruster_power_deadband:
-  attrs:
-    long_name: u_ap_thruster_power_deadband
-    sensor: u_ap_thruster_power_deadband
-    units: watt
-  dtype: f4
-  nc_var_name: u_ap_thruster_power_deadband

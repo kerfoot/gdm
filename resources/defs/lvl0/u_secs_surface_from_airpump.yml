@@ -1,7 +1,0 @@
-u_secs_surface_from_airpump:
-  attrs:
-    long_name: u_secs_surface_from_airpump
-    sensor: u_secs_surface_from_airpump
-    units: sec
-  dtype: f4
-  nc_var_name: u_secs_surface_from_airpump

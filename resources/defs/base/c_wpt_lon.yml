@@ -1,7 +1,0 @@
-c_wpt_lon:
-  attrs:
-    long_name: c_wpt_lon
-    sensor: c_wpt_lon
-    units: lon
-  dtype: f8
-  nc_var_name: c_wpt_lon

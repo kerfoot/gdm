@@ -1,7 +1,0 @@
-u_reqd_disk_space:
-  attrs:
-    long_name: u_reqd_disk_space
-    sensor: u_reqd_disk_space
-    units: Mbytes
-  dtype: f4
-  nc_var_name: u_reqd_disk_space

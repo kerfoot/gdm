@@ -1,7 +1,0 @@
-u_tarr_dsp_power_on_delay:
-  attrs:
-    long_name: u_tarr_dsp_power_on_delay
-    sensor: u_tarr_dsp_power_on_delay
-    units: sec
-  dtype: f4
-  nc_var_name: u_tarr_dsp_power_on_delay

@@ -1,7 +1,0 @@
-u_bms_battery_pack_min_current:
-  attrs:
-    long_name: u_bms_battery_pack_min_current
-    sensor: u_bms_battery_pack_min_current
-    units: amp
-  dtype: f4
-  nc_var_name: u_bms_battery_pack_min_current

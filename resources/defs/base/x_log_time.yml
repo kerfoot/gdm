@@ -1,7 +1,0 @@
-x_log_time:
-  attrs:
-    long_name: x_log_time
-    sensor: x_log_time
-    units: msec
-  dtype: f4
-  nc_var_name: x_log_time

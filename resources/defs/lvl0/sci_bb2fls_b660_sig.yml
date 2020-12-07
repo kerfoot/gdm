@@ -1,7 +1,0 @@
-sci_bb2fls_b660_sig:
-  attrs:
-    long_name: sci_bb2fls_b660_sig
-    sensor: sci_bb2fls_b660_sig
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_bb2fls_b660_sig

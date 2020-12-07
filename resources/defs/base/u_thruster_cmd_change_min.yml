@@ -1,7 +1,0 @@
-u_thruster_cmd_change_min:
-  attrs:
-    long_name: u_thruster_cmd_change_min
-    sensor: u_thruster_cmd_change_min
-    units: '%'
-  dtype: f4
-  nc_var_name: u_thruster_cmd_change_min

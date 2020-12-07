@@ -1,7 +1,0 @@
-u_satpar_dark_offset:
-  attrs:
-    long_name: u_satpar_dark_offset
-    sensor: u_satpar_dark_offset
-    units: nodim
-  dtype: f4
-  nc_var_name: u_satpar_dark_offset

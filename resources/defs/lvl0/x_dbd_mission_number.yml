@@ -1,7 +1,0 @@
-x_dbd_mission_number:
-  attrs:
-    long_name: x_dbd_mission_number
-    sensor: x_dbd_mission_number
-    units: nodim
-  dtype: f4
-  nc_var_name: x_dbd_mission_number

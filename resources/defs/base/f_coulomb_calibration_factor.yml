@@ -1,7 +1,0 @@
-f_coulomb_calibration_factor:
-  attrs:
-    long_name: f_coulomb_calibration_factor
-    sensor: f_coulomb_calibration_factor
-    units: '%'
-  dtype: f4
-  nc_var_name: f_coulomb_calibration_factor

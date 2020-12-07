@@ -1,7 +1,0 @@
-m_surf_water_vx:
-  attrs:
-    long_name: m_surf_water_vx
-    sensor: m_surf_water_vx
-    units: m/s
-  dtype: f4
-  nc_var_name: m_surf_water_vx

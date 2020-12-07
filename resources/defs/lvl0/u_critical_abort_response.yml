@@ -1,7 +1,0 @@
-u_critical_abort_response:
-  attrs:
-    long_name: u_critical_abort_response
-    sensor: u_critical_abort_response
-    units: int
-  dtype: f4
-  nc_var_name: u_critical_abort_response

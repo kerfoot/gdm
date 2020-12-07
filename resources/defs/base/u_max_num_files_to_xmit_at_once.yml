@@ -1,7 +1,0 @@
-u_max_num_files_to_xmit_at_once:
-  attrs:
-    long_name: u_max_num_files_to_xmit_at_once
-    sensor: u_max_num_files_to_xmit_at_once
-    units: nodim
-  dtype: f4
-  nc_var_name: u_max_num_files_to_xmit_at_once

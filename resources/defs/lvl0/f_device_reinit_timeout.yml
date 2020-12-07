@@ -1,7 +1,0 @@
-f_device_reinit_timeout:
-  attrs:
-    long_name: f_device_reinit_timeout
-    sensor: f_device_reinit_timeout
-    units: min
-  dtype: f4
-  nc_var_name: f_device_reinit_timeout

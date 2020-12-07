@@ -1,7 +1,0 @@
-m_iridium_signal_strength:
-  attrs:
-    long_name: m_iridium_signal_strength
-    sensor: m_iridium_signal_strength
-    units: nodim
-  dtype: f4
-  nc_var_name: m_iridium_signal_strength

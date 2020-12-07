@@ -1,7 +1,0 @@
-s_corrupted_bpump_overheated:
-  attrs:
-    long_name: s_corrupted_bpump_overheated
-    sensor: s_corrupted_bpump_overheated
-    units: bool
-  dtype: i1
-  nc_var_name: s_corrupted_bpump_overheated

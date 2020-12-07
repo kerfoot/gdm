@@ -1,7 +1,0 @@
-x_last_wpt_y_lmc:
-  attrs:
-    long_name: x_last_wpt_y_lmc
-    sensor: x_last_wpt_y_lmc
-    units: m
-  dtype: f4
-  nc_var_name: x_last_wpt_y_lmc

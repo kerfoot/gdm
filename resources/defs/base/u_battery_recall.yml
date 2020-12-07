@@ -1,7 +1,0 @@
-u_battery_recall:
-  attrs:
-    long_name: u_battery_recall
-    sensor: u_battery_recall
-    units: msecs
-  dtype: f4
-  nc_var_name: u_battery_recall

@@ -1,7 +1,0 @@
-u_att_cal_debug:
-  attrs:
-    long_name: u_att_cal_debug
-    sensor: u_att_cal_debug
-    units: nodim
-  dtype: f4
-  nc_var_name: u_att_cal_debug

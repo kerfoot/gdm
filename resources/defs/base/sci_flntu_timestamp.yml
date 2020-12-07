@@ -1,7 +1,0 @@
-sci_flntu_timestamp:
-  attrs:
-    long_name: sci_flntu_timestamp
-    sensor: sci_flntu_timestamp
-    units: timestamp
-  dtype: f8
-  nc_var_name: sci_flntu_timestamp

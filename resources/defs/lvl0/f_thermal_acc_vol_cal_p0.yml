@@ -1,7 +1,0 @@
-f_thermal_acc_vol_cal_p0:
-  attrs:
-    long_name: f_thermal_acc_vol_cal_p0
-    sensor: f_thermal_acc_vol_cal_p0
-    units: bar
-  dtype: f4
-  nc_var_name: f_thermal_acc_vol_cal_p0

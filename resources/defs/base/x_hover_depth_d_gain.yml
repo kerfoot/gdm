@@ -1,7 +1,0 @@
-x_hover_depth_d_gain:
-  attrs:
-    long_name: x_hover_depth_d_gain
-    sensor: x_hover_depth_d_gain
-    units: X
-  dtype: f4
-  nc_var_name: x_hover_depth_d_gain

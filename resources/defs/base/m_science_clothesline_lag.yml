@@ -1,7 +1,0 @@
-m_science_clothesline_lag:
-  attrs:
-    long_name: m_science_clothesline_lag
-    sensor: m_science_clothesline_lag
-    units: s
-  dtype: f4
-  nc_var_name: m_science_clothesline_lag

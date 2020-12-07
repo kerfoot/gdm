@@ -1,7 +1,0 @@
-u_vsf_150_dc:
-  attrs:
-    long_name: u_vsf_150_dc
-    sensor: u_vsf_150_dc
-    units: nodim
-  dtype: f4
-  nc_var_name: u_vsf_150_dc

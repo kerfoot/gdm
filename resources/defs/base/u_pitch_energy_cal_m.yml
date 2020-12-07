@@ -1,7 +1,0 @@
-u_pitch_energy_cal_m:
-  attrs:
-    long_name: u_pitch_energy_cal_m
-    sensor: u_pitch_energy_cal_m
-    units: nodim
-  dtype: f4
-  nc_var_name: u_pitch_energy_cal_m

@@ -1,7 +1,0 @@
-u_secs_for_oil_vol_stabilization:
-  attrs:
-    long_name: u_secs_for_oil_vol_stabilization
-    sensor: u_secs_for_oil_vol_stabilization
-    units: secs
-  dtype: f4
-  nc_var_name: u_secs_for_oil_vol_stabilization

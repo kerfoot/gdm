@@ -1,7 +1,0 @@
-f_scale_pitch:
-  attrs:
-    long_name: f_scale_pitch
-    sensor: f_scale_pitch
-    units: X
-  dtype: f4
-  nc_var_name: f_scale_pitch

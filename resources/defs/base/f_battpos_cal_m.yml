@@ -1,7 +1,0 @@
-f_battpos_cal_m:
-  attrs:
-    long_name: f_battpos_cal_m
-    sensor: f_battpos_cal_m
-    units: inches/Volt
-  dtype: f4
-  nc_var_name: f_battpos_cal_m

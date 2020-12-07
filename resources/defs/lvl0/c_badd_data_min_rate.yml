@@ -1,7 +1,0 @@
-c_badd_data_min_rate:
-  attrs:
-    long_name: c_badd_data_min_rate
-    sensor: c_badd_data_min_rate
-    units: '%'
-  dtype: f4
-  nc_var_name: c_badd_data_min_rate

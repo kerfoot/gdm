@@ -1,7 +1,0 @@
-m_dr_surf_x_lmc:
-  attrs:
-    long_name: m_dr_surf_x_lmc
-    sensor: m_dr_surf_x_lmc
-    units: m
-  dtype: f4
-  nc_var_name: m_dr_surf_x_lmc

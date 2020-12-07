@@ -1,7 +1,0 @@
-u_max_altimeter:
-  attrs:
-    long_name: u_max_altimeter
-    sensor: u_max_altimeter
-    units: m
-  dtype: f4
-  nc_var_name: u_max_altimeter

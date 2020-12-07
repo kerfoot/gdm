@@ -1,7 +1,0 @@
-c_recovery_on:
-  attrs:
-    long_name: c_recovery_on
-    sensor: c_recovery_on
-    units: bool
-  dtype: i1
-  nc_var_name: c_recovery_on

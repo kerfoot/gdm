@@ -1,7 +1,0 @@
-m_battpos_vel:
-  attrs:
-    long_name: m_battpos_vel
-    sensor: m_battpos_vel
-    units: in/sec
-  dtype: f4
-  nc_var_name: m_battpos_vel

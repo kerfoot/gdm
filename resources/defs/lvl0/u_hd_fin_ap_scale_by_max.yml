@@ -1,7 +1,0 @@
-u_hd_fin_ap_scale_by_max:
-  attrs:
-    long_name: u_hd_fin_ap_scale_by_max
-    sensor: u_hd_fin_ap_scale_by_max
-    units: bool
-  dtype: i1
-  nc_var_name: u_hd_fin_ap_scale_by_max

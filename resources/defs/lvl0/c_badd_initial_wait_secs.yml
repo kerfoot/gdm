@@ -1,7 +1,0 @@
-c_badd_initial_wait_secs:
-  attrs:
-    long_name: c_badd_initial_wait_secs
-    sensor: c_badd_initial_wait_secs
-    units: sec
-  dtype: f4
-  nc_var_name: c_badd_initial_wait_secs

@@ -1,7 +1,0 @@
-c_delta_bpump_ballast:
-  attrs:
-    long_name: c_delta_bpump_ballast
-    sensor: c_delta_bpump_ballast
-    units: X
-  dtype: f4
-  nc_var_name: c_delta_bpump_ballast

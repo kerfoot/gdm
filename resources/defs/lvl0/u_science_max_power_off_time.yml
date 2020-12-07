@@ -1,7 +1,0 @@
-u_science_max_power_off_time:
-  attrs:
-    long_name: u_science_max_power_off_time
-    sensor: u_science_max_power_off_time
-    units: s
-  dtype: f4
-  nc_var_name: u_science_max_power_off_time

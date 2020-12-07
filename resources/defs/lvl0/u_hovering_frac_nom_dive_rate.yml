@@ -1,7 +1,0 @@
-u_hovering_frac_nom_dive_rate:
-  attrs:
-    long_name: u_hovering_frac_nom_dive_rate
-    sensor: u_hovering_frac_nom_dive_rate
-    units: nodim
-  dtype: f4
-  nc_var_name: u_hovering_frac_nom_dive_rate

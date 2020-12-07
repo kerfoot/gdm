@@ -1,7 +1,0 @@
-sci_whfctd_raw_temp:
-  attrs:
-    long_name: sci_whfctd_raw_temp
-    sensor: sci_whfctd_raw_temp
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_whfctd_raw_temp

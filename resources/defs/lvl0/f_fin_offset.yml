@@ -1,7 +1,0 @@
-f_fin_offset:
-  attrs:
-    long_name: f_fin_offset
-    sensor: f_fin_offset
-    units: rad
-  dtype: f4
-  nc_var_name: f_fin_offset

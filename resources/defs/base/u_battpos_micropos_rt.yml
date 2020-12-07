@@ -1,7 +1,0 @@
-u_battpos_micropos_rt:
-  attrs:
-    long_name: u_battpos_micropos_rt
-    sensor: u_battpos_micropos_rt
-    units: msec
-  dtype: f4
-  nc_var_name: u_battpos_micropos_rt

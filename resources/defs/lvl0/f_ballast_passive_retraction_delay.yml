@@ -1,7 +1,0 @@
-f_ballast_passive_retraction_delay:
-  attrs:
-    long_name: f_ballast_passive_retraction_delay
-    sensor: f_ballast_passive_retraction_delay
-    units: ms
-  dtype: f4
-  nc_var_name: f_ballast_passive_retraction_delay

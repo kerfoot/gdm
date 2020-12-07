@@ -1,7 +1,0 @@
-dhs_sampling:
-  attrs:
-    long_name: dhs_sampling
-    sensor: dhs_sampling
-    units: bool
-  dtype: i1
-  nc_var_name: dhs_sampling

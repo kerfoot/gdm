@@ -1,7 +1,0 @@
-sci_satpar_par:
-  attrs:
-    long_name: sci_satpar_par
-    sensor: sci_satpar_par
-    units: umol-photons/m^2/s
-  dtype: f4
-  nc_var_name: sci_satpar_par

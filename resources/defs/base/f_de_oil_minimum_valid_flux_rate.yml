@@ -1,7 +1,0 @@
-f_de_oil_minimum_valid_flux_rate:
-  attrs:
-    long_name: f_de_oil_minimum_valid_flux_rate
-    sensor: f_de_oil_minimum_valid_flux_rate
-    units: cc/sec
-  dtype: f4
-  nc_var_name: f_de_oil_minimum_valid_flux_rate

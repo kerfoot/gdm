@@ -1,7 +1,0 @@
-m_thermal_valve:
-  attrs:
-    long_name: m_thermal_valve
-    sensor: m_thermal_valve
-    units: enum
-  dtype: i1
-  nc_var_name: m_thermal_valve

@@ -1,7 +1,0 @@
-xs_fin:
-  attrs:
-    long_name: xs_fin
-    sensor: xs_fin
-    units: rad
-  dtype: f4
-  nc_var_name: xs_fin

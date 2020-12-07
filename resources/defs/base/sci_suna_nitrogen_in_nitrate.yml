@@ -1,7 +1,0 @@
-sci_suna_nitrogen_in_nitrate:
-  attrs:
-    long_name: sci_suna_nitrogen_in_nitrate
-    sensor: sci_suna_nitrogen_in_nitrate
-    units: mgN/L
-  dtype: f4
-  nc_var_name: sci_suna_nitrogen_in_nitrate

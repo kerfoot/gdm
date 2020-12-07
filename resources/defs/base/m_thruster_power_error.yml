@@ -1,7 +1,0 @@
-m_thruster_power_error:
-  attrs:
-    long_name: m_thruster_power_error
-    sensor: m_thruster_power_error
-    units: watt
-  dtype: f4
-  nc_var_name: m_thruster_power_error

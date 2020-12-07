@@ -1,7 +1,0 @@
-c_iridium_redials_per_on_off:
-  attrs:
-    long_name: c_iridium_redials_per_on_off
-    sensor: c_iridium_redials_per_on_off
-    units: nodim
-  dtype: f4
-  nc_var_name: c_iridium_redials_per_on_off

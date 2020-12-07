@@ -1,7 +1,0 @@
-u_fl2UrRh_rhod_do:
-  attrs:
-    long_name: u_fl2UrRh_rhod_do
-    sensor: u_fl2UrRh_rhod_do
-    units: nodim
-  dtype: f4
-  nc_var_name: u_fl2UrRh_rhod_do

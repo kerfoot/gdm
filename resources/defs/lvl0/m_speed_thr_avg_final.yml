@@ -1,7 +1,0 @@
-m_speed_thr_avg_final:
-  attrs:
-    long_name: m_speed_thr_avg_final
-    sensor: m_speed_thr_avg_final
-    units: m/s
-  dtype: f4
-  nc_var_name: m_speed_thr_avg_final

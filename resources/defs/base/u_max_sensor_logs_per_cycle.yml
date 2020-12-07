@@ -1,7 +1,0 @@
-u_max_sensor_logs_per_cycle:
-  attrs:
-    long_name: u_max_sensor_logs_per_cycle
-    sensor: u_max_sensor_logs_per_cycle
-    units: nodim
-  dtype: f4
-  nc_var_name: u_max_sensor_logs_per_cycle

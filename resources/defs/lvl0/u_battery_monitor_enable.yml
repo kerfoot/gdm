@@ -1,7 +1,0 @@
-u_battery_monitor_enable:
-  attrs:
-    long_name: u_battery_monitor_enable
-    sensor: u_battery_monitor_enable
-    units: bool
-  dtype: i1
-  nc_var_name: u_battery_monitor_enable

@@ -1,7 +1,0 @@
-f_battpos_reqd_vel_frac:
-  attrs:
-    long_name: f_battpos_reqd_vel_frac
-    sensor: f_battpos_reqd_vel_frac
-    units: nodim
-  dtype: f4
-  nc_var_name: f_battpos_reqd_vel_frac

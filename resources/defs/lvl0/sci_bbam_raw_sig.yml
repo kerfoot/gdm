@@ -1,7 +1,0 @@
-sci_bbam_raw_sig:
-  attrs:
-    long_name: sci_bbam_raw_sig
-    sensor: sci_bbam_raw_sig
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_bbam_raw_sig

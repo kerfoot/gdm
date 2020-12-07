@@ -1,7 +1,0 @@
-c_logger_on:
-  attrs:
-    long_name: c_logger_on
-    sensor: c_logger_on
-    units: sec
-  dtype: f4
-  nc_var_name: c_logger_on

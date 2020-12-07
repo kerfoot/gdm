@@ -1,7 +1,0 @@
-sci_wetlabsC_timestamp:
-  attrs:
-    long_name: sci_wetlabsC_timestamp
-    sensor: sci_wetlabsC_timestamp
-    units: timestamp
-  dtype: f8
-  nc_var_name: sci_wetlabsC_timestamp

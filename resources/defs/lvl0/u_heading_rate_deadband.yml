@@ -1,7 +1,0 @@
-u_heading_rate_deadband:
-  attrs:
-    long_name: u_heading_rate_deadband
-    sensor: u_heading_rate_deadband
-    units: rad/s
-  dtype: f4
-  nc_var_name: u_heading_rate_deadband

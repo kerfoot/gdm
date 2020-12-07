@@ -1,7 +1,0 @@
-u_pitch_ap_deadband_thruster:
-  attrs:
-    long_name: u_pitch_ap_deadband_thruster
-    sensor: u_pitch_ap_deadband_thruster
-    units: rad
-  dtype: f4
-  nc_var_name: u_pitch_ap_deadband_thruster

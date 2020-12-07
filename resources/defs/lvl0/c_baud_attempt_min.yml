@@ -1,7 +1,0 @@
-c_baud_attempt_min:
-  attrs:
-    long_name: c_baud_attempt_min
-    sensor: c_baud_attempt_min
-    units: enum
-  dtype: i1
-  nc_var_name: c_baud_attempt_min

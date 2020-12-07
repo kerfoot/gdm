@@ -1,7 +1,0 @@
-c_flbbbbV2_on:
-  attrs:
-    long_name: c_flbbbbV2_on
-    sensor: c_flbbbbV2_on
-    units: sec
-  dtype: f4
-  nc_var_name: c_flbbbbV2_on

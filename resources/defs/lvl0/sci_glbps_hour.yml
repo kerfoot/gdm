@@ -1,7 +1,0 @@
-sci_glbps_hour:
-  attrs:
-    long_name: sci_glbps_hour
-    sensor: sci_glbps_hour
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_glbps_hour

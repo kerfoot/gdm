@@ -1,7 +1,0 @@
-m_water_temp:
-  attrs:
-    long_name: m_water_temp
-    sensor: m_water_temp
-    units: degC
-  dtype: f4
-  nc_var_name: m_water_temp

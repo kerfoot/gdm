@@ -1,7 +1,0 @@
-sci_seaOWL_bb_sig:
-  attrs:
-    long_name: sci_seaOWL_bb_sig
-    sensor: sci_seaOWL_bb_sig
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_seaOWL_bb_sig

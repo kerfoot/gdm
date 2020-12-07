@@ -1,7 +1,0 @@
-u_dvl_bk_water_mass_layer_mode:
-  attrs:
-    long_name: u_dvl_bk_water_mass_layer_mode
-    sensor: u_dvl_bk_water_mass_layer_mode
-    units: enum
-  dtype: i1
-  nc_var_name: u_dvl_bk_water_mass_layer_mode

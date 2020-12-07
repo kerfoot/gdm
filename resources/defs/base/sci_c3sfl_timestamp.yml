@@ -1,7 +1,0 @@
-sci_c3sfl_timestamp:
-  attrs:
-    long_name: sci_c3sfl_timestamp
-    sensor: sci_c3sfl_timestamp
-    units: timestamp
-  dtype: f8
-  nc_var_name: sci_c3sfl_timestamp

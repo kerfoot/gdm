@@ -1,7 +1,0 @@
-u_science_power_off_delay:
-  attrs:
-    long_name: u_science_power_off_delay
-    sensor: u_science_power_off_delay
-    units: s
-  dtype: f4
-  nc_var_name: u_science_power_off_delay

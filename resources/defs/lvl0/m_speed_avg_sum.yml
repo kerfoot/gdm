@@ -1,7 +1,0 @@
-m_speed_avg_sum:
-  attrs:
-    long_name: m_speed_avg_sum
-    sensor: m_speed_avg_sum
-    units: m/s
-  dtype: f4
-  nc_var_name: m_speed_avg_sum

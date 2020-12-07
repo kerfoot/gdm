@@ -1,7 +1,0 @@
-u_hover_depth_pause_hardover:
-  attrs:
-    long_name: u_hover_depth_pause_hardover
-    sensor: u_hover_depth_pause_hardover
-    units: bool
-  dtype: i1
-  nc_var_name: u_hover_depth_pause_hardover

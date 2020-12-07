@@ -1,7 +1,0 @@
-c_battpos:
-  attrs:
-    long_name: c_battpos
-    sensor: c_battpos
-    units: in
-  dtype: f4
-  nc_var_name: c_battpos

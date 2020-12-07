@@ -1,7 +1,0 @@
-s_ice_depth:
-  attrs:
-    long_name: s_ice_depth
-    sensor: s_ice_depth
-    units: m
-  dtype: f4
-  nc_var_name: s_ice_depth

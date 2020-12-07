@@ -1,7 +1,0 @@
-c_att_debug:
-  attrs:
-    long_name: c_att_debug
-    sensor: c_att_debug
-    units: bool
-  dtype: i1
-  nc_var_name: c_att_debug

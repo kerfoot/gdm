@@ -1,7 +1,0 @@
-f_enable_picozoom:
-  attrs:
-    long_name: f_enable_picozoom
-    sensor: f_enable_picozoom
-    units: bool
-  dtype: i1
-  nc_var_name: f_enable_picozoom

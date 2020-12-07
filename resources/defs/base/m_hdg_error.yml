@@ -1,7 +1,0 @@
-m_hdg_error:
-  attrs:
-    long_name: m_hdg_error
-    sensor: m_hdg_error
-    units: rad
-  dtype: f4
-  nc_var_name: m_hdg_error

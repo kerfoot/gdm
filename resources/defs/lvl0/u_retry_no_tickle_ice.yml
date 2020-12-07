@@ -1,7 +1,0 @@
-u_retry_no_tickle_ice:
-  attrs:
-    long_name: u_retry_no_tickle_ice
-    sensor: u_retry_no_tickle_ice
-    units: bool
-  dtype: i1
-  nc_var_name: u_retry_no_tickle_ice

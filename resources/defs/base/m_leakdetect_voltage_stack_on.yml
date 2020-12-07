@@ -1,7 +1,0 @@
-m_leakdetect_voltage_stack_on:
-  attrs:
-    long_name: m_leakdetect_voltage_stack_on
-    sensor: m_leakdetect_voltage_stack_on
-    units: volts
-  dtype: f4
-  nc_var_name: m_leakdetect_voltage_stack_on

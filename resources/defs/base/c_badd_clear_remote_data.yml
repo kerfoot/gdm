@@ -1,7 +1,0 @@
-c_badd_clear_remote_data:
-  attrs:
-    long_name: c_badd_clear_remote_data
-    sensor: c_badd_clear_remote_data
-    units: bool
-  dtype: i1
-  nc_var_name: c_badd_clear_remote_data

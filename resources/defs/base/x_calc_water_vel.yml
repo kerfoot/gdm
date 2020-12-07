@@ -1,7 +1,0 @@
-x_calc_water_vel:
-  attrs:
-    long_name: x_calc_water_vel
-    sensor: x_calc_water_vel
-    units: nodim
-  dtype: f4
-  nc_var_name: x_calc_water_vel

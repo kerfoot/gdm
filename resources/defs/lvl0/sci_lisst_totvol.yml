@@ -1,7 +1,0 @@
-sci_lisst_totvol:
-  attrs:
-    long_name: sci_lisst_totvol
-    sensor: sci_lisst_totvol
-    units: uL/L
-  dtype: f4
-  nc_var_name: sci_lisst_totvol

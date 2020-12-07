@@ -1,7 +1,0 @@
-u_thruster_burst_secs:
-  attrs:
-    long_name: u_thruster_burst_secs
-    sensor: u_thruster_burst_secs
-    units: sec
-  dtype: f4
-  nc_var_name: u_thruster_burst_secs

@@ -1,7 +1,0 @@
-sci_microRider_c4_avg:
-  attrs:
-    long_name: sci_microRider_c4_avg
-    sensor: sci_microRider_c4_avg
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_microRider_c4_avg

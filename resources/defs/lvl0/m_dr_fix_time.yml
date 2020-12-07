@@ -1,7 +1,0 @@
-m_dr_fix_time:
-  attrs:
-    long_name: m_dr_fix_time
-    sensor: m_dr_fix_time
-    units: sec
-  dtype: f4
-  nc_var_name: m_dr_fix_time

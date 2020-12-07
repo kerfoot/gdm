@@ -1,7 +1,0 @@
-m_mission_avg_speed_climbing:
-  attrs:
-    long_name: m_mission_avg_speed_climbing
-    sensor: m_mission_avg_speed_climbing
-    units: m/s
-  dtype: f4
-  nc_var_name: m_mission_avg_speed_climbing

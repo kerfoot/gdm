@@ -1,7 +1,0 @@
-u_uModem_SRC:
-  attrs:
-    long_name: u_uModem_SRC
-    sensor: u_uModem_SRC
-    units: nodim
-  dtype: f4
-  nc_var_name: u_uModem_SRC

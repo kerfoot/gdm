@@ -1,7 +1,0 @@
-sci_azfp_pause_signal:
-  attrs:
-    long_name: sci_azfp_pause_signal
-    sensor: sci_azfp_pause_signal
-    units: bool
-  dtype: i1
-  nc_var_name: sci_azfp_pause_signal

@@ -1,7 +1,0 @@
-m_surface_bpump:
-  attrs:
-    long_name: m_surface_bpump
-    sensor: m_surface_bpump
-    units: cc
-  dtype: f4
-  nc_var_name: m_surface_bpump

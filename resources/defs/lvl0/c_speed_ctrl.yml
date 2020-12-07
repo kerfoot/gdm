@@ -1,7 +1,0 @@
-c_speed_ctrl:
-  attrs:
-    long_name: c_speed_ctrl
-    sensor: c_speed_ctrl
-    units: bool
-  dtype: i1
-  nc_var_name: c_speed_ctrl

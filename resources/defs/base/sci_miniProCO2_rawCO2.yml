@@ -1,7 +1,0 @@
-sci_miniProCO2_rawCO2:
-  attrs:
-    long_name: sci_miniProCO2_rawCO2
-    sensor: sci_miniProCO2_rawCO2
-    units: ppm
-  dtype: f4
-  nc_var_name: sci_miniProCO2_rawCO2

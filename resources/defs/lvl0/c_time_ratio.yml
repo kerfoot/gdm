@@ -1,7 +1,0 @@
-c_time_ratio:
-  attrs:
-    long_name: c_time_ratio
-    sensor: c_time_ratio
-    units: X
-  dtype: f4
-  nc_var_name: c_time_ratio

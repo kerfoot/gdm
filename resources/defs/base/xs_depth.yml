@@ -1,7 +1,0 @@
-xs_depth:
-  attrs:
-    long_name: xs_depth
-    sensor: xs_depth
-    units: m
-  dtype: f4
-  nc_var_name: xs_depth

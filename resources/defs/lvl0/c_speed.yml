@@ -1,7 +1,0 @@
-c_speed:
-  attrs:
-    long_name: c_speed
-    sensor: c_speed
-    units: m/s
-  dtype: f4
-  nc_var_name: c_speed

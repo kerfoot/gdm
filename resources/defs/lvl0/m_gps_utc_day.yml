@@ -1,7 +1,0 @@
-m_gps_utc_day:
-  attrs:
-    long_name: m_gps_utc_day
-    sensor: m_gps_utc_day
-    units: byte
-  dtype: i1
-  nc_var_name: m_gps_utc_day

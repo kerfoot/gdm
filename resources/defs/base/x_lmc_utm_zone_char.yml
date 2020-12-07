@@ -1,7 +1,0 @@
-x_lmc_utm_zone_char:
-  attrs:
-    long_name: x_lmc_utm_zone_char
-    sensor: x_lmc_utm_zone_char
-    units: byte
-  dtype: i1
-  nc_var_name: x_lmc_utm_zone_char

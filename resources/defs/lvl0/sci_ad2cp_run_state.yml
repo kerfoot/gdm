@@ -1,7 +1,0 @@
-sci_ad2cp_run_state:
-  attrs:
-    long_name: sci_ad2cp_run_state
-    sensor: sci_ad2cp_run_state
-    units: enum
-  dtype: i1
-  nc_var_name: sci_ad2cp_run_state

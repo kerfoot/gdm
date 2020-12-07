@@ -1,7 +1,0 @@
-f_neutral_ballast:
-  attrs:
-    long_name: f_neutral_ballast
-    sensor: f_neutral_ballast
-    units: cc
-  dtype: f4
-  nc_var_name: f_neutral_ballast

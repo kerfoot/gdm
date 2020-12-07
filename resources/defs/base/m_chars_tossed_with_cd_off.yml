@@ -1,7 +1,0 @@
-m_chars_tossed_with_cd_off:
-  attrs:
-    long_name: m_chars_tossed_with_cd_off
-    sensor: m_chars_tossed_with_cd_off
-    units: nodim
-  dtype: f4
-  nc_var_name: m_chars_tossed_with_cd_off

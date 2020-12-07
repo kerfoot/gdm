@@ -1,7 +1,0 @@
-u_sequence_start_delay:
-  attrs:
-    long_name: u_sequence_start_delay
-    sensor: u_sequence_start_delay
-    units: s
-  dtype: f4
-  nc_var_name: u_sequence_start_delay

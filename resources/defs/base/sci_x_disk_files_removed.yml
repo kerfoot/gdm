@@ -1,7 +1,0 @@
-sci_x_disk_files_removed:
-  attrs:
-    long_name: sci_x_disk_files_removed
-    sensor: sci_x_disk_files_removed
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_x_disk_files_removed

@@ -1,7 +1,0 @@
-u_bb2flsV4_is_calibrated:
-  attrs:
-    long_name: u_bb2flsV4_is_calibrated
-    sensor: u_bb2flsV4_is_calibrated
-    units: bool
-  dtype: i1
-  nc_var_name: u_bb2flsV4_is_calibrated

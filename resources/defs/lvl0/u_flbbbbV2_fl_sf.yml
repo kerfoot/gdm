@@ -1,7 +1,0 @@
-u_flbbbbV2_fl_sf:
-  attrs:
-    long_name: u_flbbbbV2_fl_sf
-    sensor: u_flbbbbV2_fl_sf
-    units: ppb/nodim
-  dtype: f4
-  nc_var_name: u_flbbbbV2_fl_sf

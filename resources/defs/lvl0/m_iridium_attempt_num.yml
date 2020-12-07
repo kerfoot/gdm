@@ -1,7 +1,0 @@
-m_iridium_attempt_num:
-  attrs:
-    long_name: m_iridium_attempt_num
-    sensor: m_iridium_attempt_num
-    units: nodim
-  dtype: f4
-  nc_var_name: m_iridium_attempt_num

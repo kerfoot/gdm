@@ -1,7 +1,0 @@
-x_enable_steering_during_hover:
-  attrs:
-    long_name: x_enable_steering_during_hover
-    sensor: x_enable_steering_during_hover
-    units: bool
-  dtype: i1
-  nc_var_name: x_enable_steering_during_hover

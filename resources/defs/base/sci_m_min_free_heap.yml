@@ -1,7 +1,0 @@
-sci_m_min_free_heap:
-  attrs:
-    long_name: sci_m_min_free_heap
-    sensor: sci_m_min_free_heap
-    units: bytes
-  dtype: f4
-  nc_var_name: sci_m_min_free_heap

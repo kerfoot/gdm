@@ -1,7 +1,0 @@
-sci_lisst_qc_flag:
-  attrs:
-    long_name: sci_lisst_qc_flag
-    sensor: sci_lisst_qc_flag
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_lisst_qc_flag

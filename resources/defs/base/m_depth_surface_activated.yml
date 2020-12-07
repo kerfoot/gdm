@@ -1,7 +1,0 @@
-m_depth_surface_activated:
-  attrs:
-    long_name: m_depth_surface_activated
-    sensor: m_depth_surface_activated
-    units: m
-  dtype: f4
-  nc_var_name: m_depth_surface_activated

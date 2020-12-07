@@ -1,7 +1,0 @@
-x_hover_depth_deep:
-  attrs:
-    long_name: x_hover_depth_deep
-    sensor: x_hover_depth_deep
-    units: m
-  dtype: f4
-  nc_var_name: x_hover_depth_deep

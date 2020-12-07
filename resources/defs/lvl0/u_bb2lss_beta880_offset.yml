@@ -1,7 +1,0 @@
-u_bb2lss_beta880_offset:
-  attrs:
-    long_name: u_bb2lss_beta880_offset
-    sensor: u_bb2lss_beta880_offset
-    units: nodim
-  dtype: f4
-  nc_var_name: u_bb2lss_beta880_offset

@@ -1,7 +1,0 @@
-u_avg_thruster_speed_num:
-  attrs:
-    long_name: u_avg_thruster_speed_num
-    sensor: u_avg_thruster_speed_num
-    units: enum
-  dtype: i1
-  nc_var_name: u_avg_thruster_speed_num

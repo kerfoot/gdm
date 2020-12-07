@@ -1,7 +1,0 @@
-u_valve_display_position:
-  attrs:
-    long_name: u_valve_display_position
-    sensor: u_valve_display_position
-    units: bool
-  dtype: i1
-  nc_var_name: u_valve_display_position

@@ -1,7 +1,0 @@
-m_tanp:
-  attrs:
-    long_name: m_tanp
-    sensor: m_tanp
-    units: nodim
-  dtype: f4
-  nc_var_name: m_tanp

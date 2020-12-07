@@ -1,7 +1,0 @@
-x_increase_vacuum_time:
-  attrs:
-    long_name: x_increase_vacuum_time
-    sensor: x_increase_vacuum_time
-    units: bool
-  dtype: i1
-  nc_var_name: x_increase_vacuum_time

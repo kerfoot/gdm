@@ -1,7 +1,0 @@
-sci_wpt_x:
-  attrs:
-    long_name: sci_wpt_x
-    sensor: sci_wpt_x
-    units: m
-  dtype: f4
-  nc_var_name: sci_wpt_x

@@ -1,7 +1,0 @@
-m_thermal_valve_opto_reads_across_gap_open:
-  attrs:
-    long_name: m_thermal_valve_opto_reads_across_gap_open
-    sensor: m_thermal_valve_opto_reads_across_gap_open
-    units: nodim
-  dtype: f4
-  nc_var_name: m_thermal_valve_opto_reads_across_gap_open

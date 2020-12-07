@@ -1,7 +1,0 @@
-s_water_temp_depth_infb:
-  attrs:
-    long_name: s_water_temp_depth_infb
-    sensor: s_water_temp_depth_infb
-    units: m
-  dtype: f4
-  nc_var_name: s_water_temp_depth_infb

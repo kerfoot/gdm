@@ -1,7 +1,0 @@
-u_hover_depth_deadband_reset:
-  attrs:
-    long_name: u_hover_depth_deadband_reset
-    sensor: u_hover_depth_deadband_reset
-    units: bool
-  dtype: i1
-  nc_var_name: u_hover_depth_deadband_reset

@@ -1,7 +1,0 @@
-u_ballast_pumped_stop_distance:
-  attrs:
-    long_name: u_ballast_pumped_stop_distance
-    sensor: u_ballast_pumped_stop_distance
-    units: cc
-  dtype: f4
-  nc_var_name: u_ballast_pumped_stop_distance

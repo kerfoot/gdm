@@ -1,7 +1,0 @@
-u_dvl_pd_data_stream_select:
-  attrs:
-    long_name: u_dvl_pd_data_stream_select
-    sensor: u_dvl_pd_data_stream_select
-    units: enum
-  dtype: i1
-  nc_var_name: u_dvl_pd_data_stream_select

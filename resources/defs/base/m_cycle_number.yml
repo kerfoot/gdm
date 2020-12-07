@@ -1,7 +1,0 @@
-m_cycle_number:
-  attrs:
-    long_name: m_cycle_number
-    sensor: m_cycle_number
-    units: nodim
-  dtype: f4
-  nc_var_name: m_cycle_number

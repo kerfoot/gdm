@@ -1,7 +1,0 @@
-u_ab_min_lookup_speed_n:
-  attrs:
-    long_name: u_ab_min_lookup_speed_n
-    sensor: u_ab_min_lookup_speed_n
-    units: nodim
-  dtype: f4
-  nc_var_name: u_ab_min_lookup_speed_n

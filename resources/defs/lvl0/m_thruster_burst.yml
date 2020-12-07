@@ -1,7 +1,0 @@
-m_thruster_burst:
-  attrs:
-    long_name: m_thruster_burst
-    sensor: m_thruster_burst
-    units: bool
-  dtype: i1
-  nc_var_name: m_thruster_burst

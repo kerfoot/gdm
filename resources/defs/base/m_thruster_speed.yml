@@ -1,7 +1,0 @@
-m_thruster_speed:
-  attrs:
-    long_name: m_thruster_speed
-    sensor: m_thruster_speed
-    units: rpm
-  dtype: f4
-  nc_var_name: m_thruster_speed

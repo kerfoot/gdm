@@ -1,7 +1,0 @@
-c_obsolete_on:
-  attrs:
-    long_name: c_obsolete_on
-    sensor: c_obsolete_on
-    units: bool
-  dtype: i1
-  nc_var_name: c_obsolete_on

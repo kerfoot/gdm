@@ -1,7 +1,0 @@
-m_last_gps_lon_3:
-  attrs:
-    long_name: m_last_gps_lon_3
-    sensor: m_last_gps_lon_3
-    units: lon
-  dtype: f8
-  nc_var_name: m_last_gps_lon_3

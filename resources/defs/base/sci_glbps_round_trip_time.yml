@@ -1,7 +1,0 @@
-sci_glbps_round_trip_time:
-  attrs:
-    long_name: sci_glbps_round_trip_time
-    sensor: sci_glbps_round_trip_time
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_glbps_round_trip_time

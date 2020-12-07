@@ -1,7 +1,0 @@
-u_hover_bpump_ap_dgain_deep:
-  attrs:
-    long_name: u_hover_bpump_ap_dgain_deep
-    sensor: u_hover_bpump_ap_dgain_deep
-    units: cc-s/m
-  dtype: f4
-  nc_var_name: u_hover_bpump_ap_dgain_deep

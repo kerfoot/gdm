@@ -1,7 +1,0 @@
-x_are_simulating:
-  attrs:
-    long_name: x_are_simulating
-    sensor: x_are_simulating
-    units: enum
-  dtype: i1
-  nc_var_name: x_are_simulating

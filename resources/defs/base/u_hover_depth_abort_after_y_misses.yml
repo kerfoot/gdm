@@ -1,7 +1,0 @@
-u_hover_depth_abort_after_y_misses:
-  attrs:
-    long_name: u_hover_depth_abort_after_y_misses
-    sensor: u_hover_depth_abort_after_y_misses
-    units: nodim
-  dtype: f4
-  nc_var_name: u_hover_depth_abort_after_y_misses

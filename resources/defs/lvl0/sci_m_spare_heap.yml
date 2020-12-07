@@ -1,7 +1,0 @@
-sci_m_spare_heap:
-  attrs:
-    long_name: sci_m_spare_heap
-    sensor: sci_m_spare_heap
-    units: bytes
-  dtype: f4
-  nc_var_name: sci_m_spare_heap

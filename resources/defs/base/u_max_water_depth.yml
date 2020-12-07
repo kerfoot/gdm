@@ -1,7 +1,0 @@
-u_max_water_depth:
-  attrs:
-    long_name: u_max_water_depth
-    sensor: u_max_water_depth
-    units: m
-  dtype: f4
-  nc_var_name: u_max_water_depth

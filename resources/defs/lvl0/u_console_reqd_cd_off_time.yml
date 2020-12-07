@@ -1,7 +1,0 @@
-u_console_reqd_cd_off_time:
-  attrs:
-    long_name: u_console_reqd_cd_off_time
-    sensor: u_console_reqd_cd_off_time
-    units: sec
-  dtype: f4
-  nc_var_name: u_console_reqd_cd_off_time

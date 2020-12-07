@@ -1,7 +1,0 @@
-u_pressure_median_debug:
-  attrs:
-    long_name: u_pressure_median_debug
-    sensor: u_pressure_median_debug
-    units: enum
-  dtype: i1
-  nc_var_name: u_pressure_median_debug

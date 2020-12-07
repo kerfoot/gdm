@@ -1,7 +1,0 @@
-sci_dvl_wd_w_dist:
-  attrs:
-    long_name: sci_dvl_wd_w_dist
-    sensor: sci_dvl_wd_w_dist
-    units: m
-  dtype: f4
-  nc_var_name: sci_dvl_wd_w_dist

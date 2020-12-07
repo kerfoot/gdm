@@ -1,7 +1,0 @@
-sci_microRider_pressure:
-  attrs:
-    long_name: sci_microRider_pressure
-    sensor: sci_microRider_pressure
-    units: dbar
-  dtype: f4
-  nc_var_name: sci_microRider_pressure

@@ -1,7 +1,0 @@
-x_target_bpump_speed:
-  attrs:
-    long_name: x_target_bpump_speed
-    sensor: x_target_bpump_speed
-    units: m/s
-  dtype: f4
-  nc_var_name: x_target_bpump_speed

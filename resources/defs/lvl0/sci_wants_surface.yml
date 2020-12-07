@@ -1,7 +1,0 @@
-sci_wants_surface:
-  attrs:
-    long_name: sci_wants_surface
-    sensor: sci_wants_surface
-    units: enum
-  dtype: i1
-  nc_var_name: sci_wants_surface

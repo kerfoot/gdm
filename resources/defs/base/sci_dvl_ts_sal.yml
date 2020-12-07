@@ -1,7 +1,0 @@
-sci_dvl_ts_sal:
-  attrs:
-    long_name: sci_dvl_ts_sal
-    sensor: sci_dvl_ts_sal
-    units: ppt
-  dtype: f4
-  nc_var_name: sci_dvl_ts_sal

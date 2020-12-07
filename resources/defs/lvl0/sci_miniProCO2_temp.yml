@@ -1,7 +1,0 @@
-sci_miniProCO2_temp:
-  attrs:
-    long_name: sci_miniProCO2_temp
-    sensor: sci_miniProCO2_temp
-    units: degC
-  dtype: f4
-  nc_var_name: sci_miniProCO2_temp

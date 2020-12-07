@@ -1,7 +1,0 @@
-c_autobaud_max_ber:
-  attrs:
-    long_name: c_autobaud_max_ber
-    sensor: c_autobaud_max_ber
-    units: nodim
-  dtype: f4
-  nc_var_name: c_autobaud_max_ber

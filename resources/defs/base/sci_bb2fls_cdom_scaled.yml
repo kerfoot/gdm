@@ -1,7 +1,0 @@
-sci_bb2fls_cdom_scaled:
-  attrs:
-    long_name: sci_bb2fls_cdom_scaled
-    sensor: sci_bb2fls_cdom_scaled
-    units: ppb
-  dtype: f4
-  nc_var_name: sci_bb2fls_cdom_scaled

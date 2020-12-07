@@ -1,7 +1,0 @@
-sci_m_present_secs_into_mission:
-  attrs:
-    long_name: sci_m_present_secs_into_mission
-    sensor: sci_m_present_secs_into_mission
-    units: sec
-  dtype: f4
-  nc_var_name: sci_m_present_secs_into_mission

@@ -1,7 +1,0 @@
-u_digifin_leakdetect_count:
-  attrs:
-    long_name: u_digifin_leakdetect_count
-    sensor: u_digifin_leakdetect_count
-    units: int
-  dtype: f4
-  nc_var_name: u_digifin_leakdetect_count

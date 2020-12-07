@@ -1,7 +1,0 @@
-sci_glbps_day:
-  attrs:
-    long_name: sci_glbps_day
-    sensor: sci_glbps_day
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_glbps_day

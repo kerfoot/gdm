@@ -1,7 +1,0 @@
-m_device_drivers_called_abnormally:
-  attrs:
-    long_name: m_device_drivers_called_abnormally
-    sensor: m_device_drivers_called_abnormally
-    units: nodim
-  dtype: f4
-  nc_var_name: m_device_drivers_called_abnormally

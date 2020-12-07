@@ -1,7 +1,0 @@
-c_iridium_reread_config_files:
-  attrs:
-    long_name: c_iridium_reread_config_files
-    sensor: c_iridium_reread_config_files
-    units: button
-  dtype: f4
-  nc_var_name: c_iridium_reread_config_files

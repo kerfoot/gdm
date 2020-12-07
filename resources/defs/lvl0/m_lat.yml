@@ -1,7 +1,0 @@
-m_lat:
-  attrs:
-    long_name: m_lat
-    sensor: m_lat
-    units: lat
-  dtype: f8
-  nc_var_name: m_lat

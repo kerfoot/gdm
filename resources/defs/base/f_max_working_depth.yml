@@ -1,7 +1,0 @@
-f_max_working_depth:
-  attrs:
-    long_name: f_max_working_depth
-    sensor: f_max_working_depth
-    units: m
-  dtype: f4
-  nc_var_name: f_max_working_depth

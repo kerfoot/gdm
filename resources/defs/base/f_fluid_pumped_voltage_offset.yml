@@ -1,7 +1,0 @@
-f_fluid_pumped_voltage_offset:
-  attrs:
-    long_name: f_fluid_pumped_voltage_offset
-    sensor: f_fluid_pumped_voltage_offset
-    units: volts
-  dtype: f4
-  nc_var_name: f_fluid_pumped_voltage_offset

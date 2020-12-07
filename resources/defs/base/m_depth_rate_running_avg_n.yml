@@ -1,7 +1,0 @@
-m_depth_rate_running_avg_n:
-  attrs:
-    long_name: m_depth_rate_running_avg_n
-    sensor: m_depth_rate_running_avg_n
-    units: enum
-  dtype: i1
-  nc_var_name: m_depth_rate_running_avg_n

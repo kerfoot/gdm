@@ -1,7 +1,0 @@
-u_pitch_motor_test_availability:
-  attrs:
-    long_name: u_pitch_motor_test_availability
-    sensor: u_pitch_motor_test_availability
-    units: bool
-  dtype: i1
-  nc_var_name: u_pitch_motor_test_availability

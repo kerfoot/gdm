@@ -1,7 +1,0 @@
-u_use_modified_comms_or_gps:
-  attrs:
-    long_name: u_use_modified_comms_or_gps
-    sensor: u_use_modified_comms_or_gps
-    units: int
-  dtype: f4
-  nc_var_name: u_use_modified_comms_or_gps

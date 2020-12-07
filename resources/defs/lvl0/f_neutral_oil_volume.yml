@@ -1,7 +1,0 @@
-f_neutral_oil_volume:
-  attrs:
-    long_name: f_neutral_oil_volume
-    sensor: f_neutral_oil_volume
-    units: cc
-  dtype: f4
-  nc_var_name: f_neutral_oil_volume

@@ -1,7 +1,0 @@
-u_sci_cmd_max_ack_wait_time:
-  attrs:
-    long_name: u_sci_cmd_max_ack_wait_time
-    sensor: u_sci_cmd_max_ack_wait_time
-    units: s
-  dtype: f4
-  nc_var_name: u_sci_cmd_max_ack_wait_time

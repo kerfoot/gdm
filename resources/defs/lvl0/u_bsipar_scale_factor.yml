@@ -1,7 +1,0 @@
-u_bsipar_scale_factor:
-  attrs:
-    long_name: u_bsipar_scale_factor
-    sensor: u_bsipar_scale_factor
-    units: Mnodim
-  dtype: f4
-  nc_var_name: u_bsipar_scale_factor

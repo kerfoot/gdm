@@ -1,7 +1,0 @@
-u_hd_broll_ap_deadband_reset:
-  attrs:
-    long_name: u_hd_broll_ap_deadband_reset
-    sensor: u_hd_broll_ap_deadband_reset
-    units: bool
-  dtype: i1
-  nc_var_name: u_hd_broll_ap_deadband_reset

@@ -1,7 +1,0 @@
-u_thermal_valve_time_in_down_pos:
-  attrs:
-    long_name: u_thermal_valve_time_in_down_pos
-    sensor: u_thermal_valve_time_in_down_pos
-    units: s
-  dtype: f4
-  nc_var_name: u_thermal_valve_time_in_down_pos

@@ -1,7 +1,0 @@
-u_critical_message_period:
-  attrs:
-    long_name: u_critical_message_period
-    sensor: u_critical_message_period
-    units: s
-  dtype: f4
-  nc_var_name: u_critical_message_period

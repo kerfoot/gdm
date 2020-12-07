@@ -1,7 +1,0 @@
-m_raw_altitude_rejected:
-  attrs:
-    long_name: m_raw_altitude_rejected
-    sensor: m_raw_altitude_rejected
-    units: bool
-  dtype: i1
-  nc_var_name: m_raw_altitude_rejected

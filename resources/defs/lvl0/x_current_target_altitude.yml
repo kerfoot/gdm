@@ -1,7 +1,0 @@
-x_current_target_altitude:
-  attrs:
-    long_name: x_current_target_altitude
-    sensor: x_current_target_altitude
-    units: m
-  dtype: f4
-  nc_var_name: x_current_target_altitude

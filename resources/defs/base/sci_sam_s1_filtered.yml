@@ -1,7 +1,0 @@
-sci_sam_s1_filtered:
-  attrs:
-    long_name: sci_sam_s1_filtered
-    sensor: sci_sam_s1_filtered
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_sam_s1_filtered

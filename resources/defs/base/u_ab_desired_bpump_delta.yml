@@ -1,7 +1,0 @@
-u_ab_desired_bpump_delta:
-  attrs:
-    long_name: u_ab_desired_bpump_delta
-    sensor: u_ab_desired_bpump_delta
-    units: cc
-  dtype: f4
-  nc_var_name: u_ab_desired_bpump_delta

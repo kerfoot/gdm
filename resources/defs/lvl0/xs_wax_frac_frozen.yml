@@ -1,7 +1,0 @@
-xs_wax_frac_frozen:
-  attrs:
-    long_name: xs_wax_frac_frozen
-    sensor: xs_wax_frac_frozen
-    units: nodim
-  dtype: f4
-  nc_var_name: xs_wax_frac_frozen

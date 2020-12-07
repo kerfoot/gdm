@@ -1,7 +1,0 @@
-u_bb2flsV3_pe_sf:
-  attrs:
-    long_name: u_bb2flsV3_pe_sf
-    sensor: u_bb2flsV3_pe_sf
-    units: ppb/nodim
-  dtype: f4
-  nc_var_name: u_bb2flsV3_pe_sf

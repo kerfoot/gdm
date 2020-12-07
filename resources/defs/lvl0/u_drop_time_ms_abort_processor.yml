@@ -1,7 +1,0 @@
-u_drop_time_ms_abort_processor:
-  attrs:
-    long_name: u_drop_time_ms_abort_processor
-    sensor: u_drop_time_ms_abort_processor
-    units: bool
-  dtype: i1
-  nc_var_name: u_drop_time_ms_abort_processor

@@ -1,7 +1,0 @@
-sci_bb3sloV3_timestamp:
-  attrs:
-    long_name: sci_bb3sloV3_timestamp
-    sensor: sci_bb3sloV3_timestamp
-    units: timestamp
-  dtype: f8
-  nc_var_name: sci_bb3sloV3_timestamp

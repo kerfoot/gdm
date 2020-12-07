@@ -1,7 +1,0 @@
-m_bms_battery_in_use:
-  attrs:
-    long_name: m_bms_battery_in_use
-    sensor: m_bms_battery_in_use
-    units: bool
-  dtype: i1
-  nc_var_name: m_bms_battery_in_use

@@ -1,7 +1,0 @@
-sci_sam_c_mix:
-  attrs:
-    long_name: sci_sam_c_mix
-    sensor: sci_sam_c_mix
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_sam_c_mix

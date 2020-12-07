@@ -1,7 +1,0 @@
-f_fluid_pumped_cal_m:
-  attrs:
-    long_name: f_fluid_pumped_cal_m
-    sensor: f_fluid_pumped_cal_m
-    units: cc/Volt
-  dtype: f4
-  nc_var_name: f_fluid_pumped_cal_m

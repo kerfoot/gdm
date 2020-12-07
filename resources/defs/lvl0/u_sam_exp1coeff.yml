@@ -1,7 +1,0 @@
-u_sam_exp1coeff:
-  attrs:
-    long_name: u_sam_exp1coeff
-    sensor: u_sam_exp1coeff
-    units: nodim
-  dtype: f4
-  nc_var_name: u_sam_exp1coeff

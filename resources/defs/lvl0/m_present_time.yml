@@ -1,7 +1,0 @@
-m_present_time:
-  attrs:
-    long_name: m_present_time
-    sensor: m_present_time
-    units: timestamp
-  dtype: f8
-  nc_var_name: m_present_time

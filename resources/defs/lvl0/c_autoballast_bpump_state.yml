@@ -1,7 +1,0 @@
-c_autoballast_bpump_state:
-  attrs:
-    long_name: c_autoballast_bpump_state
-    sensor: c_autoballast_bpump_state
-    units: enum
-  dtype: i1
-  nc_var_name: c_autoballast_bpump_state

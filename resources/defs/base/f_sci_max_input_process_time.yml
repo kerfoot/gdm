@@ -1,7 +1,0 @@
-f_sci_max_input_process_time:
-  attrs:
-    long_name: f_sci_max_input_process_time
-    sensor: f_sci_max_input_process_time
-    units: msec
-  dtype: f4
-  nc_var_name: f_sci_max_input_process_time

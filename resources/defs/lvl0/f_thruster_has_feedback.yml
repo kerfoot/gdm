@@ -1,7 +1,0 @@
-f_thruster_has_feedback:
-  attrs:
-    long_name: f_thruster_has_feedback
-    sensor: f_thruster_has_feedback
-    units: enum
-  dtype: i1
-  nc_var_name: f_thruster_has_feedback

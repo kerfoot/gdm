@@ -1,7 +1,0 @@
-u_satpar_loose_parse:
-  attrs:
-    long_name: u_satpar_loose_parse
-    sensor: u_satpar_loose_parse
-    units: bool
-  dtype: i1
-  nc_var_name: u_satpar_loose_parse

@@ -1,7 +1,0 @@
-xs_speed:
-  attrs:
-    long_name: xs_speed
-    sensor: xs_speed
-    units: m/s
-  dtype: f4
-  nc_var_name: xs_speed

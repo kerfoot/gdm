@@ -1,7 +1,0 @@
-sci_fl3sloV2_cdom_sig:
-  attrs:
-    long_name: sci_fl3sloV2_cdom_sig
-    sensor: sci_fl3sloV2_cdom_sig
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_fl3sloV2_cdom_sig

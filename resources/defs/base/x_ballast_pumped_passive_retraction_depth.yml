@@ -1,7 +1,0 @@
-x_ballast_pumped_passive_retraction_depth:
-  attrs:
-    long_name: x_ballast_pumped_passive_retraction_depth
-    sensor: x_ballast_pumped_passive_retraction_depth
-    units: m
-  dtype: f4
-  nc_var_name: x_ballast_pumped_passive_retraction_depth

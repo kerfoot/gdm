@@ -1,7 +1,0 @@
-f_ocean_pressure_max:
-  attrs:
-    long_name: f_ocean_pressure_max
-    sensor: f_ocean_pressure_max
-    units: volts
-  dtype: f4
-  nc_var_name: f_ocean_pressure_max

@@ -1,7 +1,0 @@
-cc_final_time_til_inflect:
-  attrs:
-    long_name: cc_final_time_til_inflect
-    sensor: cc_final_time_til_inflect
-    units: s
-  dtype: f4
-  nc_var_name: cc_final_time_til_inflect

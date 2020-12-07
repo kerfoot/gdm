@@ -1,7 +1,0 @@
-m_thermal_enuf_acc_vol:
-  attrs:
-    long_name: m_thermal_enuf_acc_vol
-    sensor: m_thermal_enuf_acc_vol
-    units: bool
-  dtype: i1
-  nc_var_name: m_thermal_enuf_acc_vol

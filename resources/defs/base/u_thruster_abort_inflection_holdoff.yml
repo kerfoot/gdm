@@ -1,7 +1,0 @@
-u_thruster_abort_inflection_holdoff:
-  attrs:
-    long_name: u_thruster_abort_inflection_holdoff
-    sensor: u_thruster_abort_inflection_holdoff
-    units: sec
-  dtype: f4
-  nc_var_name: u_thruster_abort_inflection_holdoff

@@ -1,7 +1,0 @@
-f_thruster_max_v:
-  attrs:
-    long_name: f_thruster_max_v
-    sensor: f_thruster_max_v
-    units: volts
-  dtype: f4
-  nc_var_name: f_thruster_max_v

@@ -1,7 +1,0 @@
-sci_microRider_c0_std:
-  attrs:
-    long_name: sci_microRider_c0_std
-    sensor: sci_microRider_c0_std
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_microRider_c0_std

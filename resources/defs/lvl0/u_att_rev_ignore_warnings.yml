@@ -1,7 +1,0 @@
-u_att_rev_ignore_warnings:
-  attrs:
-    long_name: u_att_rev_ignore_warnings
-    sensor: u_att_rev_ignore_warnings
-    units: bool
-  dtype: i1
-  nc_var_name: u_att_rev_ignore_warnings

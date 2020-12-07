@@ -1,7 +1,0 @@
-u_heap_required_for_1meg_persistor:
-  attrs:
-    long_name: u_heap_required_for_1meg_persistor
-    sensor: u_heap_required_for_1meg_persistor
-    units: bytes
-  dtype: f4
-  nc_var_name: u_heap_required_for_1meg_persistor

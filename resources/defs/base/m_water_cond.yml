@@ -1,7 +1,0 @@
-m_water_cond:
-  attrs:
-    long_name: m_water_cond
-    sensor: m_water_cond
-    units: S/m
-  dtype: f4
-  nc_var_name: m_water_cond

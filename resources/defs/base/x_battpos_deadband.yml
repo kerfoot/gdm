@@ -1,7 +1,0 @@
-x_battpos_deadband:
-  attrs:
-    long_name: x_battpos_deadband
-    sensor: x_battpos_deadband
-    units: in
-  dtype: f4
-  nc_var_name: x_battpos_deadband

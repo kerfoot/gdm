@@ -1,7 +1,0 @@
-u_iridium_failover_retries:
-  attrs:
-    long_name: u_iridium_failover_retries
-    sensor: u_iridium_failover_retries
-    units: nodim
-  dtype: f4
-  nc_var_name: u_iridium_failover_retries

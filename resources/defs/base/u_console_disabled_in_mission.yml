@@ -1,7 +1,0 @@
-u_console_disabled_in_mission:
-  attrs:
-    long_name: u_console_disabled_in_mission
-    sensor: u_console_disabled_in_mission
-    units: bool
-  dtype: i1
-  nc_var_name: u_console_disabled_in_mission

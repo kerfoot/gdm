@@ -1,7 +1,0 @@
-m_vy_lmc:
-  attrs:
-    long_name: m_vy_lmc
-    sensor: m_vy_lmc
-    units: m/s
-  dtype: f4
-  nc_var_name: m_vy_lmc

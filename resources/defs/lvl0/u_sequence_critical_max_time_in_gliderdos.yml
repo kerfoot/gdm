@@ -1,7 +1,0 @@
-u_sequence_critical_max_time_in_gliderdos:
-  attrs:
-    long_name: u_sequence_critical_max_time_in_gliderdos
-    sensor: u_sequence_critical_max_time_in_gliderdos
-    units: s
-  dtype: f4
-  nc_var_name: u_sequence_critical_max_time_in_gliderdos

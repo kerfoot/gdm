@@ -1,7 +1,0 @@
-s_corrupted_watchdog_oddity:
-  attrs:
-    long_name: s_corrupted_watchdog_oddity
-    sensor: s_corrupted_watchdog_oddity
-    units: bool
-  dtype: i1
-  nc_var_name: s_corrupted_watchdog_oddity

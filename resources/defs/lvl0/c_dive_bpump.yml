@@ -1,7 +1,0 @@
-c_dive_bpump:
-  attrs:
-    long_name: c_dive_bpump
-    sensor: c_dive_bpump
-    units: X
-  dtype: f4
-  nc_var_name: c_dive_bpump

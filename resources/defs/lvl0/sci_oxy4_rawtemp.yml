@@ -1,7 +1,0 @@
-sci_oxy4_rawtemp:
-  attrs:
-    long_name: sci_oxy4_rawtemp
-    sensor: sci_oxy4_rawtemp
-    units: mV
-  dtype: f4
-  nc_var_name: sci_oxy4_rawtemp

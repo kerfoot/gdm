@@ -1,7 +1,0 @@
-sci_dvl_ts_bit:
-  attrs:
-    long_name: sci_dvl_ts_bit
-    sensor: sci_dvl_ts_bit
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_dvl_ts_bit

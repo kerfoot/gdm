@@ -1,7 +1,0 @@
-x_old_mission_status_2:
-  attrs:
-    long_name: x_old_mission_status_2
-    sensor: x_old_mission_status_2
-    units: enum
-  dtype: i1
-  nc_var_name: x_old_mission_status_2

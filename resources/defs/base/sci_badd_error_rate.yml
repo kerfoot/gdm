@@ -1,7 +1,0 @@
-sci_badd_error_rate:
-  attrs:
-    long_name: sci_badd_error_rate
-    sensor: sci_badd_error_rate
-    units: '%'
-  dtype: f4
-  nc_var_name: sci_badd_error_rate

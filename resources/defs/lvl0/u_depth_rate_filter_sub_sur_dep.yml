@@ -1,7 +1,0 @@
-u_depth_rate_filter_sub_sur_dep:
-  attrs:
-    long_name: u_depth_rate_filter_sub_sur_dep
-    sensor: u_depth_rate_filter_sub_sur_dep
-    units: m
-  dtype: f4
-  nc_var_name: u_depth_rate_filter_sub_sur_dep

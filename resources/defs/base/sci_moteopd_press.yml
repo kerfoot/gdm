@@ -1,7 +1,0 @@
-sci_moteopd_press:
-  attrs:
-    long_name: sci_moteopd_press
-    sensor: sci_moteopd_press
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_moteopd_press

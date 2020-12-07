@@ -1,7 +1,0 @@
-c_pitch:
-  attrs:
-    long_name: c_pitch
-    sensor: c_pitch
-    units: rad
-  dtype: f4
-  nc_var_name: c_pitch

@@ -1,7 +1,0 @@
-c_pinger_on:
-  attrs:
-    long_name: c_pinger_on
-    sensor: c_pinger_on
-    units: bool
-  dtype: i1
-  nc_var_name: c_pinger_on

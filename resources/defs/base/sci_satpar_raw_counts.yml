@@ -1,7 +1,0 @@
-sci_satpar_raw_counts:
-  attrs:
-    long_name: sci_satpar_raw_counts
-    sensor: sci_satpar_raw_counts
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_satpar_raw_counts

@@ -1,7 +1,0 @@
-sci_ocr504R_rad1:
-  attrs:
-    long_name: sci_ocr504R_rad1
-    sensor: sci_ocr504R_rad1
-    units: uW/cm^2/nm
-  dtype: f4
-  nc_var_name: sci_ocr504R_rad1

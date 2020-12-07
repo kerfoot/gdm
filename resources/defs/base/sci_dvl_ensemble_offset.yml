@@ -1,7 +1,0 @@
-sci_dvl_ensemble_offset:
-  attrs:
-    long_name: sci_dvl_ensemble_offset
-    sensor: sci_dvl_ensemble_offset
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_dvl_ensemble_offset

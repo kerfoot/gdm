@@ -1,7 +1,0 @@
-c_reread_mafiles:
-  attrs:
-    long_name: c_reread_mafiles
-    sensor: c_reread_mafiles
-    units: bool
-  dtype: i1
-  nc_var_name: c_reread_mafiles

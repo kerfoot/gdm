@@ -1,7 +1,0 @@
-sci_ubat_cal_coeff_HV_step:
-  attrs:
-    long_name: sci_ubat_cal_coeff_HV_step
-    sensor: sci_ubat_cal_coeff_HV_step
-    units: photons/s
-  dtype: f4
-  nc_var_name: sci_ubat_cal_coeff_HV_step

@@ -1,7 +1,0 @@
-sci_heading:
-  attrs:
-    long_name: sci_heading
-    sensor: sci_heading
-    units: rad
-  dtype: f4
-  nc_var_name: sci_heading

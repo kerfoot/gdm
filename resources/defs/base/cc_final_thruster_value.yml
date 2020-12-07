@@ -1,7 +1,0 @@
-cc_final_thruster_value:
-  attrs:
-    long_name: cc_final_thruster_value
-    sensor: cc_final_thruster_value
-    units: X
-  dtype: f4
-  nc_var_name: cc_final_thruster_value

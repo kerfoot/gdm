@@ -1,7 +1,0 @@
-sci_badd_remote_stored_bytes:
-  attrs:
-    long_name: sci_badd_remote_stored_bytes
-    sensor: sci_badd_remote_stored_bytes
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_badd_remote_stored_bytes

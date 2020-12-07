@@ -1,7 +1,0 @@
-f_tcm3_cal_points:
-  attrs:
-    long_name: f_tcm3_cal_points
-    sensor: f_tcm3_cal_points
-    units: nodim
-  dtype: f4
-  nc_var_name: f_tcm3_cal_points

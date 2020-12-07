@@ -1,7 +1,0 @@
-s_vehicle_temp_tc:
-  attrs:
-    long_name: s_vehicle_temp_tc
-    sensor: s_vehicle_temp_tc
-    units: 1/sec
-  dtype: f4
-  nc_var_name: s_vehicle_temp_tc

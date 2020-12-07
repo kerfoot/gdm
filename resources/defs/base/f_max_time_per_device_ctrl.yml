@@ -1,7 +1,0 @@
-f_max_time_per_device_ctrl:
-  attrs:
-    long_name: f_max_time_per_device_ctrl
-    sensor: f_max_time_per_device_ctrl
-    units: msec
-  dtype: f4
-  nc_var_name: f_max_time_per_device_ctrl

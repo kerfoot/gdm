@@ -1,7 +1,0 @@
-m_depth_state:
-  attrs:
-    long_name: m_depth_state
-    sensor: m_depth_state
-    units: enum
-  dtype: i1
-  nc_var_name: m_depth_state

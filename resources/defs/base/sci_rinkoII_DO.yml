@@ -1,7 +1,0 @@
-sci_rinkoII_DO:
-  attrs:
-    long_name: sci_rinkoII_DO
-    sensor: sci_rinkoII_DO
-    units: '%'
-  dtype: f4
-  nc_var_name: sci_rinkoII_DO

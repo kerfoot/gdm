@@ -1,7 +1,0 @@
-sci_obsvr_temp:
-  attrs:
-    long_name: sci_obsvr_temp
-    sensor: sci_obsvr_temp
-    units: degC
-  dtype: f4
-  nc_var_name: sci_obsvr_temp

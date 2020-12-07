@@ -1,7 +1,0 @@
-u_alt_reduced_usage_mode:
-  attrs:
-    long_name: u_alt_reduced_usage_mode
-    sensor: u_alt_reduced_usage_mode
-    units: bool
-  dtype: i1
-  nc_var_name: u_alt_reduced_usage_mode

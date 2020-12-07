@@ -1,7 +1,0 @@
-xs_lon:
-  attrs:
-    long_name: xs_lon
-    sensor: xs_lon
-    units: deg
-  dtype: f4
-  nc_var_name: xs_lon

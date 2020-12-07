@@ -1,7 +1,0 @@
-c_fluid_pumped:
-  attrs:
-    long_name: c_fluid_pumped
-    sensor: c_fluid_pumped
-    units: cc
-  dtype: f4
-  nc_var_name: c_fluid_pumped

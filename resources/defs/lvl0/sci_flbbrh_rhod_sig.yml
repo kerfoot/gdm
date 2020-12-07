@@ -1,7 +1,0 @@
-sci_flbbrh_rhod_sig:
-  attrs:
-    long_name: sci_flbbrh_rhod_sig
-    sensor: sci_flbbrh_rhod_sig
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_flbbrh_rhod_sig

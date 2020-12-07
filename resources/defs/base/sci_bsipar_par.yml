@@ -1,7 +1,0 @@
-sci_bsipar_par:
-  attrs:
-    long_name: sci_bsipar_par
-    sensor: sci_bsipar_par
-    units: uE/m^2sec
-  dtype: f4
-  nc_var_name: sci_bsipar_par

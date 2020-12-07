@@ -1,7 +1,0 @@
-f_pump_stress_m:
-  attrs:
-    long_name: f_pump_stress_m
-    sensor: f_pump_stress_m
-    units: nodim
-  dtype: f4
-  nc_var_name: f_pump_stress_m

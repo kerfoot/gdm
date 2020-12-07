@@ -1,7 +1,0 @@
-u_fl2UrRh_rhod_sf:
-  attrs:
-    long_name: u_fl2UrRh_rhod_sf
-    sensor: u_fl2UrRh_rhod_sf
-    units: ppb/count/nodim
-  dtype: f4
-  nc_var_name: u_fl2UrRh_rhod_sf

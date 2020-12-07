@@ -1,7 +1,0 @@
-u_max_allowed_lastgasp_aborts:
-  attrs:
-    long_name: u_max_allowed_lastgasp_aborts
-    sensor: u_max_allowed_lastgasp_aborts
-    units: nodim
-  dtype: f4
-  nc_var_name: u_max_allowed_lastgasp_aborts

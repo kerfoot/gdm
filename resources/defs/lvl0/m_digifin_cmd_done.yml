@@ -1,7 +1,0 @@
-m_digifin_cmd_done:
-  attrs:
-    long_name: m_digifin_cmd_done
-    sensor: m_digifin_cmd_done
-    units: nodim
-  dtype: f4
-  nc_var_name: m_digifin_cmd_done

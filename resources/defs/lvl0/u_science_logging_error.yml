@@ -1,7 +1,0 @@
-u_science_logging_error:
-  attrs:
-    long_name: u_science_logging_error
-    sensor: u_science_logging_error
-    units: bool
-  dtype: i1
-  nc_var_name: u_science_logging_error

@@ -1,7 +1,0 @@
-u_max_expected_pitch:
-  attrs:
-    long_name: u_max_expected_pitch
-    sensor: u_max_expected_pitch
-    units: rad
-  dtype: f4
-  nc_var_name: u_max_expected_pitch

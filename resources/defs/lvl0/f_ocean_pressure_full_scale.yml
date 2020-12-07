@@ -1,7 +1,0 @@
-f_ocean_pressure_full_scale:
-  attrs:
-    long_name: f_ocean_pressure_full_scale
-    sensor: f_ocean_pressure_full_scale
-    units: bar
-  dtype: f4
-  nc_var_name: f_ocean_pressure_full_scale

@@ -1,7 +1,0 @@
-u_bb2flsV4_b412_sf:
-  attrs:
-    long_name: u_bb2flsV4_b412_sf
-    sensor: u_bb2flsV4_b412_sf
-    units: Mnodim
-  dtype: f4
-  nc_var_name: u_bb2flsV4_b412_sf

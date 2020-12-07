@@ -1,7 +1,0 @@
-u_digifin_hide_oddities_at_surface:
-  attrs:
-    long_name: u_digifin_hide_oddities_at_surface
-    sensor: u_digifin_hide_oddities_at_surface
-    units: bool
-  dtype: i1
-  nc_var_name: u_digifin_hide_oddities_at_surface

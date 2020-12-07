@@ -1,7 +1,0 @@
-u_alpha_system_clock_lags_gps:
-  attrs:
-    long_name: u_alpha_system_clock_lags_gps
-    sensor: u_alpha_system_clock_lags_gps
-    units: nodim
-  dtype: f4
-  nc_var_name: u_alpha_system_clock_lags_gps

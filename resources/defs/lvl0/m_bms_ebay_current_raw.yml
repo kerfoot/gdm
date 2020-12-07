@@ -1,7 +1,0 @@
-m_bms_ebay_current_raw:
-  attrs:
-    long_name: m_bms_ebay_current_raw
-    sensor: m_bms_ebay_current_raw
-    units: nodim
-  dtype: f4
-  nc_var_name: m_bms_ebay_current_raw

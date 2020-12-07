@@ -1,7 +1,0 @@
-m_bpump_fault_bit:
-  attrs:
-    long_name: m_bpump_fault_bit
-    sensor: m_bpump_fault_bit
-    units: bool
-  dtype: i1
-  nc_var_name: m_bpump_fault_bit

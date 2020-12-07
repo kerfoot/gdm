@@ -1,7 +1,0 @@
-cc_bpump_value:
-  attrs:
-    long_name: cc_bpump_value
-    sensor: cc_bpump_value
-    units: X
-  dtype: f4
-  nc_var_name: cc_bpump_value

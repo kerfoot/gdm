@@ -1,7 +1,0 @@
-u_battpos_stop_distance:
-  attrs:
-    long_name: u_battpos_stop_distance
-    sensor: u_battpos_stop_distance
-    units: in
-  dtype: f4
-  nc_var_name: u_battpos_stop_distance

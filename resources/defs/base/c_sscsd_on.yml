@@ -1,7 +1,0 @@
-c_sscsd_on:
-  attrs:
-    long_name: c_sscsd_on
-    sensor: c_sscsd_on
-    units: sec
-  dtype: f4
-  nc_var_name: c_sscsd_on

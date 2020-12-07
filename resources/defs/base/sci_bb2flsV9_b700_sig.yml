@@ -1,7 +1,0 @@
-sci_bb2flsV9_b700_sig:
-  attrs:
-    long_name: sci_bb2flsV9_b700_sig
-    sensor: sci_bb2flsV9_b700_sig
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_bb2flsV9_b700_sig

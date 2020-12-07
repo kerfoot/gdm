@@ -1,7 +1,0 @@
-m_comms_or_gps:
-  attrs:
-    long_name: m_comms_or_gps
-    sensor: m_comms_or_gps
-    units: bool
-  dtype: i1
-  nc_var_name: m_comms_or_gps

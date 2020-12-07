@@ -1,7 +1,0 @@
-u_ocr504R_dark_counts_c4:
-  attrs:
-    long_name: u_ocr504R_dark_counts_c4
-    sensor: u_ocr504R_dark_counts_c4
-    units: nodim
-  dtype: f4
-  nc_var_name: u_ocr504R_dark_counts_c4

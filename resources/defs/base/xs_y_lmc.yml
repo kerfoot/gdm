@@ -1,7 +1,0 @@
-xs_y_lmc:
-  attrs:
-    long_name: xs_y_lmc
-    sensor: xs_y_lmc
-    units: m
-  dtype: f4
-  nc_var_name: xs_y_lmc

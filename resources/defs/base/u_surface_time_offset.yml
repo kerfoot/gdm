@@ -1,7 +1,0 @@
-u_surface_time_offset:
-  attrs:
-    long_name: u_surface_time_offset
-    sensor: u_surface_time_offset
-    units: sec
-  dtype: f4
-  nc_var_name: u_surface_time_offset

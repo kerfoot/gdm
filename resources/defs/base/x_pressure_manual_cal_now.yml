@@ -1,7 +1,0 @@
-x_pressure_manual_cal_now:
-  attrs:
-    long_name: x_pressure_manual_cal_now
-    sensor: x_pressure_manual_cal_now
-    units: bool
-  dtype: i1
-  nc_var_name: x_pressure_manual_cal_now

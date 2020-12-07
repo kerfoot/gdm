@@ -1,7 +1,0 @@
-u_bsipar_dark_offset:
-  attrs:
-    long_name: u_bsipar_dark_offset
-    sensor: u_bsipar_dark_offset
-    units: volts
-  dtype: f4
-  nc_var_name: u_bsipar_dark_offset

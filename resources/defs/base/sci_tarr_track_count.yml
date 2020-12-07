@@ -1,7 +1,0 @@
-sci_tarr_track_count:
-  attrs:
-    long_name: sci_tarr_track_count
-    sensor: sci_tarr_track_count
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_tarr_track_count

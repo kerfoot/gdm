@@ -1,7 +1,0 @@
-xs_pitch:
-  attrs:
-    long_name: xs_pitch
-    sensor: xs_pitch
-    units: rad
-  dtype: f4
-  nc_var_name: xs_pitch

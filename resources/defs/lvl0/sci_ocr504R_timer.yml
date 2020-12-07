@@ -1,7 +1,0 @@
-sci_ocr504R_timer:
-  attrs:
-    long_name: sci_ocr504R_timer
-    sensor: sci_ocr504R_timer
-    units: sec
-  dtype: f4
-  nc_var_name: sci_ocr504R_timer

@@ -1,7 +1,0 @@
-c_moteopd_data_overtime:
-  attrs:
-    long_name: c_moteopd_data_overtime
-    sensor: c_moteopd_data_overtime
-    units: sec
-  dtype: f4
-  nc_var_name: c_moteopd_data_overtime

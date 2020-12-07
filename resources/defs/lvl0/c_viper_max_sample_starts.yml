@@ -1,7 +1,0 @@
-c_viper_max_sample_starts:
-  attrs:
-    long_name: c_viper_max_sample_starts
-    sensor: c_viper_max_sample_starts
-    units: nodim
-  dtype: f4
-  nc_var_name: c_viper_max_sample_starts

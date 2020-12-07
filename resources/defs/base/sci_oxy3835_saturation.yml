@@ -1,7 +1,0 @@
-sci_oxy3835_saturation:
-  attrs:
-    long_name: sci_oxy3835_saturation
-    sensor: sci_oxy3835_saturation
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_oxy3835_saturation

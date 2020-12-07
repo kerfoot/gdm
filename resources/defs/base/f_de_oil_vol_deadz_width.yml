@@ -1,7 +1,0 @@
-f_de_oil_vol_deadz_width:
-  attrs:
-    long_name: f_de_oil_vol_deadz_width
-    sensor: f_de_oil_vol_deadz_width
-    units: cc
-  dtype: f4
-  nc_var_name: f_de_oil_vol_deadz_width

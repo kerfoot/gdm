@@ -1,7 +1,0 @@
-m_fin:
-  attrs:
-    long_name: m_fin
-    sensor: m_fin
-    units: rad
-  dtype: f4
-  nc_var_name: m_fin

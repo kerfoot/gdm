@@ -1,7 +1,0 @@
-x_de_avg_oil_vol_ierr_on_descent:
-  attrs:
-    long_name: x_de_avg_oil_vol_ierr_on_descent
-    sensor: x_de_avg_oil_vol_ierr_on_descent
-    units: cc
-  dtype: f4
-  nc_var_name: x_de_avg_oil_vol_ierr_on_descent

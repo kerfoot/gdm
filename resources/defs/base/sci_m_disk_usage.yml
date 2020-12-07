@@ -1,7 +1,0 @@
-sci_m_disk_usage:
-  attrs:
-    long_name: sci_m_disk_usage
-    sensor: sci_m_disk_usage
-    units: Mbytes
-  dtype: f4
-  nc_var_name: sci_m_disk_usage

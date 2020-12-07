@@ -1,7 +1,0 @@
-m_avg_yo_time:
-  attrs:
-    long_name: m_avg_yo_time
-    sensor: m_avg_yo_time
-    units: sec
-  dtype: f4
-  nc_var_name: m_avg_yo_time

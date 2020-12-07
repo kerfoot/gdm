@@ -1,7 +1,0 @@
-u_pinger_rep_rate:
-  attrs:
-    long_name: u_pinger_rep_rate
-    sensor: u_pinger_rep_rate
-    units: sec
-  dtype: f4
-  nc_var_name: u_pinger_rep_rate

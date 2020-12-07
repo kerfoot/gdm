@@ -1,7 +1,0 @@
-c_bam_on:
-  attrs:
-    long_name: c_bam_on
-    sensor: c_bam_on
-    units: sec
-  dtype: f4
-  nc_var_name: c_bam_on

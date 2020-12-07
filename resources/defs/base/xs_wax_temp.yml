@@ -1,7 +1,0 @@
-xs_wax_temp:
-  attrs:
-    long_name: xs_wax_temp
-    sensor: xs_wax_temp
-    units: degC
-  dtype: f4
-  nc_var_name: xs_wax_temp

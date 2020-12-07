@@ -1,7 +1,0 @@
-x_dr_state:
-  attrs:
-    long_name: x_dr_state
-    sensor: x_dr_state
-    units: enum
-  dtype: i1
-  nc_var_name: x_dr_state

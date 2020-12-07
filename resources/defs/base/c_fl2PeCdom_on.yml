@@ -1,7 +1,0 @@
-c_fl2PeCdom_on:
-  attrs:
-    long_name: c_fl2PeCdom_on
-    sensor: c_fl2PeCdom_on
-    units: sec
-  dtype: f4
-  nc_var_name: c_fl2PeCdom_on

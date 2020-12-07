@@ -1,7 +1,0 @@
-u_vacuum_cal_m:
-  attrs:
-    long_name: u_vacuum_cal_m
-    sensor: u_vacuum_cal_m
-    units: inHg/Volt
-  dtype: f4
-  nc_var_name: u_vacuum_cal_m

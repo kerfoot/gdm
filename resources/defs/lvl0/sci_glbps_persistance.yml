@@ -1,7 +1,0 @@
-sci_glbps_persistance:
-  attrs:
-    long_name: sci_glbps_persistance
-    sensor: sci_glbps_persistance
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_glbps_persistance

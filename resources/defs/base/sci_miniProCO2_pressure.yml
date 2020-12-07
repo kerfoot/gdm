@@ -1,7 +1,0 @@
-sci_miniProCO2_pressure:
-  attrs:
-    long_name: sci_miniProCO2_pressure
-    sensor: sci_miniProCO2_pressure
-    units: mbar
-  dtype: f4
-  nc_var_name: sci_miniProCO2_pressure

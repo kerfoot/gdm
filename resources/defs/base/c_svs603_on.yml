@@ -1,7 +1,0 @@
-c_svs603_on:
-  attrs:
-    long_name: c_svs603_on
-    sensor: c_svs603_on
-    units: sec
-  dtype: f4
-  nc_var_name: c_svs603_on

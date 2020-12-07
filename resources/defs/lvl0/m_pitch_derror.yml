@@ -1,7 +1,0 @@
-m_pitch_derror:
-  attrs:
-    long_name: m_pitch_derror
-    sensor: m_pitch_derror
-    units: rad/s
-  dtype: f4
-  nc_var_name: m_pitch_derror

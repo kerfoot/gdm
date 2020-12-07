@@ -1,7 +1,0 @@
-m_climb_tot_time:
-  attrs:
-    long_name: m_climb_tot_time
-    sensor: m_climb_tot_time
-    units: s
-  dtype: f4
-  nc_var_name: m_climb_tot_time

@@ -1,7 +1,0 @@
-c_ctd41cp2_on:
-  attrs:
-    long_name: c_ctd41cp2_on
-    sensor: c_ctd41cp2_on
-    units: sec
-  dtype: f4
-  nc_var_name: c_ctd41cp2_on

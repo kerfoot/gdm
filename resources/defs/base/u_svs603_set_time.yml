@@ -1,7 +1,0 @@
-u_svs603_set_time:
-  attrs:
-    long_name: u_svs603_set_time
-    sensor: u_svs603_set_time
-    units: bool
-  dtype: i1
-  nc_var_name: u_svs603_set_time

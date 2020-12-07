@@ -1,7 +1,0 @@
-sci_bb2c_beta532:
-  attrs:
-    long_name: sci_bb2c_beta532
-    sensor: sci_bb2c_beta532
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_bb2c_beta532

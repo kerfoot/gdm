@@ -1,7 +1,0 @@
-m_surface_est_gps:
-  attrs:
-    long_name: m_surface_est_gps
-    sensor: m_surface_est_gps
-    units: nodim
-  dtype: f4
-  nc_var_name: m_surface_est_gps

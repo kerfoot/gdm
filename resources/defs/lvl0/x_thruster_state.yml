@@ -1,7 +1,0 @@
-x_thruster_state:
-  attrs:
-    long_name: x_thruster_state
-    sensor: x_thruster_state
-    units: enum
-  dtype: i1
-  nc_var_name: x_thruster_state

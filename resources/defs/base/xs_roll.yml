@@ -1,7 +1,0 @@
-xs_roll:
-  attrs:
-    long_name: xs_roll
-    sensor: xs_roll
-    units: rad
-  dtype: f4
-  nc_var_name: xs_roll

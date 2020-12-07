@@ -1,7 +1,0 @@
-c_thruster_on_avg:
-  attrs:
-    long_name: c_thruster_on_avg
-    sensor: c_thruster_on_avg
-    units: '%'
-  dtype: f4
-  nc_var_name: c_thruster_on_avg

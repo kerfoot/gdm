@@ -1,7 +1,0 @@
-sci_viper_collecting:
-  attrs:
-    long_name: sci_viper_collecting
-    sensor: sci_viper_collecting
-    units: bool
-  dtype: i1
-  nc_var_name: sci_viper_collecting

@@ -1,7 +1,0 @@
-x_battpos_max:
-  attrs:
-    long_name: x_battpos_max
-    sensor: x_battpos_max
-    units: in
-  dtype: f4
-  nc_var_name: x_battpos_max

@@ -1,7 +1,0 @@
-u_max_water_depth_lifetime:
-  attrs:
-    long_name: u_max_water_depth_lifetime
-    sensor: u_max_water_depth_lifetime
-    units: yos
-  dtype: f4
-  nc_var_name: u_max_water_depth_lifetime

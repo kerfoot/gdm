@@ -1,7 +1,0 @@
-m_digifin_resp_data:
-  attrs:
-    long_name: m_digifin_resp_data
-    sensor: m_digifin_resp_data
-    units: nodim
-  dtype: f4
-  nc_var_name: m_digifin_resp_data

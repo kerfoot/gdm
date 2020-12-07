@@ -1,7 +1,0 @@
-u_comatose_deadband_mult:
-  attrs:
-    long_name: u_comatose_deadband_mult
-    sensor: u_comatose_deadband_mult
-    units: nodim
-  dtype: f4
-  nc_var_name: u_comatose_deadband_mult

@@ -1,7 +1,0 @@
-c_tarr_on:
-  attrs:
-    long_name: c_tarr_on
-    sensor: c_tarr_on
-    units: sec
-  dtype: f4
-  nc_var_name: c_tarr_on

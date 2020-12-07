@@ -1,7 +1,0 @@
-sci_pCO2_dphase:
-  attrs:
-    long_name: sci_pCO2_dphase
-    sensor: sci_pCO2_dphase
-    units: deg
-  dtype: f4
-  nc_var_name: sci_pCO2_dphase

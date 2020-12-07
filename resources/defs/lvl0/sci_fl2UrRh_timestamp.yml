@@ -1,7 +1,0 @@
-sci_fl2UrRh_timestamp:
-  attrs:
-    long_name: sci_fl2UrRh_timestamp
-    sensor: sci_fl2UrRh_timestamp
-    units: timestamp
-  dtype: f8
-  nc_var_name: sci_fl2UrRh_timestamp

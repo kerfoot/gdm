@@ -1,7 +1,0 @@
-m_gps_uncertainty:
-  attrs:
-    long_name: m_gps_uncertainty
-    sensor: m_gps_uncertainty
-    units: nodim
-  dtype: f4
-  nc_var_name: m_gps_uncertainty

@@ -1,7 +1,0 @@
-u_fl3slo_phyco_cwo:
-  attrs:
-    long_name: u_fl3slo_phyco_cwo
-    sensor: u_fl3slo_phyco_cwo
-    units: nodim
-  dtype: f4
-  nc_var_name: u_fl3slo_phyco_cwo

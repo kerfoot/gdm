@@ -1,7 +1,0 @@
-f_altimeter_model:
-  attrs:
-    long_name: f_altimeter_model
-    sensor: f_altimeter_model
-    units: enum
-  dtype: i1
-  nc_var_name: f_altimeter_model

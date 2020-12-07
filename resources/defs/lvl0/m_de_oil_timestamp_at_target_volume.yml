@@ -1,7 +1,0 @@
-m_de_oil_timestamp_at_target_volume:
-  attrs:
-    long_name: m_de_oil_timestamp_at_target_volume
-    sensor: m_de_oil_timestamp_at_target_volume
-    units: ms
-  dtype: f4
-  nc_var_name: m_de_oil_timestamp_at_target_volume

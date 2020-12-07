@@ -1,7 +1,0 @@
-u_miniProCO2_power_up_wait:
-  attrs:
-    long_name: u_miniProCO2_power_up_wait
-    sensor: u_miniProCO2_power_up_wait
-    units: sec
-  dtype: f4
-  nc_var_name: u_miniProCO2_power_up_wait

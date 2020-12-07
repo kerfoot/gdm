@@ -1,7 +1,0 @@
-u_bb3slo_b532_do:
-  attrs:
-    long_name: u_bb3slo_b532_do
-    sensor: u_bb3slo_b532_do
-    units: nodim
-  dtype: f4
-  nc_var_name: u_bb3slo_b532_do

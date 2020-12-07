@@ -1,7 +1,0 @@
-u_motor_fs_travel_mult:
-  attrs:
-    long_name: u_motor_fs_travel_mult
-    sensor: u_motor_fs_travel_mult
-    units: nodim
-  dtype: f4
-  nc_var_name: u_motor_fs_travel_mult

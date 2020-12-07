@@ -1,7 +1,0 @@
-f_motor_analyze_deadband:
-  attrs:
-    long_name: f_motor_analyze_deadband
-    sensor: f_motor_analyze_deadband
-    units: nodim
-  dtype: f4
-  nc_var_name: f_motor_analyze_deadband

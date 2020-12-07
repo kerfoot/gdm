@@ -1,7 +1,0 @@
-u_min_thruster_abort_ascent_rate:
-  attrs:
-    long_name: u_min_thruster_abort_ascent_rate
-    sensor: u_min_thruster_abort_ascent_rate
-    units: m/s
-  dtype: f4
-  nc_var_name: u_min_thruster_abort_ascent_rate

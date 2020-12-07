@@ -1,7 +1,0 @@
-f_de_oil_vol_pot_voltage_max:
-  attrs:
-    long_name: f_de_oil_vol_pot_voltage_max
-    sensor: f_de_oil_vol_pot_voltage_max
-    units: volts
-  dtype: f4
-  nc_var_name: f_de_oil_vol_pot_voltage_max

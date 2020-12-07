@@ -1,7 +1,0 @@
-m_valve_close_time:
-  attrs:
-    long_name: m_valve_close_time
-    sensor: m_valve_close_time
-    units: sec
-  dtype: f4
-  nc_var_name: m_valve_close_time

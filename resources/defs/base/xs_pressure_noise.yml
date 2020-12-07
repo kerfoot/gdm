@@ -1,7 +1,0 @@
-xs_pressure_noise:
-  attrs:
-    long_name: xs_pressure_noise
-    sensor: xs_pressure_noise
-    units: bar
-  dtype: f4
-  nc_var_name: xs_pressure_noise

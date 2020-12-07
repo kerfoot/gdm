@@ -1,7 +1,0 @@
-f_fluid_pumped_deadzone_width:
-  attrs:
-    long_name: f_fluid_pumped_deadzone_width
-    sensor: f_fluid_pumped_deadzone_width
-    units: cc
-  dtype: f4
-  nc_var_name: f_fluid_pumped_deadzone_width

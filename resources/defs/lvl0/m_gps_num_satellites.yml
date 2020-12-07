@@ -1,7 +1,0 @@
-m_gps_num_satellites:
-  attrs:
-    long_name: m_gps_num_satellites
-    sensor: m_gps_num_satellites
-    units: nodim
-  dtype: f4
-  nc_var_name: m_gps_num_satellites

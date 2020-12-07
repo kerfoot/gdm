@@ -1,7 +1,0 @@
-sci_moteopd_corr5:
-  attrs:
-    long_name: sci_moteopd_corr5
-    sensor: sci_moteopd_corr5
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_moteopd_corr5

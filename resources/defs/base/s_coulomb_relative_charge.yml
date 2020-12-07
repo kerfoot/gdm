@@ -1,7 +1,0 @@
-s_coulomb_relative_charge:
-  attrs:
-    long_name: s_coulomb_relative_charge
-    sensor: s_coulomb_relative_charge
-    units: '%'
-  dtype: f4
-  nc_var_name: s_coulomb_relative_charge

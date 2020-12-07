@@ -1,7 +1,0 @@
-sci_sbmb_hw_ver:
-  attrs:
-    long_name: sci_sbmb_hw_ver
-    sensor: sci_sbmb_hw_ver
-    units: enum
-  dtype: i1
-  nc_var_name: sci_sbmb_hw_ver

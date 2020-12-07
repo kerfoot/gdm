@@ -1,7 +1,0 @@
-m_thruster_raw:
-  attrs:
-    long_name: m_thruster_raw
-    sensor: m_thruster_raw
-    units: int
-  dtype: f4
-  nc_var_name: m_thruster_raw

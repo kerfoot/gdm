@@ -1,7 +1,0 @@
-m_thruster_est_speed:
-  attrs:
-    long_name: m_thruster_est_speed
-    sensor: m_thruster_est_speed
-    units: m/s
-  dtype: f4
-  nc_var_name: m_thruster_est_speed

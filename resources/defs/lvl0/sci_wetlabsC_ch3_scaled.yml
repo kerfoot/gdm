@@ -1,7 +1,0 @@
-sci_wetlabsC_ch3_scaled:
-  attrs:
-    long_name: sci_wetlabsC_ch3_scaled
-    sensor: sci_wetlabsC_ch3_scaled
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_wetlabsC_ch3_scaled

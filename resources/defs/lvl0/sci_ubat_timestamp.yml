@@ -1,7 +1,0 @@
-sci_ubat_timestamp:
-  attrs:
-    long_name: sci_ubat_timestamp
-    sensor: sci_ubat_timestamp
-    units: timestamp
-  dtype: f8
-  nc_var_name: sci_ubat_timestamp

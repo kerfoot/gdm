@@ -1,7 +1,0 @@
-m_bms_status:
-  attrs:
-    long_name: m_bms_status
-    sensor: m_bms_status
-    units: nodim
-  dtype: f4
-  nc_var_name: m_bms_status

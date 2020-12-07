@@ -1,7 +1,0 @@
-u_battroll_micropos_wp:
-  attrs:
-    long_name: u_battroll_micropos_wp
-    sensor: u_battroll_micropos_wp
-    units: nodim
-  dtype: f4
-  nc_var_name: u_battroll_micropos_wp

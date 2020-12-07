@@ -1,7 +1,0 @@
-x_climb_speed_slow:
-  attrs:
-    long_name: x_climb_speed_slow
-    sensor: x_climb_speed_slow
-    units: m/s
-  dtype: f4
-  nc_var_name: x_climb_speed_slow

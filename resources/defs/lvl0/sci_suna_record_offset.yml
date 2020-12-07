@@ -1,7 +1,0 @@
-sci_suna_record_offset:
-  attrs:
-    long_name: sci_suna_record_offset
-    sensor: sci_suna_record_offset
-    units: bytes
-  dtype: f4
-  nc_var_name: sci_suna_record_offset

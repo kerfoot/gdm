@@ -1,7 +1,0 @@
-m_inflection_max_depth:
-  attrs:
-    long_name: m_inflection_max_depth
-    sensor: m_inflection_max_depth
-    units: m
-  dtype: f4
-  nc_var_name: m_inflection_max_depth

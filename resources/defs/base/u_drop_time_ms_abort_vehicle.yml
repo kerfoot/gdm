@@ -1,7 +1,0 @@
-u_drop_time_ms_abort_vehicle:
-  attrs:
-    long_name: u_drop_time_ms_abort_vehicle
-    sensor: u_drop_time_ms_abort_vehicle
-    units: bool
-  dtype: i1
-  nc_var_name: u_drop_time_ms_abort_vehicle

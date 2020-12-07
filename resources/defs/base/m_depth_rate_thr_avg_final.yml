@@ -1,7 +1,0 @@
-m_depth_rate_thr_avg_final:
-  attrs:
-    long_name: m_depth_rate_thr_avg_final
-    sensor: m_depth_rate_thr_avg_final
-    units: m/s
-  dtype: f4
-  nc_var_name: m_depth_rate_thr_avg_final

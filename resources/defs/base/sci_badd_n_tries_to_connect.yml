@@ -1,7 +1,0 @@
-sci_badd_n_tries_to_connect:
-  attrs:
-    long_name: sci_badd_n_tries_to_connect
-    sensor: sci_badd_n_tries_to_connect
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_badd_n_tries_to_connect

@@ -1,7 +1,0 @@
-c_lithium_battery_on:
-  attrs:
-    long_name: c_lithium_battery_on
-    sensor: c_lithium_battery_on
-    units: sec
-  dtype: f4
-  nc_var_name: c_lithium_battery_on

@@ -1,7 +1,0 @@
-m_gps_utc_minute:
-  attrs:
-    long_name: m_gps_utc_minute
-    sensor: m_gps_utc_minute
-    units: byte
-  dtype: i1
-  nc_var_name: m_gps_utc_minute

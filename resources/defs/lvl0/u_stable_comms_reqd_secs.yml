@@ -1,7 +1,0 @@
-u_stable_comms_reqd_secs:
-  attrs:
-    long_name: u_stable_comms_reqd_secs
-    sensor: u_stable_comms_reqd_secs
-    units: sec
-  dtype: f4
-  nc_var_name: u_stable_comms_reqd_secs

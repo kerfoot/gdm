@@ -1,7 +1,0 @@
-sci_ocr504I_Vin:
-  attrs:
-    long_name: sci_ocr504I_Vin
-    sensor: sci_ocr504I_Vin
-    units: volts
-  dtype: f4
-  nc_var_name: sci_ocr504I_Vin

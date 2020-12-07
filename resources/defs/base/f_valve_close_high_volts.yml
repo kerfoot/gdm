@@ -1,7 +1,0 @@
-f_valve_close_high_volts:
-  attrs:
-    long_name: f_valve_close_high_volts
-    sensor: f_valve_close_high_volts
-    units: volts
-  dtype: f4
-  nc_var_name: f_valve_close_high_volts

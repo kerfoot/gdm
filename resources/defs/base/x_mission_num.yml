@@ -1,7 +1,0 @@
-x_mission_num:
-  attrs:
-    long_name: x_mission_num
-    sensor: x_mission_num
-    units: nodim
-  dtype: f4
-  nc_var_name: x_mission_num

@@ -1,7 +1,0 @@
-u_deep_pitch_surface_zero:
-  attrs:
-    long_name: u_deep_pitch_surface_zero
-    sensor: u_deep_pitch_surface_zero
-    units: bool
-  dtype: i1
-  nc_var_name: u_deep_pitch_surface_zero

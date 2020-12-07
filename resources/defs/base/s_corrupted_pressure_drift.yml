@@ -1,7 +1,0 @@
-s_corrupted_pressure_drift:
-  attrs:
-    long_name: s_corrupted_pressure_drift
-    sensor: s_corrupted_pressure_drift
-    units: bool
-  dtype: i1
-  nc_var_name: s_corrupted_pressure_drift

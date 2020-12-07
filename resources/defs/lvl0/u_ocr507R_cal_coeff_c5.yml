@@ -1,7 +1,0 @@
-u_ocr507R_cal_coeff_c5:
-  attrs:
-    long_name: u_ocr507R_cal_coeff_c5
-    sensor: u_ocr507R_cal_coeff_c5
-    units: Tnodim
-  dtype: f4
-  nc_var_name: u_ocr507R_cal_coeff_c5

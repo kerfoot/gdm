@@ -1,7 +1,0 @@
-u_att_consecutive_error_max:
-  attrs:
-    long_name: u_att_consecutive_error_max
-    sensor: u_att_consecutive_error_max
-    units: nodim
-  dtype: f4
-  nc_var_name: u_att_consecutive_error_max

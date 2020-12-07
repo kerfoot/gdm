@@ -1,7 +1,0 @@
-m_mission_start_time:
-  attrs:
-    long_name: m_mission_start_time
-    sensor: m_mission_start_time
-    units: timestamp
-  dtype: f8
-  nc_var_name: m_mission_start_time

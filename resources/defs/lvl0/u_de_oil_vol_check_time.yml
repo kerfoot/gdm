@@ -1,7 +1,0 @@
-u_de_oil_vol_check_time:
-  attrs:
-    long_name: u_de_oil_vol_check_time
-    sensor: u_de_oil_vol_check_time
-    units: sec
-  dtype: f4
-  nc_var_name: u_de_oil_vol_check_time

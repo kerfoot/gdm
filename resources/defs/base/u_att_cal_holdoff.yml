@@ -1,7 +1,0 @@
-u_att_cal_holdoff:
-  attrs:
-    long_name: u_att_cal_holdoff
-    sensor: u_att_cal_holdoff
-    units: sec
-  dtype: f4
-  nc_var_name: u_att_cal_holdoff

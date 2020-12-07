@@ -1,7 +1,0 @@
-u_always_cop_tickle_hardware:
-  attrs:
-    long_name: u_always_cop_tickle_hardware
-    sensor: u_always_cop_tickle_hardware
-    units: bool
-  dtype: i1
-  nc_var_name: u_always_cop_tickle_hardware

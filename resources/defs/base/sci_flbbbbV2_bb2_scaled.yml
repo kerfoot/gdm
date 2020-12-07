@@ -1,7 +1,0 @@
-sci_flbbbbV2_bb2_scaled:
-  attrs:
-    long_name: sci_flbbbbV2_bb2_scaled
-    sensor: sci_flbbbbV2_bb2_scaled
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_flbbbbV2_bb2_scaled

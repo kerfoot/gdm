@@ -1,7 +1,0 @@
-c_vr2c_on:
-  attrs:
-    long_name: c_vr2c_on
-    sensor: c_vr2c_on
-    units: sec
-  dtype: f4
-  nc_var_name: c_vr2c_on

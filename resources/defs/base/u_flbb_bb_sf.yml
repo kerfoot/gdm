@@ -1,7 +1,0 @@
-u_flbb_bb_sf:
-  attrs:
-    long_name: u_flbb_bb_sf
-    sensor: u_flbb_bb_sf
-    units: Mnodim
-  dtype: f4
-  nc_var_name: u_flbb_bb_sf

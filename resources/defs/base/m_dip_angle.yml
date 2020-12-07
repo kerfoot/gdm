@@ -1,7 +1,0 @@
-m_dip_angle:
-  attrs:
-    long_name: m_dip_angle
-    sensor: m_dip_angle
-    units: rad
-  dtype: f4
-  nc_var_name: m_dip_angle

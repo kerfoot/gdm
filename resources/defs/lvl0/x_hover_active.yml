@@ -1,7 +1,0 @@
-x_hover_active:
-  attrs:
-    long_name: x_hover_active
-    sensor: x_hover_active
-    units: bool
-  dtype: i1
-  nc_var_name: x_hover_active

@@ -1,7 +1,0 @@
-sci_sbe41n_ph_electrode_current:
-  attrs:
-    long_name: sci_sbe41n_ph_electrode_current
-    sensor: sci_sbe41n_ph_electrode_current
-    units: amps
-  dtype: f4
-  nc_var_name: sci_sbe41n_ph_electrode_current

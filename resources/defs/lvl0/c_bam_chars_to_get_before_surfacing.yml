@@ -1,7 +1,0 @@
-c_bam_chars_to_get_before_surfacing:
-  attrs:
-    long_name: c_bam_chars_to_get_before_surfacing
-    sensor: c_bam_chars_to_get_before_surfacing
-    units: nodim
-  dtype: f4
-  nc_var_name: c_bam_chars_to_get_before_surfacing

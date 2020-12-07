@@ -1,7 +1,0 @@
-sci_ocr507R_cksum:
-  attrs:
-    long_name: sci_ocr507R_cksum
-    sensor: sci_ocr507R_cksum
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_ocr507R_cksum

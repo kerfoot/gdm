@@ -1,7 +1,0 @@
-f_pitch_battpos_cal_m:
-  attrs:
-    long_name: f_pitch_battpos_cal_m
-    sensor: f_pitch_battpos_cal_m
-    units: rad/in
-  dtype: f4
-  nc_var_name: f_pitch_battpos_cal_m

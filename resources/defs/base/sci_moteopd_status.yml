@@ -1,7 +1,0 @@
-sci_moteopd_status:
-  attrs:
-    long_name: sci_moteopd_status
-    sensor: sci_moteopd_status
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_moteopd_status

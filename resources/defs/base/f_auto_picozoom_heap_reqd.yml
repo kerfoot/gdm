@@ -1,7 +1,0 @@
-f_auto_picozoom_heap_reqd:
-  attrs:
-    long_name: f_auto_picozoom_heap_reqd
-    sensor: f_auto_picozoom_heap_reqd
-    units: bytes
-  dtype: f4
-  nc_var_name: f_auto_picozoom_heap_reqd

@@ -1,7 +1,0 @@
-c_iridium_no_char_timeout:
-  attrs:
-    long_name: c_iridium_no_char_timeout
-    sensor: c_iridium_no_char_timeout
-    units: mins
-  dtype: f4
-  nc_var_name: c_iridium_no_char_timeout

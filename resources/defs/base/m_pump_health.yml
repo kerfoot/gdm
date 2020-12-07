@@ -1,7 +1,0 @@
-m_pump_health:
-  attrs:
-    long_name: m_pump_health
-    sensor: m_pump_health
-    units: '%'
-  dtype: f4
-  nc_var_name: m_pump_health

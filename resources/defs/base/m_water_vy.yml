@@ -1,7 +1,0 @@
-m_water_vy:
-  attrs:
-    long_name: m_water_vy
-    sensor: m_water_vy
-    units: m/s
-  dtype: f4
-  nc_var_name: m_water_vy

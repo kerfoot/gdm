@@ -1,7 +1,0 @@
-u_vsf_150_sf:
-  attrs:
-    long_name: u_vsf_150_sf
-    sensor: u_vsf_150_sf
-    units: Mnodim
-  dtype: f4
-  nc_var_name: u_vsf_150_sf

@@ -1,7 +1,0 @@
-x_inflecting:
-  attrs:
-    long_name: x_inflecting
-    sensor: x_inflecting
-    units: bool
-  dtype: i1
-  nc_var_name: x_inflecting

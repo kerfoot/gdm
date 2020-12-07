@@ -1,7 +1,0 @@
-dhs_gain:
-  attrs:
-    long_name: dhs_gain
-    sensor: dhs_gain
-    units: dB
-  dtype: f4
-  nc_var_name: dhs_gain

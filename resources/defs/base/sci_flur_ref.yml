@@ -1,7 +1,0 @@
-sci_flur_ref:
-  attrs:
-    long_name: sci_flur_ref
-    sensor: sci_flur_ref
-    units: nodim
-  dtype: f4
-  nc_var_name: sci_flur_ref

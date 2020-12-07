@@ -1,7 +1,0 @@
-u_speed_delta:
-  attrs:
-    long_name: u_speed_delta
-    sensor: u_speed_delta
-    units: m/s
-  dtype: f4
-  nc_var_name: u_speed_delta

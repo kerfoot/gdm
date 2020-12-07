@@ -1,7 +1,0 @@
-c_badd_input_parse_secs:
-  attrs:
-    long_name: c_badd_input_parse_secs
-    sensor: c_badd_input_parse_secs
-    units: sec
-  dtype: f4
-  nc_var_name: c_badd_input_parse_secs

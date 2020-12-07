@@ -1,7 +1,0 @@
-c_veh_temp_time:
-  attrs:
-    long_name: c_veh_temp_time
-    sensor: c_veh_temp_time
-    units: s
-  dtype: f4
-  nc_var_name: c_veh_temp_time

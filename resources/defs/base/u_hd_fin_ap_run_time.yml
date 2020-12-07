@@ -1,7 +1,0 @@
-u_hd_fin_ap_run_time:
-  attrs:
-    long_name: u_hd_fin_ap_run_time
-    sensor: u_hd_fin_ap_run_time
-    units: secs
-  dtype: f4
-  nc_var_name: u_hd_fin_ap_run_time

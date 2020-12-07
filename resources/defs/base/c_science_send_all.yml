@@ -1,7 +1,0 @@
-c_science_send_all:
-  attrs:
-    long_name: c_science_send_all
-    sensor: c_science_send_all
-    units: bool
-  dtype: i1
-  nc_var_name: c_science_send_all

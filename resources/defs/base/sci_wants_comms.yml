@@ -1,7 +1,0 @@
-sci_wants_comms:
-  attrs:
-    long_name: sci_wants_comms
-    sensor: sci_wants_comms
-    units: bool
-  dtype: i1
-  nc_var_name: sci_wants_comms
