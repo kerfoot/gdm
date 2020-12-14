@@ -41,8 +41,8 @@ class GliderDataModel(object):
         self._ds = xr.Dataset()
 
         self._default_encoding = {'zlib': True,
-                            'complevel': 1,
-                            'dtype': 'f8'}
+                                  'complevel': 1,
+                                  'dtype': 'f8'}
         if cfg_dir:
             self.config_path = cfg_dir
 
@@ -121,9 +121,6 @@ class GliderDataModel(object):
 
         self._ds = self._df.to_xarray()
 
-        # Set global attributes on the DataSet
-        self._set_global_attributes()
-
         # Create the platform variable
         self._set_platform()
 
@@ -133,19 +130,22 @@ class GliderDataModel(object):
         # Set the trajectory/deployment
         self._set_trajectory()
 
+        # Set global attributes on the DataSet
+        self._set_global_attributes()
+
         # Rename and add attributes to sensors/variables
         self._finalize_variables(drop_missing=drop_missing)
 
         # Set NetCDF encodings
         self._set_encodings()
 
-        # Set the global featureType attribute
+        # Tie up loose ends
+        self._finish_dataset()
+
+        # Set the global featureType attribute and the title
         self._ds.attrs['featureType'] = 'trajectory'
         self._ds.attrs['title'] = '{:} {:} trajectory'.format(self._config_parameters['deployment']['glider'],
                                                               self._df.index.min().strftime('%Y%m%dT%H%M%SZ'))
-
-        # Tie up loose ends
-        self._finish_dataset()
 
         return self._ds
 
@@ -180,9 +180,6 @@ class GliderDataModel(object):
 
         self._ds = pro_df.to_xarray()
 
-        # Set global attributes on the DataSet
-        self._set_global_attributes()
-
         # Create the platform variable
         self._set_platform()
 
@@ -191,6 +188,9 @@ class GliderDataModel(object):
 
         # Add any configured instrument variables
         self._set_instruments()
+
+        # Set global attributes on the DataSet
+        self._set_global_attributes()
 
         # Set the trajectory/deployment
         self._set_trajectory()
@@ -217,14 +217,14 @@ class GliderDataModel(object):
         # Set NetCDF encodings
         self._set_encodings()
 
-        # Set the global featureType attribute
+        # Tie up loose ends
+        self._finish_dataset()
+
+        # Set the global featureType attribute and the title
         self._ds.attrs['featureType'] = 'trajectoryProfile'
         self._ds.attrs['title'] = '{:} {:} trajectoryProfile'.format(
             self._config_parameters['deployment'].get('glider', 'unknownglider'),
             profile_time.strftime('%Y%m%dT%H%M%SZ'))
-
-        # Tie up loose ends
-        self._finish_dataset()
 
         return self._ds
 
@@ -249,10 +249,10 @@ class GliderDataModel(object):
 
         global_atts = self._config_parameters.get('global_attributes', {}).copy()
 
-        self._add_temporal_geospatial_attributes()
-
         self._logger.debug('Setting global attributes...')
         self._ds.attrs = global_atts
+
+        self._ds.attrs.update(self._add_temporal_geospatial_attributes())
 
     def _set_instruments(self):
         """
@@ -528,24 +528,26 @@ class GliderDataModel(object):
 
         has_required = True
         for required_column in required_columns:
-            if required_column not in self._df:
+            if required_column not in self._ds:
                 self._logger.warning('Missing required column: {:}'.format(required_column))
                 has_required = False
 
         if not has_required:
             self._logger.warning('Cannot create temporal and geospatial attributes')
+            self._logger.warning('Missing one or more required columns')
             return atts
 
-        depths = self._df.depth
+        depths = self._ds.depth
 
-        min_time = self._df.index.min()
-        max_time = self._df.index.max()
-        min_depth = depths.min()
-        max_depth = depths.max()
-        min_lat = self._df.latitude.min()
-        max_lat = self._df.latitude.max()
-        min_lon = self._df.longitude.min()
-        max_lon = self._df.longitude.max()
+        time_index = pd.DatetimeIndex(self._ds.time.values)
+        min_time = time_index.min()
+        max_time = time_index.max()
+        min_depth = np.nanmin(depths)
+        max_depth = np.nanmax(depths)
+        min_lat = np.nanmin(self._ds.ilatitude)
+        max_lat = np.nanmax(self._ds.ilatitude)
+        min_lon = np.nanmin(self._ds.ilongitude)
+        max_lon = np.nanmax(self._ds.ilongitude)
 
         atts['geospatial_bounds'] = geospatial_bounds_wkt(min_lat, max_lat, min_lon, max_lon)
         atts['geospatial_lat_min'] = min_lat
@@ -555,10 +557,10 @@ class GliderDataModel(object):
         atts['geospatial_vertical_min'] = min_depth
         atts['geospatial_vertical_max'] = max_depth
         atts['geospatial_vertical_resolution'] = float(
-            Decimal((depths.max() - depths.min()) / depths.size).quantize(Decimal('0.01')))
+            Decimal((max_depth - min_depth) / depths.size).quantize(Decimal('0.01')))
         atts['time_coverage_duration'] = timedelta_to_iso_duration(max_time - min_time)
         atts['time_coverage_end'] = max_time.strftime('%Y-%m-%dT%H:%M:%SZ')
-        atts['time_coverage_resolution'] = time_index_to_iso_resolution(self._df.index)
+        atts['time_coverage_resolution'] = time_index_to_iso_resolution(time_index)
         atts['time_coverage_start'] = min_time.strftime('%Y-%m-%dT%H:%M:%SZ')
 
         return atts
@@ -567,12 +569,10 @@ class GliderDataModel(object):
         has_data = False
         if not self._df.empty:
             has_data = True
-        has_profiles = False
-        if not self._profiles_meta.empty:
-            has_profiles = True
         is_configured = True
         for config_type, item_type in self._config_parameters.items():
             if not self._config_parameters[config_type]:
                 is_configured = False
                 break
-        return '<GliderNetCDF(cfg={:}, data={:}, profiles={:})>'.format(is_configured, has_data, has_profiles)
+        return '<GliderNetCDF(cfg={:}, data={:}, profiles={:})>'.format(is_configured, has_data,
+                                                                        self._profiles_meta.shape[0])
