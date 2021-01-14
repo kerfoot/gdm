@@ -1,3 +1,4 @@
+# REQUIRED
 glider: ru29
 platform:
   comment: USVI Challenger deployment out of St. Thomas U.S. Virgin Islands
@@ -9,4 +10,5 @@ platform:
   os_version: '8.3'
   type: platform
   wmo_platform_code: '4802960'
+# REQUIRED
 trajectory_name: ru29-20200908T1623

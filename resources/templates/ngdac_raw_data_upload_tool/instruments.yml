@@ -1,13 +1,19 @@
 - attrs:
+    # REQUIRED
     calibration_date: '2019-07-21'
     calibration_report: ' '
     comment: Pumped CTD
+    # REQUIRED
     factory_calibrated: '2019-07-21'
     long_name: CTD
+    # REQUIRED
     make_model: Sea-Bird GPCTD
+    # REQUIRED
     owner: Rutgers University
     platform: platform
+    # REQUIRED
     serial_number: 9104P
+    # REQUIRED
     type: ctd
     user_calibrated: ' '
 - attrs:
