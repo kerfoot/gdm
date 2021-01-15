@@ -1,5 +1,6 @@
 # REQUIRED
 glider: ru29
+# REQUIRED    
 glider_category: slocum  
 platform:
   comment: USVI Challenger deployment out of St. Thomas U.S. Virgin Islands
