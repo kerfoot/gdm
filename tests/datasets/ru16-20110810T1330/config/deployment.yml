@@ -1,0 +1,15 @@
+glider: ru16
+global_attributes:
+  deployment_name: ru16-20110810T1330
+  wmo_platform_code: ' '
+platform:
+  comment: 'Glider was lost at sea'
+  depth_rating: 100m
+  glider_type: 'Teledyne Webb Research Slocum G2 glider'
+  id: ru16
+  instrument: instrument_ctd,instrument_optode
+  long_name: 'Teledyne Webb Research Slocum G2 glider'
+  os_version: 7.2
+  type: platform
+  wmo_platform_code: ' '
+trajectory_name: ru16-20110810T1330

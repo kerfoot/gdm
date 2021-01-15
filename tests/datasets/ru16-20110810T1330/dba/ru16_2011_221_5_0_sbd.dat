@@ -1,0 +1,44 @@
+dbd_label: DBD_ASC(dinkum_binary_data_ascii)file
+encoding_ver: 2
+num_ascii_tags: 14
+all_sensors: 0
+filename: ru16-2011-221-5-0-sf
+the8x3_filename: 00660000
+filename_extension: sbd
+filename_label: ru16-2011-221-5-0-sbd(00660000)
+mission_name: 100_TN.MI
+fileopen_time: Wed_Aug_10_16:27:32_2011
+sensors_per_cycle: 24
+num_label_lines: 3
+num_segments: 1
+segment_filename_0: ru16-2011-221-5-0
+c_heading m_coulomb_amphr m_fin m_final_water_vx m_final_water_vy m_gps_lat m_gps_lon m_gps_status m_heading m_pitch m_present_time m_pressure m_roll m_vacuum m_water_depth sci_m_present_time sci_water_pressure sci_water_cond sci_water_temp sci_ctd41cp_timestamp sci_oxy3835_wphase_oxygen sci_oxy3835_wphase_saturation sci_oxy3835_wphase_temp sci_oxy3835_wphase_dphase 
+rad amp-hrs rad m/s m/s lat lon enum rad rad timestamp bar rad inHg m timestamp bar s/m degc timestamp nodim nodim nodim nodim 
+4 4 4 4 4 8 8 1 4 4 8 4 4 4 4 8 4 4 4 8 4 4 4 4 
+NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 1312993598.66135 NaN NaN NaN NaN 1312993598.66135 0 0 0 0 0 0 0 0 
+4.77012 6.12875 0.00333333 -0.119625 0.0219373 4020.3356 -7353.0477 0 4.55553 0.317727 1312993606.83798 -0.0258888 -0.100867 8.50298 -1 NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN -0.119625 0.0219373 4020.3356 -7353.0477 0 NaN NaN 1312993654.50388 NaN NaN NaN -1 NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN 2 NaN NaN 1312993700.85809 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN 2 NaN NaN 1312993705.85818 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN 2 NaN NaN 1312993710.86804 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN 2 NaN NaN 1312993715.87567 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN 2 NaN NaN 1312993722.41821 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN 2 NaN NaN 1312993727.44629 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN 2 NaN NaN 1312993732.47186 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN 2 NaN NaN 1312993737.48514 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN 2 NaN NaN 1312993742.50772 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN 2 NaN NaN 1312993747.53519 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN 2 NaN NaN 1312993752.56613 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN 1 NaN NaN 1312993757.61829 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN 1 NaN NaN 1312993762.6322 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN 1 NaN NaN 1312993767.65366 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN 1 NaN NaN 1312993772.65964 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN 1 NaN NaN 1312993777.67505 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN 4020.3314 -7353.101 0 NaN NaN 1312993782.68979 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN 4020.3305 -7353.0992 0 NaN NaN 1312993787.80148 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN 4020.3321 -7353.1004 0 NaN NaN 1312993794.0368 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN 4020.3314 -7353.1003 0 NaN NaN 1312993798.90524 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN 4020.3314 -7353.1003 0 NaN NaN 1312993803.74701 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN 4020.3314 -7353.1003 0 NaN NaN 1312993808.70508 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN 4020.3314 -7353.1003 0 NaN NaN 1312993813.89587 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN 6.1575 NaN NaN NaN NaN NaN NaN NaN NaN 1312993954.0932 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 

@@ -1,0 +1,20 @@
+dbd_label: DBD_ASC(dinkum_binary_data_ascii)file
+encoding_ver: 2
+num_ascii_tags: 14
+all_sensors: 0
+filename: ru16-2011-221-4-2-sf
+the8x3_filename: 00650002
+filename_extension: sbd
+filename_label: ru16-2011-221-4-2-sbd(00650002)
+mission_name: 100_TN.MI
+fileopen_time: Wed_Aug_10_15:34:57_2011
+sensors_per_cycle: 24
+num_label_lines: 3
+num_segments: 1
+segment_filename_0: ru16-2011-221-4-2
+c_heading m_coulomb_amphr m_fin m_final_water_vx m_final_water_vy m_gps_lat m_gps_lon m_gps_status m_heading m_pitch m_present_time m_pressure m_roll m_vacuum m_water_depth sci_m_present_time sci_water_pressure sci_water_cond sci_water_temp sci_ctd41cp_timestamp sci_oxy3835_wphase_oxygen sci_oxy3835_wphase_saturation sci_oxy3835_wphase_temp sci_oxy3835_wphase_dphase 
+rad amp-hrs rad m/s m/s lat lon enum rad rad timestamp bar rad inHg m timestamp bar s/m degc timestamp nodim nodim nodim nodim 
+4 4 4 4 4 8 8 1 4 4 8 4 4 4 4 8 4 4 4 8 4 4 4 4 
+NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 1312990442.95917 NaN NaN NaN NaN 1312990442.95917 0 0 0 0 0 0 0 0 
+2.47506 5.95875 0 -0.153168 -0.0227299 4020.4081 -7352.5332 0 2.55668 0.307119 1312990451.61411 -4.2249e-05 -0.0646331 8.5111 -1 NaN NaN NaN NaN NaN NaN NaN NaN NaN 
+NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 1312990451.61411 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN 

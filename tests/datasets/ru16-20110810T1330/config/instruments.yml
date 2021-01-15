@@ -1,0 +1,31 @@
+- attrs:
+    calibration_date: 2011-04-21
+    calibration_report: ""
+    comment: Unpumped
+    deployment: ' '
+    factory_calibrated: 2011-04-21
+    long_name: 'Conductivity, Temperature, Depth (CTD) Sensor'
+    make_model: 'Sea-Bird GPCTD'
+    platform: platform
+    serial_number: 55
+    type: instrument
+    user_calibrated: ""
+  cfg_file: /Users/kerfoot/data/gliders/config/instruments/55-ctd.yml
+  nc_var_name: instrument_ctd
+  type: i4
+- attrs:
+    calibration_date: 2011-08-05
+    calibration_report: ""
+    comment: ""
+    deployment: ' '
+    factory_calibrated: 2011-08-05
+    long_name: 'Oxygen Optode'
+    make_model: 'Aanderaa Oxygen Optode 3830'
+    owner: 'Rutgers University'
+    platform: platform
+    serial_number: 1024
+    type: instrument
+    user_calibrated: ""
+  cfg_file: /Users/kerfoot/data/gliders/config/instruments/1024-optode.yml
+  nc_var_name: instrument_optode
+  type: i4
