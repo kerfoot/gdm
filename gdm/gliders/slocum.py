@@ -39,7 +39,9 @@ slocum_sensor_mappings = {'sci_water_pressure': 'raw_p',
                           'depth': 'raw_z',
                           'salinity': 'raw_s',
                           'density': 'raw_d',
-                          'sci_m_present_time': 'science_time'}
+                          'sci_m_present_time': 'science_time',
+                          'ilatitude': 'ilat',
+                          'ilongitude': 'ilon'}
 
 
 def load_slocum_dba(dba_file, temp_sensor='sci_water_temp', cond_sensor='sci_water_cond', pres_sensor='sci_water_pressure', keep_gld_dups=False):
@@ -399,6 +401,14 @@ def get_dbas(dba_dir, dt0=None, dt1=None):
 
 
 def build_dbas_data_frame(dba_files):
+
+    if not dba_files:
+        logger.warning('No valid dba files specified')
+        return pd.DataFrame([])
+
+    if not isinstance(dba_files, list):
+        dba_files = [dba_files]
+
     dba_records = []
 
     dre = re.compile(r'([^_]+)')
@@ -408,6 +418,9 @@ def build_dbas_data_frame(dba_files):
     for dba_file in dba_files:
 
         header = parse_dba_header(dba_file)
+        if not header:
+            logger.error('Invalid dba file: {:}'.format(dba_file))
+            continue
 
         date_pieces = dre.findall(header['fileopen_time'])
         if not date_pieces:
@@ -457,6 +470,8 @@ def ls_dbas(dba_dir, dt0=None, dt1=None):
         Returns a list of dba files sorted by fileopen_time
     """
 
+    dbas = []
+
     dre = re.compile(r'([^_]+)')
 
     if not os.path.isdir(dba_dir):
@@ -465,14 +480,13 @@ def ls_dbas(dba_dir, dt0=None, dt1=None):
     all_dbas = glob.glob(os.path.join(dba_dir, '*'))
     if not all_dbas:
         logger.warning('No files found')
-        return
+        return dbas
 
     if dt0:
         dt0 = dt0.replace(tzinfo=pytz.UTC)
     if dt1:
         dt1 = dt1.replace(tzinfo=pytz.UTC)
 
-    dbas = []
     for dba_file in all_dbas:
 
         if not os.path.isfile(dba_file):
