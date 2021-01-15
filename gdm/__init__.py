@@ -266,6 +266,9 @@ class GliderDataModel(object):
 
         # Add instruments
         for instrument in self._config_parameters.get('instruments', []):
+            if 'nc_var_name' not in instrument:
+                self._logger.warning('No nc_var_name specified for the instrument')
+                continue
             self._logger.debug('Creating instrument variable {:}'.format(instrument['nc_var_name']))
 
             self._ds[instrument['nc_var_name']] = xr.DataArray(attrs=instrument['attrs'])
@@ -273,6 +276,9 @@ class GliderDataModel(object):
                                                             'dtype': 'i1',
                                                             'complevel': 1,
                                                             'zlib': True}
+
+            # Add the instrument to self._config_parameters['sensor_defs'] so that it is not deleted on export to ds
+            self._config_parameters['sensor_defs'][instrument['nc_var_name']] = {'attrs': instrument['attrs']}
 
     def _set_trajectory(self):
         """
@@ -311,6 +317,7 @@ class GliderDataModel(object):
             self._logger.warning('No dataset available for creating platform variable')
             return
 
+        # Get the deployment.yml contents
         deployment_config = self._config_parameters.get('deployment', {})
         if not deployment_config:
             self._logger.warning('No deployment configuration found. Skipping platform variable creation')
@@ -321,7 +328,11 @@ class GliderDataModel(object):
 
         # Add platform variables
         self._logger.debug('Creating platform variable...')
-        self._ds['platform'] = xr.DataArray(attrs=deployment_config['platform'])
+        platform_atts = deployment_config.get('platform', {})
+        self._ds['platform'] = xr.DataArray(attrs=platform_atts)
+        # Add the platform atts to self._config_parameters['sensor_defs']
+        platform_def = {'attrs': platform_atts, 'type': 'i1', 'nc_var_name': 'platform'}
+        self._config_parameters['sensor_defs']['platform'] = platform_def
         self._ds.platform.encoding = {'_FillValue': default_fillvals['i4'], 'dtype': 'i1', 'complevel': 1, 'zlib': True}
 
     def _set_profile_id(self, timestamp):
@@ -337,7 +348,8 @@ class GliderDataModel(object):
 
         # Add profile_id
         self._logger.debug('Creating profile_id variable...')
-        profile_id_attrs = self._config_parameters['sensor_defs']['profile_id'].get('attrs', {})
+        profile_id_def = self._config_parameters['sensor_defs'].get('profile_id', {})
+        profile_id_attrs = profile_id_def.get('attrs', {})
         self._ds['profile_id'] = xr.DataArray(timestamp, attrs=profile_id_attrs)
         self._ds.profile_id.encoding = {'_FillValue': default_fillvals['f8'], 'dtype': 'f8', 'complevel': 1,
                                         'zlib': True}
@@ -345,7 +357,8 @@ class GliderDataModel(object):
     def _finalize_variables(self, drop_missing=True):
         """
 
-        :param drop_missing:
+        :param drop_missing: True/False to keep or drop variables with no supplied sensor definition
+                             (self._config_params['sensor_defs'])
         :return:
         """
 
@@ -358,12 +371,14 @@ class GliderDataModel(object):
             return
 
         to_drop = [sensor for sensor in self._ds if sensor not in self._config_parameters['sensor_defs']]
+        # to_drop = [sensor for sensor in to_drop if
+        #            not sensor.startswith('instrument_') and not sensor.startswith('profile_')]
         if drop_missing:
             self._logger.info('Dropping {:} undefined sensors/variables from Dataset'.format(len(to_drop)))
             if to_drop:
                 self._ds = self._ds.drop_vars(to_drop, errors='ignore')
                 for bad_var in to_drop:
-                    self._logger.debug('Dropped variable {:}'.format(bad_var))
+                    self._logger.info('Dropped variable {:}'.format(bad_var))
         else:
             self._logger.info('Keeping {:} undefined sensors/variables in Dataset'.format(len(to_drop)))
 
@@ -485,7 +500,10 @@ class GliderDataModel(object):
                 continue
 
             with open(config_path, 'r') as fid:
-                config_params = yaml.safe_load(fid)
+                # yaml.safe_load() converts dates/times to datetime objects which are not serialized by
+                # xarray.to_netcdf(). So we're using yaml.load(fid, Loader=yaml.BaseLoader) which serializes them and
+                # returns strings
+                config_params = yaml.load(fid, Loader=yaml.BaseLoader)
                 config_type = config_file[:-4]
                 self._logger.debug('Configuring {:}: {:}'.format(config_type, config_path))
                 self._config_parameters[config_type] = config_params
