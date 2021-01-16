@@ -5,6 +5,7 @@ import os
 import sys
 import argparse
 import datetime
+from xarray import DataArray
 from gdm import GliderDataModel
 from gdm.gliders.slocum import load_slocum_dba, build_dbas_data_frame
 
@@ -89,6 +90,11 @@ def main(args):
             # Update the source global attribute
             profile_ds.attrs['source'] = dba_file
 
+            # Add the source_file variable
+            source_file_attrs = dba_meta.to_dict(orient='records')[0]
+            source_file_attrs['bytes'] = '{:}'.format(source_file_attrs['bytes'])
+            profile_ds['source_file'] = DataArray(source_file_attrs['filename_label'], attrs=source_file_attrs)
+
             netcdf_path = os.path.join(nc_dest, '{:}.nc'.format(fname))
             logging.info('Writing: {:}'.format(netcdf_path))
             ds.to_netcdf(netcdf_path)
@@ -128,6 +134,11 @@ def main(args):
 
                 # Update the source global attribute
                 profile_ds.attrs['source'] = dba_file
+
+                # Add the source_file variable
+                source_file_attrs = dba_meta.to_dict(orient='records')[0]
+                source_file_attrs['bytes'] = '{:}'.format(source_file_attrs['bytes'])
+                profile_ds['source_file'] = DataArray(source_file_attrs['filename_label'], attrs=source_file_attrs)
 
                 logging.info('Writing: {:}'.format(netcdf_path))
                 profile_ds.to_netcdf(netcdf_path)
