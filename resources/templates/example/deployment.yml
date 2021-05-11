@@ -1,12 +1,43 @@
 glider: ru29
+global_attributes:
+    acknowledgment: Funding and support provided by the G. Unger Vetlesen Foundation with
+      additional support from OCOVI and CARICOOS
+    comment: Deployed by Antonio Farchetti, Kenique Liburd, Dan Mele, Madyson Miller (OCOVI)
+      aboard the Double Header with Capt Matt Driscoll
+    contributor_name: Scott Glenn,Oscar Schofield,Travis Miles,Doug Wilson,Roy Watlington,Chip
+      Haldeman,Nicole Waite,Dave Aragon,John Kerfoot,Laura Nazzaro
+    contributor_role: principalInvestigator,principalInvestigator,principalInvestigator,
+      principalInvestigator,principalInvestigator,principalInvestigator,collaborator,collaborator,
+      collaborator,processor,processor
+    gts_ingest: 'True'
+    ioos_regional_association: MARACOOS
+    program: Challenger
+    project: Challenger
+    sea_name: Caribbean Sea
+    summary: The Challenger Glider Mission is a re-creation of the first global scientific
+      ocean survey conducted by the HMS Challenger from 1872-1876. The goals of the mission
+      are to establish a collaborative international network of autonomous underwater
+      glider ports, to assess global ocean model predictive skill while contributing real-time
+      profile data for assimilation in ocean forecast models by operational centers worldwide,
+      and to crowd source student-based ocean research and discovery. Glider is providingtemperature,
+      conductivity, salinity, density and current profile observations. The current profiles
+      are logged via external pd0 files and are not available in this real-time dataset.
+      RU29 is flying in the vicinity of the Anegada Passage and throughout the surrounding
+      island regions to monitor heat transport between the Caribbean Sea and the Tropical
+      North Atlantic. This region includes the US Virgin Islands, British Virgin Islands,
+      and Anguilla, areas commonly impacted by tropical cyclones. This real-time data
+      set contains CTD, chlorophyll, CDOM, beta700nm and ADCP measurements.
+    wmo_platform_code: '4802960'
+    wmo_id: '4802960'
 platform:
   comment: USVI Challenger deployment out of St. Thomas U.S. Virgin Islands
   depth_rating: 1200m
   glider_type: Teledyne Webb Research Slocum G2 glider
   id: ru29
-  instrument: instrument_ctd,instrument_adcp
+  instruments: ' '
   long_name: ru29 Slocum G2 glider
   os_version: '8.3'
   type: platform
   wmo_platform_code: '4802960'
+  wmo_id: '4802960'
 trajectory_name: ru29-20200908T1623
