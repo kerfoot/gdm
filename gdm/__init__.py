@@ -228,14 +228,14 @@ class GliderDataModel(object):
 
         return self._ds
 
-    def iter_profiles(self):
+    def iter_profiles(self, drop_missing=False):
         """
 
         :return:
         """
 
         for profile_time, row in self._profiles_meta.iterrows():
-            yield profile_time, self.slice_profile_dataset(profile_time)
+            yield profile_time, self.slice_profile_dataset(profile_time, drop_missing=drop_missing)
 
     def _set_global_attributes(self):
         """
@@ -385,6 +385,7 @@ class GliderDataModel(object):
         # Rename variables and update attributes
         rename_mappings = {}
         for v in self._ds.variables:
+
             if v.startswith('instrument_'):
                 # Skip instrument variables as they and their attributes are found in the instruments.yml config file
                 continue
@@ -508,13 +509,19 @@ class GliderDataModel(object):
                 self._logger.debug('Configuring {:}: {:}'.format(config_type, config_path))
                 self._config_parameters[config_type] = config_params
 
+        # Slocum glider names sensors in all lowercase letters despite the fact that masterdata has some sensors that
+        # contain capital letters. So we need to lowercase the keys in self._config_params['sensor_defs']
+        lc_defs = {sensor.lower(): items for sensor, items in self._config_parameters['sensor_defs'].items()}
+        self._config_parameters['sensor_defs'] = lc_defs
+
         # Set up the encoding dictionary.  Create an entry for each sensor name as well as the nc_var_name.  This will
         # allow self._finalize_variables to be called before or after self._set_encodings
         for sensor, sensor_desc in self._config_parameters['sensor_defs'].items():
-            self._encodings[sensor] = self._default_encoding.copy()
-            self._encodings[sensor]['dtype'] = sensor_desc.get('dtype', self._default_encoding['dtype'])
-            if sensor != sensor_desc.get('nc_var_name', sensor):
-                self._encodings[sensor_desc.get('nc_var_name')] = self._encodings[sensor].copy()
+            lc_sensor = sensor.lower()
+            self._encodings[lc_sensor] = self._default_encoding.copy()
+            self._encodings[lc_sensor]['dtype'] = sensor_desc.get('dtype', self._default_encoding['dtype'])
+            if lc_sensor != sensor_desc.get('nc_var_name', lc_sensor):
+                self._encodings[sensor_desc.get('nc_var_name')] = self._encodings[lc_sensor].copy()
 
     def _add_temporal_geospatial_attributes(self):
         atts = {'geospatial_bounds': None,
@@ -584,13 +591,13 @@ class GliderDataModel(object):
         return atts
 
     def __repr__(self):
-        has_data = False
-        if not self._df.empty:
-            has_data = True
+        # has_data = False
+        # if not self._df.empty:
+        #     has_data = True
         is_configured = True
         for config_type, item_type in self._config_parameters.items():
             if not self._config_parameters[config_type]:
                 is_configured = False
                 break
-        return '<GliderNetCDF(cfg={:}, data={:}, profiles={:})>'.format(is_configured, has_data,
+        return '<GliderNetCDF(cfg={:}, data={:}, profiles={:})>'.format(is_configured, self._df.shape,
                                                                         self._profiles_meta.shape[0])
