@@ -6,6 +6,7 @@ import numpy as np
 from gsw import SP_from_C, SA_from_SP, CT_from_t, rho, z_from_p
 from gsw.density import sound_speed
 import logging
+from gdm.utils import calculate_series_rate_of_change
 
 logger = logging.getLogger(__file__)
 
@@ -161,3 +162,23 @@ def calculate_depth(pressure, latitude):
     """
 
     return abs(z_from_p(pressure, latitude))
+
+
+def correct_thermistor_response(temperature, tau=0.2):
+
+    temp_roc = calculate_series_rate_of_change(temperature)
+
+    ftr = tau * temp_roc
+    corrected_temperature = temperature + ftr
+    corrected_temperature.name = 'temperature_ftr_corr'
+
+    ftr = pd.Series(ftr, index=temperature.index, name='finite_thermistor_response')
+
+    return corrected_temperature, ftr
+
+
+def calculate_ctm(ct, alpha, tau):
+
+    ctm = pd.Series()
+
+    return ctm
