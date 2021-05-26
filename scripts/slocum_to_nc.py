@@ -55,6 +55,8 @@ def main(args):
 
     netcdf_count = 0
     for dba_file in dba_files:
+        logging.info('Processing {:}'.format(dba_file))
+
         dba_df, pro_meta = load_slocum_dba(dba_file)
 
         if dba_df.empty:
@@ -73,6 +75,7 @@ def main(args):
             continue
 
         if not profiles:
+            logging.info('Writing time-series...')
             ds = gdm.to_timeseries_dataset(drop_missing=drop_missing)
             fname, ext = os.path.splitext(dba_meta.iloc[0].file)
 
@@ -100,6 +103,7 @@ def main(args):
             ds.to_netcdf(netcdf_path)
             netcdf_count += 1
         else:
+            logging.info('Writing profiles...')
             glider = dba_meta.iloc[0].glider
             dbd_type = dba_meta.iloc[0].filename_extension
             if ngdac:
@@ -107,7 +111,7 @@ def main(args):
                 if dba_meta.iloc[0].filename_extension != 'sbd':
                     dbd_type = 'delayed'
 
-            for profile_time, profile_ds in gdm.iter_profiles():
+            for profile_time, profile_ds in gdm.iter_profiles(drop_missing=drop_missing):
                 netcdf_path = os.path.join(nc_dest,
                                            '{:}_{:}_{:}.nc'.format(glider, profile_time.strftime('%Y%m%dT%H%M%SZ'),
                                                                    dbd_type))
@@ -162,7 +166,7 @@ if __name__ == '__main__':
                             nargs='+')
 
     arg_parser.add_argument('-p', '--profiles',
-                            help='Write individual profile-based NetCDFs',
+                            help='Write profile-based NetCDFs instead of time-series',
                             action='store_true')
 
     arg_parser.add_argument('-d', '--drop',
