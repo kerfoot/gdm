@@ -230,8 +230,12 @@ class GliderDataModel(object):
 
     def iter_profiles(self, drop_missing=False):
         """
+        Iterate through each profile dataset.
+        Parameters:
+        drop_missing: variables not defined in sensor_defs.yml are included in the dataset by default. Set to True
+            to drop undefined variadropped frombles.
 
-        :return:
+        :return: an iterator that returns the next profile midpoint time and profile dataset
         """
 
         for profile_time, row in self._profiles_meta.iterrows():
@@ -325,6 +329,10 @@ class GliderDataModel(object):
         if not deployment_config.get('platform', {}):
             self._logger.warning('No deployment platform configuration found. Skipping platform variable creation')
             return
+
+        # Set up the platform:instruments attribute with the instrument variable names, if there are any
+        deployment_config['platform']['instruments'] = ','.join(
+            [i.get('nc_var_name', '') for i in self._config_parameters['instruments']])
 
         # Add platform variables
         self._logger.debug('Creating platform variable...')
