@@ -358,7 +358,7 @@ class GliderDataModel(object):
         self._logger.debug('Creating profile_id variable...')
         profile_id_def = self._config_parameters['sensor_defs'].get('profile_id', {})
         profile_id_attrs = profile_id_def.get('attrs', {})
-        self._ds['profile_id'] = xr.DataArray(timestamp, attrs=profile_id_attrs)
+        self._ds['profile_id'] = xr.DataArray(int(timestamp.timestamp()), attrs=profile_id_attrs)
         self._ds.profile_id.encoding = {'_FillValue': default_fillvals['f8'], 'dtype': 'f8', 'complevel': 1,
                                         'zlib': True}
 
@@ -517,6 +517,11 @@ class GliderDataModel(object):
                 self._logger.debug('Configuring {:}: {:}'.format(config_type, config_path))
                 self._config_parameters[config_type] = config_params
 
+        # Update global attributes (global_attributes.yml) with any global attributes that are contained in
+        # deployment.yml
+        self._config_parameters['global_attributes'].update(
+            self._config_parameters['deployment'].get('global_attributes', {}))
+
         # Slocum glider names sensors in all lowercase letters despite the fact that masterdata has some sensors that
         # contain capital letters. So we need to lowercase the keys in self._config_params['sensor_defs']
         lc_defs = {sensor.lower(): items for sensor, items in self._config_parameters['sensor_defs'].items()}
@@ -577,10 +582,14 @@ class GliderDataModel(object):
         max_time = time_index.max()
         min_depth = np.nanmin(depths)
         max_depth = np.nanmax(depths)
-        min_lat = np.nanmin(self._ds.ilatitude)
-        max_lat = np.nanmax(self._ds.ilatitude)
-        min_lon = np.nanmin(self._ds.ilongitude)
-        max_lon = np.nanmax(self._ds.ilongitude)
+        # min_lat = np.nanmin(self._ds.ilatitude)
+        # max_lat = np.nanmax(self._ds.ilatitude)
+        # min_lon = np.nanmin(self._ds.ilongitude)
+        # max_lon = np.nanmax(self._ds.ilongitude)
+        min_lat = np.nanmin(self._ds.latitude)
+        max_lat = np.nanmax(self._ds.latitude)
+        min_lon = np.nanmin(self._ds.longitude)
+        max_lon = np.nanmax(self._ds.longitude)
 
         atts['geospatial_bounds'] = geospatial_bounds_wkt(min_lat, max_lat, min_lon, max_lon)
         atts['geospatial_lat_min'] = min_lat
