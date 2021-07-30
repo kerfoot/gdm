@@ -1,5 +1,4 @@
 *.pyc
 .idea
 *.zip
-*.yml
 *examples*
