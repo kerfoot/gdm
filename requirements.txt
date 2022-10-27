@@ -1,0 +1,8 @@
+gsw
+netcdf4
+numpy
+pandas
+scipy
+shapely
+xarray
+yaml
