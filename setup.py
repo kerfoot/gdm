@@ -15,7 +15,7 @@ setup(name='gdm',
             'pandas', 
             'scipy', 
             'shapely', 
-            'yaml', #not available through pip
+            'pyyaml',
             'xarray'
       ],
       zip_safe=False)

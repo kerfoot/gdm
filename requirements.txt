@@ -5,4 +5,4 @@ pandas
 scipy
 shapely
 xarray
-yaml
+pyyaml
