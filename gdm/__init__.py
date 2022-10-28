@@ -450,7 +450,7 @@ class GliderDataModel(object):
             elif self._ds[v].dtype.name.startswith('str'):
                 self._logger.debug('Encoding string variable: {:}'.format(v))
                 # Special encoding case for strings
-                encoding['dtype'] = 'S1'
+                encoding['dtype'] = 'unicode'
             else:
                 self._logger.debug('Encoding numeric variable: {:}'.format(v))
                 # encoding['dtype'] = self._ds[v].attrs.get('dtype', 'f8')

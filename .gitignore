@@ -1,6 +1,5 @@
 *.pyc
 .idea
 *.zip
-*.yml
 *examples*
 *.egg-info
