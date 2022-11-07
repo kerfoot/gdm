@@ -2,3 +2,4 @@
 .idea
 *.zip
 *examples*
+*.egg-info

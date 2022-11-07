@@ -49,7 +49,7 @@ def derive_ctd(c, t, p, lat, lon):
 
     raw_ctd.rename(columns=mappings, inplace=True)
 
-    depth = calculate_depth(raw_ctd.pres, raw_ctd.lat)
+    depth = calculate_depth(raw_ctd.pres.array, raw_ctd.lat.array)
     salinity = calculate_practical_salinity(raw_ctd.cond, raw_ctd.temp, raw_ctd.pres)
     density = calculate_density(raw_ctd.temp, raw_ctd.pres, salinity, raw_ctd.lat, raw_ctd.lon)
     svel = calculate_sound_speed(raw_ctd.temp, raw_ctd.pres, salinity, raw_ctd.lat, raw_ctd.lon)
